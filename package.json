@@ -1,0 +1,20 @@
+{
+  "name": "data",
+  "version": "1.0.0",
+  "description": "用于汉字自动拆分的数据库",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "reload": "node reload.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@lanluoxiao:hanzi-chai/data.git"
+  },
+  "author": "lanluoxiao",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "js-yaml": "^3.14.0"
+  }
+}

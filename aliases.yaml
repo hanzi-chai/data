@@ -1,0 +1,229 @@
+丰变: {source: 邦, indexList: [0, 1, 2, 3]}
+临左: {source: 临, indexList: [0, 1]}
+举下: {source: 举, indexList: [6, 7, 8]}
+义下: {source: 义, indexList: [1, 2]}
+予上: {source: 予, indexList: [0, 1]}
+亏下: {source: 亏, indexList: [1, 2]}
+享上: {source: 享, indexList: [0, 1, 2, 3, 4]}
+候角: {source: 候, indexList: [3, 4]}
+假角: {source: 假, indexList: [7, 8]}
+假右: {source: 假, indexList: [2, 3, 4, 5, 6, 7, 8, 9, 10]}
+充上: {source: 充, indexList: [0, 1, 2, 3]}
+养上: {source: 养, indexList: [0, 1, 2, 3, 4, 5, 6]}
+冒上: {source: 冒, indexList: [0, 1, 2, 3]}
+冬下: {source: 冬, indexList: [0, 1, 2]}
+函内: {source: 函, indexList: [0, 1, 2, 3, 4, 5]}
+制左: {source: 制, indexList: [0, 1, 2, 3, 4, 5]}
+前上: {source: 前, indexList: [0, 1, 2]}
+化右: {source: 化, indexList: [2, 3]}
+北左: {source: 北, indexList: [0, 1, 2]}
+半竹: {source: 临, indexList: [2, 3, 4]}
+半变: {source: 判, indexList: [0, 1, 2, 3, 4]}
+卖上: {source: 卖, indexList: [0, 1, 2]}
+南外: {source: 南, indexList: [0, 1, 2, 3]}
+南内: {source: 南, indexList: [4, 5, 6, 7, 8]}
+占上: {source: 占, indexList: [0, 1]}
+卣下: {source: 卣, indexList: [2, 3, 4, 5, 6]}
+卯左: {source: 卯, indexList: [0, 1, 2]}
+印左: {source: 印, indexList: [0, 1, 2]}
+即左: {source: 即, indexList: [0, 1, 2, 3, 4]}
+卵右: {source: 卵, indexList: [4, 5, 6]}
+卵左: {source: 卵, indexList: [0, 1, 2, 3]}
+卷下: {source: 仓, indexList: [2, 3]}
+卷上: {source: 卷, indexList: [0, 1, 2, 3, 4, 5]}
+卸左: {source: 卸, indexList: [0, 1, 2, 3, 4, 5, 6]}
+压下: {source: 压, indexList: [2, 3, 4, 5]}
+双折: {source: 丝, indexList: [0, 1]}
+反外: {source: 反, indexList: [0, 1]}
+变上: {source: 变, indexList: [0, 1, 2, 3, 4, 5]}
+叟上: {source: 叟, indexList: [0, 1, 2, 3, 4, 5, 6]}
+后上: {source: 后, indexList: [0, 1, 2]}
+向框: {source: 向, indexList: [0, 1, 2]}
+告上: {source: 告, indexList: [0, 1, 2, 3]}
+周外: {source: 周, indexList: [0, 1]}
+唐中: {source: 唐, indexList: [3, 4, 5, 6]}
+啬上: {source: 啬, indexList: [0, 1, 2, 3, 4]}
+囱框: {source: 囱, indexList: [0, 1, 2, 3]}
+在角: {source: 在, indexList: [0, 1, 2]}
+壑角: {source: 壑, indexList: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]}
+声下: {source: 声, indexList: [3, 4, 5, 6]}
+壳上: {source: 壳, indexList: [0, 1, 2, 3, 4]}
+夏上: {source: 夏, indexList: [0, 1, 2, 3, 4, 5, 6]}
+夜角: {source: 夜, indexList: [4, 5, 6, 7]}
+妻上: {source: 妻, indexList: [0, 1, 2, 3, 4]}
+姊右: {source: 姊, indexList: [3, 4, 5, 6]}
+媾右: {source: 媾, indexList: [3, 4, 5, 6, 7, 8, 9, 10, 11, 12]}
+学上: {source: 学, indexList: [0, 1, 2, 3, 4]}
+官下: {source: 官, indexList: [3, 4, 5, 6, 7]}
+定下: {source: 定, indexList: [3, 4, 5, 6, 7]}
+寅中: {source: 寅, indexList: [3, 4, 5, 6, 7, 8]}
+寒上: {source: 寒, indexList: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]}
+寡中: {source: 寡, indexList: [3, 4, 5, 6, 7, 8, 9]}
+礼右: {source: 礼, indexList: [4, 5]}
+尚上: {source: 尚, indexList: [0, 1, 2, 3, 4]}
+尧上: {source: 尧, indexList: [0, 1, 2]}
+局上: {source: 局, indexList: [0, 1, 2, 3]}
+展内: {source: 展, indexList: [3, 4, 5, 6, 7, 8, 9]}
+差上: {source: 差, indexList: [0, 1, 2, 3, 4, 5]}
+师左: {source: 师, indexList: [0, 1]}
+师右: {source: 师, indexList: [2, 3, 4, 5]}
+带上: {source: 带, indexList: [0, 1, 2, 3, 4, 5]}
+应内: {source: 应, indexList: [3, 4, 5, 6]}
+庚内: {source: 庚, indexList: [3, 4, 5, 6, 7]}
+庸内: {source: 庸, indexList: [3, 4, 5, 6, 7, 8, 9, 10]}
+延内: {source: 延, indexList: [0, 1, 2, 3]}
+弟下: {source: 弟, indexList: [2, 3, 4, 5, 6]}
+彀上: {source: 彀, indexList: [0, 1, 2, 3, 4, 5]}
+彖上: {source: 彖, indexList: [0, 1, 2]}
+彭左: {source: 彭, indexList: [0, 1, 2, 3, 4, 5, 6, 7, 8]}
+得右: {source: 得, indexList: [3, 4, 5, 6, 7, 8, 9, 10]}
+德角: {source: 德, indexList: [3, 4, 5, 6, 7, 8, 9, 10]}
+总上: {source: 总, indexList: [0, 1, 2, 3, 4]}
+恭下: {source: 恭, indexList: [6, 7, 8, 9]}
+惠上: {source: 惠, indexList: [0, 1, 2, 3, 4, 5, 6, 7]}
+所左: {source: 所, indexList: [0, 1, 2, 3]}
+扁内: {source: 扁, indexList: [4, 5, 6, 7, 8]}
+扬右: {source: 扬, indexList: [3, 4, 5]}
+抑中: {source: 抑, indexList: [3, 4]}
+报右: {source: 报, indexList: [3, 4, 5, 6]}
+拔右: {source: 拔, indexList: [3, 4, 5, 6, 7]}
+拜右: {source: 拜, indexList: [4, 5, 6, 7, 8]}
+拜左: {source: 拜, indexList: [0, 1, 2, 3]}
+拣右: {source: 拣, indexList: [3, 4, 5, 6, 7]}
+捷右: {source: 捷, indexList: [3, 4, 5, 6, 7, 8, 9, 10]}
+收左: {source: 收, indexList: [0, 1]}
+敖左: {source: 敖, indexList: [0, 1, 2, 3, 4, 5]}
+敝左: {source: 敝, indexList: [0, 1, 2, 3, 4, 5, 6]}
+敢左: {source: 敢, indexList: [0, 1, 2, 3, 4, 5, 6]}
+旁上: {source: 旁, indexList: [0, 1, 2, 3, 4, 5]}
+既右: {source: 既, indexList: [0, 1, 2, 3, 4]}
+春上: {source: 春, indexList: [0, 1, 2, 3, 4]}
+曷下: {source: 曷, indexList: [4, 5, 6, 7, 8]}
+曹上: {source: 曹, indexList: [0, 1, 2, 3, 4, 5, 6]}
+曾上: {source: 曾, indexList: [0, 1, 2, 3, 4, 5, 6, 7]}
+有上: {source: 有, indexList: [0, 1]}
+朔左: {source: 朔, indexList: [0, 1, 2, 3, 4, 5]}
+朗左: {source: 朗, indexList: [0, 1, 2, 3, 4, 5]}
+朝左: {source: 朝, indexList: [0, 1, 2, 3, 4, 5, 6, 7]}
+杂下: {source: 杂, indexList: [2, 3, 4, 5]}
+枣上: {source: 枣, indexList: [0, 1, 2, 3, 4, 5]}
+梁角: {source: 梁, indexList: [3, 4, 5, 6]}
+横日: {source: 临, indexList: [5, 6, 7, 8]}
+橐上: {source: 橐, indexList: [0, 1, 2, 3, 4, 5, 6]}
+步下: {source: 步, indexList: [4, 5, 6]}
+武上: {source: 武, indexList: [0, 1, 2, 3]}
+段左: {source: 段, indexList: [0, 1, 2, 3, 4]}
+殷左: {source: 殷, indexList: [0, 1, 2, 3, 4, 5]}
+毅左: {source: 毅, indexList: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]}
+每上: {source: 每, indexList: [0, 1]}
+比左: {source: 比, indexList: [0, 1]}
+沈右: {source: 沈, indexList: [3, 4, 5, 6]}
+沔右: {source: 沔, indexList: [3, 4, 5, 6]}
+沛右: {source: 沛, indexList: [3, 4, 5, 6]}
+泰下: {source: 泰, indexList: [5, 6, 7, 8, 9]}
+派角: {source: 派, indexList: [5, 6, 7, 8]}
+流角: {source: 流, indexList: [7, 8, 9]}
+涿右: {source: 涿, indexList: [3, 4, 5, 6, 7, 8, 9, 10]}
+滴右: {source: 滴, indexList: [3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]}
+潦角: {source: 潦, indexList: [3, 4, 5, 6, 7]}
+炙上: {source: 炙, indexList: [0, 1, 2, 3]}
+焉下: {source: 焉, indexList: [5, 6, 7, 8, 9, 10]}
+熏上: {source: 熏, indexList: [10, 11, 12, 13]}
+爰下: {source: 爰, indexList: [4, 5, 6, 7, 8]}
+牛旁: {source: 特, indexList: [0, 1, 2, 3]}
+率右: {source: 率, indexList: [7, 8]}
+班中: {source: 班, indexList: [4, 5]}
+璞角: {source: 璞, indexList: [9, 10, 11, 12, 13, 14, 15]}
+璺框: {source: 璺, indexList: [0, 1, 2, 3, 4, 10, 11, 12, 13, 14]}
+甬下: {source: 甬, indexList: [2, 3, 4, 5, 6]}
+畏下: {source: 畏, indexList: [5, 6, 7, 8]}
+留角: {source: 留, indexList: [0, 1, 2]}
+番上: {source: 番, indexList: [0, 1, 2, 3, 4, 5, 6]}
+疏左: {source: 疏, indexList: [0, 1, 2, 3, 4]}
+登头: {source: 登, indexList: [0, 1, 2, 3, 4]}
+盖上: {source: 盖, indexList: [0, 1, 2, 3, 4, 5]}
+盥左: {source: 盥, indexList: [0, 1, 2, 3]}
+盥右: {source: 盥, indexList: [8, 9, 10]}
+看上: {source: 看, indexList: [0, 1, 2, 3]}
+睾上: {source: 睾, indexList: [0, 1, 2, 3, 4, 5]}
+睿上: {source: 睿, indexList: [0, 1, 2, 3, 4, 5, 6, 7, 8]}
+碰右: {source: 碰, indexList: [5, 6, 7, 8, 9, 10, 11, 12]}
+祭上: {source: 祭, indexList: [0, 1, 2, 3, 4, 5]}
+离下: {source: 离, indexList: [6, 7, 8, 9]}
+竹头: {source: 笑, indexList: [0, 1, 2, 3, 4, 5]}
+粼右: {source: 粼, indexList: [12, 13]}
+索上: {source: 索, indexList: [0, 1, 2, 3]}
+纛角: {source: 纛, indexList: [9, 10, 11, 12, 13, 14, 15, 16, 17]}
+经右: {source: 经, indexList: [3, 4, 5, 6, 7]}
+缺右: {source: 缺, indexList: [6, 7, 8, 9]}
+罗上: {source: 罗, indexList: [0, 1, 2, 3, 4]}
+羲下: {source: 羲, indexList: [6, 7, 8, 9, 10, 11, 12, 13, 14, 15]}
+老上: {source: 老, indexList: [0, 1, 2, 3]}
+而下: {source: 而, indexList: [2, 3, 4, 5]}
+而上: {source: 而, indexList: [0, 1]}
+聚下: {source: 聚, indexList: [8, 9, 10, 11, 12, 13]}
+肆左: {source: 肆, indexList: [0, 1, 2, 3, 4, 5, 6]}
+膏上: {source: 膏, indexList: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]}
+臧外: {source: 臧, indexList: [0, 1, 2, 3, 4, 11, 12, 13]}
+至上: {source: 至, indexList: [0, 1, 2]}
+舆框: {source: 舆, indexList: [0, 1, 2, 3, 8, 9, 10, 11]}
+舛右: {source: 舛, indexList: [3, 4, 5]}
+舞上: {source: 舞, indexList: [0, 1, 2, 3, 4, 5, 6, 7]}
+节下: {source: 节, indexList: [3, 4]}
+蒙下: {source: 蒙, indexList: [5, 6, 7, 8, 9, 10, 11, 12]}
+虐下: {source: 虐, indexList: [6, 7, 8]}
+虱内: {source: 虱, indexList: [1, 2, 3, 4, 5, 6, 7]}
+蚩上: {source: 蚩, indexList: [0, 1, 2, 3]}
+衣下: {source: 衣, indexList: [2, 3, 4, 5]}
+衰中: {source: 衰, indexList: [2, 3, 4, 5]}
+襄下: {source: 襄, indexList: [8, 9, 10, 11, 12, 13, 14, 15, 16]}
+要上: {source: 要, indexList: [0, 1, 2, 3, 4, 5]}
+览上: {source: 览, indexList: [0, 1, 2, 3, 4]}
+角上: {source: 角, indexList: [0, 1]}
+贯上: {source: 贯, indexList: [0, 1, 2, 3]}
+贰外: {source: 贰, indexList: [0, 1, 2, 7, 8]}
+贲上: {source: 贲, indexList: [0, 1, 2, 3, 4]}
+贵上: {source: 贵, indexList: [0, 1, 2, 3, 4]}
+赍上: {source: 赍, indexList: [0, 1, 2, 3, 4, 5, 6, 7]}
+赏上: {source: 赏, indexList: [0, 1, 2, 3, 4, 5, 6, 7]}
+越内: {source: 越, indexList: [7, 8, 9, 10, 11]}
+足旁: {source: 跑, indexList: [0, 1, 2, 3, 4, 5, 6]}
+足下: {source: 足, indexList: [3, 4, 5, 6]}
+軎上: {source: 軎, indexList: [0, 1, 2, 3, 4, 5, 6]}
+车旁: {source: 较, indexList: [0, 1, 2, 3]}
+迅内: {source: 迅, indexList: [0, 1, 2]}
+追内: {source: 追, indexList: [0, 1, 2, 3, 4, 5]}
+遂内: {source: 遂, indexList: [0, 1, 2, 3, 4, 5, 6, 7, 8]}
+那左: {source: 那, indexList: [0, 1, 2, 3]}
+采上: {source: 采, indexList: [0, 1, 2, 3]}
+金下: {source: 金, indexList: [2, 3, 4, 5, 6, 7]}
+雨头: {source: 露, indexList: [0, 1, 2, 3, 4, 5, 6, 7]}
+青上: {source: 青, indexList: [0, 1, 2, 3]}
+青下: {source: 青, indexList: [4, 5, 6, 7]}
+面下: {source: 面, indexList: [2, 3, 4, 5, 6, 7, 8]}
+鞴右: {source: 鞴, indexList: [9, 10, 11, 12, 13, 14, 15, 16, 17, 18]}
+颐左: {source: 颐, indexList: [0, 1, 2, 3, 4, 5, 6]}
+风外: {source: 风, indexList: [0, 1]}
+骨上: {source: 骨, indexList: [0, 1, 2, 3, 4]}
+鬯内: {source: 鬯, indexList: [0, 1, 2, 3, 4, 5]}
+鳏角: {source: 鳏, indexList: [13, 14, 15, 16, 17]}
+鸟上: {source: 鸟, indexList: [0, 1, 2, 3]}
+鹤左: {source: 鹤, indexList: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]}
+鹿外: {source: 鹿, indexList: [0, 1, 2, 3, 4, 5, 6]}
+黄上: {source: 黄, indexList: [0, 1, 2, 3]}
+黎角: {source: 黎, indexList: [4, 5, 6]}
+黑上: {source: 黑, indexList: [0, 1, 2, 3, 4, 5, 6, 7]}
+鼎右: {source: 鼎, indexList: [8, 9, 10, 11]}
+鼎左: {source: 鼎, indexList: [5, 6, 7]}
+鼠下: {source: 鼠, indexList: [6, 7, 8, 9, 10, 11, 12]}
+齐下: {source: 齐, indexList: [4, 5]}
+龠中: {source: 龠, indexList: [3, 4, 5, 6, 7, 8, 9, 10, 11]}
+墼角: {source: 墼, indexList: [0, 1, 2, 3, 4, 5, 6, 7, 8]}
+畿外: {source: 畿, indexList: [0, 1, 2, 3, 4, 5, 6, 12, 13, 14]}
+脊上: {source: 脊, indexList: [0, 1, 2, 3, 4, 5]}
+谶角: {source: 谶, indexList: [2, 3, 4, 5, 6, 16, 17, 18]}
+辛变: {source: 辨, indexList: [0, 1, 2, 3, 4, 5, 6]}
+戢下: {source: 戢, indexList: [3, 4, 5, 6, 7, 8, 9, 10, 11]}
+竖折: {source: 断, indexList: [0]}
+横钩: {source: 买, indexList: [0]}
+横斜钩: {source: 飞, indexList: [0]}
