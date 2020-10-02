@@ -11,7 +11,7 @@
   - {feature: 横折钩, start: [38, 42], curveList: [{command: h, parameterList: [43]}, {command: v, parameterList: [52]}]}
   - {feature: 撇, start: [39, 14], curveList: [{command: c, parameterList: [0, 31, 0, 57, -33, 80]}]}
 丈:
-  - {feature: 横, start: [8, 24], curveList: [{command: h, parameterList: [85]}]}
+  - {feature: 横, start: [8, 24], curveList: [{command: h, parameterList: [84]}]}
   - {feature: 撇, start: [61, 4], curveList: [{command: c, parameterList: [0, 45, 0, 68, -55, 90]}]}
   - {feature: 捺, start: [22, 34], curveList: [{command: c, parameterList: [14, 35, 38, 48, 72, 59]}]}
 三:
@@ -27,7 +27,7 @@
   - {feature: 竖, start: [47, 12], curveList: [{command: v, parameterList: [83]}]}
   - {feature: 点, start: [47, 33], curveList: [{command: c, parameterList: [15, 9, 26, 15, 40, 25]}]}
 丌:
-  - {feature: 横, start: [8, 12], curveList: [{command: h, parameterList: [85]}]}
+  - {feature: 横, start: [8, 12], curveList: [{command: h, parameterList: [84]}]}
   - {feature: 撇, start: [34, 12], curveList: [{command: c, parameterList: [0, 29, 0, 65, -26, 81]}]}
   - {feature: 竖, start: [68, 12], curveList: [{command: v, parameterList: [81]}]}
 不:
@@ -56,10 +56,10 @@
   - {feature: 点, start: [29, 76], curveList: [{command: c, parameterList: [16, 5, 28, 10, 47, 19]}]}
 且:
   - {feature: 竖, start: [24, 10], curveList: [{command: v, parameterList: [80]}]}
-  - {feature: 横折, start: [24, 10], curveList: [{command: h, parameterList: [53]}, {command: v, parameterList: [80]}]}
-  - {feature: 横, start: [24, 36], curveList: [{command: h, parameterList: [53]}]}
-  - {feature: 横, start: [24, 63], curveList: [{command: h, parameterList: [53]}]}
-  - {feature: 横, start: [7, 90], curveList: [{command: h, parameterList: [87]}]}
+  - {feature: 横折, start: [24, 10], curveList: [{command: h, parameterList: [52]}, {command: v, parameterList: [80]}]}
+  - {feature: 横, start: [24, 36], curveList: [{command: h, parameterList: [52]}]}
+  - {feature: 横, start: [24, 63], curveList: [{command: h, parameterList: [52]}]}
+  - {feature: 横, start: [7, 90], curveList: [{command: h, parameterList: [86]}]}
 世:
   - {feature: 横, start: [6, 31], curveList: [{command: h, parameterList: [88]}]}
   - {feature: 竖, start: [49, 5], curveList: [{command: v, parameterList: [57]}]}
@@ -69,9 +69,9 @@
 丘:
   - {feature: 撇, start: [76, 8], curveList: [{command: c, parameterList: [-18, 5, -26, 7, -53, 11]}]}
   - {feature: 竖, start: [23, 19], curveList: [{command: v, parameterList: [69]}]}
-  - {feature: 横, start: [23, 42], curveList: [{command: h, parameterList: [66]}]}
+  - {feature: 横, start: [23, 42], curveList: [{command: h, parameterList: [65]}]}
   - {feature: 竖, start: [67, 42], curveList: [{command: v, parameterList: [46]}]}
-  - {feature: 横, start: [8, 88], curveList: [{command: h, parameterList: [85]}]}
+  - {feature: 横, start: [8, 88], curveList: [{command: h, parameterList: [84]}]}
 丙:
   - {feature: 横, start: [6, 12], curveList: [{command: h, parameterList: [88]}]}
   - {feature: 竖, start: [15, 33], curveList: [{command: v, parameterList: [61]}]}
@@ -89,7 +89,7 @@
   - {feature: 撇折, start: [42, 3], curveList: [{command: c, parameterList: [-6, 18, -17, 34, -28, 47]}, {command: h, parameterList: [72]}]}
   - {feature: 竖钩, start: [52, 33], curveList: [{command: v, parameterList: [61]}]}
   - {feature: 撇, start: [31, 63], curveList: [{command: c, parameterList: [-9, 13, -23, 24, -25, 25]}]}
-  - {feature: 点, start: [69, 63], curveList: [{command: c, parameterList: [15, 14, 19, 19, 24, '25']}]}
+  - {feature: 点, start: [69, 63], curveList: [{command: c, parameterList: [15, 14, 19, 19, 24, 25]}]}
 丞:
   - {feature: 横撇, start: [20, 12], curveList: [{command: h, parameterList: [56]}, {command: c, parameterList: [-3, 3, -11, 8, -26, 15]}]}
   - {feature: 竖钩, start: [50, 27], curveList: [{command: v, parameterList: [50]}]}
@@ -115,7 +115,7 @@
 严:
   - {feature: 横, start: [14, 10], curveList: [{command: h, parameterList: [76]}]}
   - {feature: 竖, start: [43, 10], curveList: [{command: v, parameterList: [32]}]}
-  - {feature: 竖, start: [61, 10], curveList: [{command: v, parameterList: ['32']}]}
+  - {feature: 竖, start: [61, 10], curveList: [{command: v, parameterList: [32]}]}
   - {feature: 点, start: [21, 19], curveList: [{command: c, parameterList: [2, 3, 5, 8, 9, 16]}]}
   - {feature: 撇, start: [82, 19], curveList: [{command: c, parameterList: [-3, 7, -5, 12, -7, 16]}]}
   - {feature: 横, start: [17, 42], curveList: [{command: h, parameterList: [75]}]}
@@ -198,199 +198,199 @@
   - {feature: 捺, start: [54, 53], curveList: [{command: c, parameterList: [5, 12, 17, 29, 40, 40]}]}
 乇:
   - {feature: 撇, start: [83, 8], curveList: [{command: c, parameterList: [-17, 7, -38, 12, -73, 15]}]}
-  - {feature: 横, start: [9, 50], curveList: [{command: h, parameterList: [82]}]}
-  - {feature: 竖弯钩, start: [47, 13], curveList: [{command: v, parameterList: [79]}, {command: h, parameterList: [42]}]}
+  - {feature: 横, start: [8, 50], curveList: [{command: h, parameterList: [83]}]}
+  - {feature: 竖弯钩, start: [47, 18], curveList: [{command: v, parameterList: [73]}, {command: h, parameterList: [46]}]}
 么:
-  - {feature: 撇, start: [52, 7], curveList: [{command: c, parameterList: [-15, 22, -33, 39, -53, 52]}]}
-  - {feature: 撇折, start: [67, 30], curveList: [{command: c, parameterList: [-16, 24, -32, 42, -50, 55]}, {command: h, parameterList: [62]}]}
-  - {feature: 点, start: [65, 63], curveList: [{command: c, parameterList: [13, 8, 21, 19, 23, 33]}]}
+  - {feature: 撇, start: [46, 5], curveList: [{command: c, parameterList: [-11, 22, -25, 39, -40, 51]}]}
+  - {feature: 撇折, start: [67, 24], curveList: [{command: c, parameterList: [-14, 22, -24, 42, -48, 61]}, {command: h, parameterList: [68]}]}
+  - {feature: 点, start: [68, 53], curveList: [{command: c, parameterList: [6, 8, 13, 19, 21, 39]}]}
 义:
-  - {feature: 点, start: [38, 3], curveList: [{command: c, parameterList: [7, 4, 11, 9, 13, 16]}]}
-  - {feature: 撇, start: [76, 17], curveList: [{command: c, parameterList: [-3, 39, -27, 66, -71, 80]}]}
-  - {feature: 捺, start: [21, 20], curveList: [{command: c, parameterList: [8, 38, 31, 63, 69, 74]}]}
+  - {feature: 点, start: [37, 5], curveList: [{command: c, parameterList: [7, 7, 11, 13, 19, 24]}]}
+  - {feature: 撇, start: [80, 10], curveList: [{command: c, parameterList: [-7, 39, -28, 65, -73, 83]}]}
+  - {feature: 捺, start: [18, 20], curveList: [{command: c, parameterList: [16, 38, 41, 58, 76, 74]}]}
 义下:
   - {feature: 撇, start: [76, 17], curveList: [{command: c, parameterList: [-3, 39, -27, 66, -71, 80]}]}
   - {feature: 捺, start: [21, 20], curveList: [{command: c, parameterList: [8, 38, 31, 63, 69, 74]}]}
 之:
-  - {feature: 点, start: [38, 2], curveList: [{command: c, parameterList: [8, 4, 13, 10, 13, 19]}]}
-  - {feature: 横撇, start: [7, 26], curveList: [{command: h, parameterList: [71]}, {command: c, parameterList: [-22, 25, -47, 47, -73, 66]}]}
-  - {feature: 捺, start: [24, 77], curveList: [{command: c, parameterList: [14, 15, 36, 20, 68, 15]}]}
+  - {feature: 点, start: [41, 4], curveList: [{command: c, parameterList: [4, 4, 6, 10, 11, 20]}]}
+  - {feature: 横撇, start: [13, 24], curveList: [{command: h, parameterList: [71]}, {command: c, parameterList: [-22, 25, -37, 41, -78, 59]}]}
+  - {feature: 捺, start: [6, 83], curveList: [{command: c, parameterList: [14, 4, 36, 8, 87, 9]}]}
 乌:
-  - {feature: 撇, start: [45, 4], curveList: [{command: c, parameterList: [-4, 2, -6, 5, -6, 11]}]}
-  - {feature: 横折钩, start: [27, 17], curveList: [{command: h, parameterList: [45]}, {command: v, parameterList: [32]}]}
-  - {feature: 竖折折钩, start: [26, 15], curveList: [{command: v, parameterList: [42]}, {command: h, parameterList: [62]}, {command: v, parameterList: [41]}]}
-  - {feature: 横, start: [3, 74], curveList: [{command: h, parameterList: [72]}]}
+  - {feature: 撇, start: [48, 4], curveList: [{command: c, parameterList: [-1, 2, -2, 6, -7, 13]}]}
+  - {feature: 横折钩, start: [23, 17], curveList: [{command: h, parameterList: [51]}, {command: v, parameterList: [28]}]}
+  - {feature: 竖折折钩, start: [23, 17], curveList: [{command: v, parameterList: [39]}, {command: h, parameterList: [62]}, {command: v, parameterList: [38]}]}
+  - {feature: 横, start: [6, 75], curveList: [{command: h, parameterList: [64]}]}
 乍:
-  - {feature: 撇, start: [32, 4], curveList: [{command: c, parameterList: [-5, 18, -16, 34, -32, 46]}]}
-  - {feature: 横, start: [25, 23], curveList: [{command: h, parameterList: [71]}]}
-  - {feature: 竖, start: [44, 23], curveList: [{command: v, parameterList: [75]}]}
-  - {feature: 横, start: [45, 46], curveList: [{command: h, parameterList: [43]}]}
-  - {feature: 横, start: [44, 69], curveList: [{command: h, parameterList: [50]}]}
+  - {feature: 撇, start: [35, 4], curveList: [{command: c, parameterList: [-5, 18, -16, 32, -26, 44]}]}
+  - {feature: 横, start: [28, 21], curveList: [{command: h, parameterList: [65]}]}
+  - {feature: 竖, start: [45, 21], curveList: [{command: v, parameterList: [73]}]}
+  - {feature: 横, start: [45, 45], curveList: [{command: h, parameterList: [40]}]}
+  - {feature: 横, start: [45, 69], curveList: [{command: h, parameterList: [43]}]}
 乎:
-  - {feature: 撇, start: [82, 5], curveList: [{command: c, parameterList: [-23, 5, -48, 8, -76, 9]}]}
-  - {feature: 点, start: [20, 26], curveList: [{command: c, parameterList: [6, 6, 10, 13, 12, 21]}]}
-  - {feature: 撇, start: [78, 21], curveList: [{command: c, parameterList: [-5, 10, -12, 19, -20, 27]}]}
-  - {feature: 横, start: [3, 55], curveList: [{command: h, parameterList: [94]}]}
-  - {feature: 竖钩, start: [49, 11], curveList: [{command: v, parameterList: [84]}]}
+  - {feature: 撇, start: [87, 8], curveList: [{command: c, parameterList: [-23, 6, -48, 8, -75, 9]}]}
+  - {feature: 点, start: [21, 26], curveList: [{command: c, parameterList: [4, 6, 7, 13, 11, 20]}]}
+  - {feature: 撇, start: [81, 22], curveList: [{command: c, parameterList: [-4, 10, -9, 19, -11, 23]}]}
+  - {feature: 横, start: [6, 54], curveList: [{command: h, parameterList: [88]}]}
+  - {feature: 竖钩, start: [50, 14], curveList: [{command: v, parameterList: [80]}]}
 乐:
-  - {feature: 撇, start: [82, 3], curveList: [{command: c, parameterList: [-20, 5, -40, 8, -61, 10]}]}
-  - {feature: 竖折, start: [21, 11], curveList: [{command: v, parameterList: [38]}, {command: h, parameterList: [76]}]}
-  - {feature: 竖钩, start: [53, 24], curveList: [{command: v, parameterList: [73]}]}
-  - {feature: 撇, start: [34, 60], curveList: [{command: c, parameterList: [-10, 13, -20, 24, -31, 32]}]}
-  - {feature: 点, start: [65, 59], curveList: [{command: c, parameterList: [13, 8, 21, 17, 25, 29]}]}
+  - {feature: 撇, start: [82, 7], curveList: [{command: c, parameterList: [-20, 5, -40, 6, -62, 7]}]}
+  - {feature: 竖折, start: [20, 14], curveList: [{command: v, parameterList: [32]}, {command: h, parameterList: [70]}]}
+  - {feature: 竖钩, start: [51, 23], curveList: [{command: v, parameterList: [71]}]}
+  - {feature: 撇, start: [27, 59], curveList: [{command: c, parameterList: [-10, 19, -13, 24, -19, 30]}]}
+  - {feature: 点, start: [70, 58], curveList: [{command: c, parameterList: [6, 8, 11, 17, 19, 32]}]}
 乙:
-  - {feature: 横折弯钩, start: [8, 13], curveList: [{command: h, parameterList: [57]}, {command: v, parameterList: [60]}, {command: h, parameterList: [75]}]}
+  - {feature: 横折弯钩, start: [10, 15], curveList: [{command: h, parameterList: [40]}, {command: v, parameterList: [70]}, {command: h, parameterList: [40]}]}
 乜:
-  - {feature: 横折钩, start: [2, 52], curveList: [{command: h, parameterList: [70]}, {command: v, parameterList: [48]}]}
-  - {feature: 竖弯钩, start: [29, 5], curveList: [{command: v, parameterList: [83]}, {command: h, parameterList: [62]}]}
+  - {feature: 横折钩, start: [7, 36], curveList: [{command: h, parameterList: [71]}, {command: v, parameterList: [30]}]}
+  - {feature: 竖弯钩, start: [27, 5], curveList: [{command: v, parameterList: [85]}, {command: h, parameterList: [64]}]}
 九:
-  - {feature: 撇, start: [39, 3], curveList: [{command: c, parameterList: [4, 54, -9, 86, -37, 96]}]}
-  - {feature: 横折弯钩, start: [7, 29], curveList: [{command: h, parameterList: [56]}, {command: v, parameterList: [60]}, {command: h, parameterList: [28]}]}
+  - {feature: 撇, start: [39, 4], curveList: [{command: c, parameterList: [0, 54, 0, 70, -33, 89]}]}
+  - {feature: 横折弯钩, start: [12, 29], curveList: [{command: h, parameterList: [58]}, {command: v, parameterList: [63]}, {command: h, parameterList: [24]}]}
 也:
-  - {feature: 横折钩, start: [2, 46], curveList: [{command: h, parameterList: [77]}, {command: v, parameterList: [49]}]}
-  - {feature: 竖, start: [51, 2], curveList: [{command: v, parameterList: [76]}]}
-  - {feature: 竖弯钩, start: [22, 16], curveList: [{command: v, parameterList: [73]}, {command: h, parameterList: [70]}]}
+  - {feature: 横折钩, start: [5, 34], curveList: [{command: h, parameterList: [77]}, {command: v, parameterList: [31]}]}
+  - {feature: 竖, start: [52, 4], curveList: [{command: v, parameterList: [66]}]}
+  - {feature: 竖弯钩, start: [23, 12], curveList: [{command: v, parameterList: [78]}, {command: h, parameterList: [70]}]}
 习:
-  - {feature: 横折钩, start: [10, 13], curveList: [{command: h, parameterList: [73]}, {command: v, parameterList: [78]}]}
-  - {feature: 点, start: [29, 23], curveList: [{command: c, parameterList: [10, 6, 16, 12, 20, 20]}]}
-  - {feature: 提, start: [9, 73], curveList: [{command: l, parameterList: [64, -25]}]}
+  - {feature: 横折钩, start: [14, 13], curveList: [{command: h, parameterList: [68]}, {command: v, parameterList: [80]}]}
+  - {feature: 点, start: [21, 28], curveList: [{command: c, parameterList: [9, 6, 14, 12, 23, 20]}]}
+  - {feature: 提, start: [12, 78], curveList: [{command: l, parameterList: [53, -24]}]}
 乡:
-  - {feature: 撇折, start: [52, 3], curveList: [{command: c, parameterList: [-8, 12, -19, 23, -33, 35]}, {command: h, parameterList: [42]}]}
-  - {feature: 撇折, start: [76, 21], curveList: [{command: c, parameterList: [-16, 16, -34, 30, -55, 41]}, {command: h, parameterList: [53]}]}
-  - {feature: 撇, start: [80, 49], curveList: [{command: c, parameterList: [-15, 30, -40, 47, -74, 49]}]}
+  - {feature: 撇折, start: [49, 3], curveList: [{command: c, parameterList: [-8, 12, -19, 23, -33, 34]}, {command: h, parameterList: [41]}]}
+  - {feature: 撇折, start: [75, 18], curveList: [{command: c, parameterList: [-14, 16, -27, 30, -56, 47]}, {command: h, parameterList: [56]}]}
+  - {feature: 撇, start: [85, 43], curveList: [{command: c, parameterList: [-4, 22, -17, 42, -71, 51]}]}
 书:
-  - {feature: 横折, start: [10, 26], curveList: [{command: h, parameterList: [63]}, {command: v, parameterList: [27]}]}
-  - {feature: 横折钩, start: [5, 52], curveList: [{command: h, parameterList: [83]}, {command: v, parameterList: [33]}]}
-  - {feature: 竖, start: [45, 2], curveList: [{command: v, parameterList: [96]}]}
-  - {feature: 点, start: [70, 6], curveList: [{command: c, parameterList: [10, 2, 17, 7, 20, 17]}]}
+  - {feature: 横折, start: [12, 24], curveList: [{command: h, parameterList: [62]}, {command: v, parameterList: [27]}]}
+  - {feature: 横折钩, start: [3, 51], curveList: [{command: h, parameterList: [83]}, {command: v, parameterList: [33]}]}
+  - {feature: 竖, start: [44, 4], curveList: [{command: v, parameterList: [90]}]}
+  - {feature: 点, start: [71, 5], curveList: [{command: c, parameterList: [4, 2, 17, 11, 21, 16]}]}
 了:
-  - {feature: 横撇, start: [6, 9], curveList: [{command: h, parameterList: [76]}, {command: c, parameterList: [-12, 6, -24, 12, -34, 20]}]}
-  - {feature: 竖钩, start: [49, 30], curveList: [{command: v, parameterList: [65]}]}
+  - {feature: 横撇, start: [13, 13], curveList: [{command: h, parameterList: [71]}, {command: c, parameterList: [-6, 6, -13, 12, -32, 25]}]}
+  - {feature: 竖钩, start: [52, 38], curveList: [{command: v, parameterList: [56]}]}
 予:
-  - {feature: 横撇, start: [15, 7], curveList: [{command: h, parameterList: [59]}, {command: c, parameterList: [-10, 6, -19, 13, -28, 20]}]}
-  - {feature: 点, start: [28, 20], curveList: [{command: c, parameterList: [13, 1, 21, 8, 23, 20]}]}
-  - {feature: 横钩, start: [1, 41], curveList: [{command: h, parameterList: [88]}]}
-  - {feature: 竖钩, start: [49, 40], curveList: [{command: v, parameterList: [55]}]}
+  - {feature: 横撇, start: [19, 11], curveList: [{command: h, parameterList: [58]}, {command: c, parameterList: [-3, 6, -11, 13, -25, 25]}]}
+  - {feature: 点, start: [32, 23], curveList: [{command: c, parameterList: [9, 5, 13, 8, 26, 19]}]}
+  - {feature: 横钩, start: [9, 42], curveList: [{command: h, parameterList: [81]}]}
+  - {feature: 竖钩, start: [51, 42], curveList: [{command: v, parameterList: [52]}]}
 予上:
   - {feature: 横撇, start: [15, 7], curveList: [{command: h, parameterList: [59]}, {command: c, parameterList: [-11, 3, -20, 8, -27, 15]}]}
   - {feature: 点, start: [28, 20], curveList: [{command: c, parameterList: [13, 1, 21, 8, 23, 20]}]}
 争:
-  - {feature: 撇, start: [37, 4], curveList: [{command: c, parameterList: [-8, 12, -19, 24, -34, 36]}]}
-  - {feature: 横钩, start: [30, 13], curveList: [{command: h, parameterList: [32]}]}
-  - {feature: 横折, start: [14, 32], curveList: [{command: h, parameterList: [66]}, {command: v, parameterList: [41]}]}
-  - {feature: 横, start: [3, 51], curveList: [{command: h, parameterList: [96]}]}
-  - {feature: 横, start: [16, 70], curveList: [{command: h, parameterList: [63]}]}
-  - {feature: 竖钩, start: [48, 32], curveList: [{command: v, parameterList: [67]}]}
+  - {feature: 撇, start: [36, 5], curveList: [{command: c, parameterList: [-8, 14, -19, 22, -26, 27]}]}
+  - {feature: 横撇, start: [29, 15], curveList: [{command: h, parameterList: [41]}, {command: c, parameterList: [-8, 10, -21, 16, -22, 17]}]}
+  - {feature: 横折, start: [21, 32], curveList: [{command: h, parameterList: [57]}, {command: v, parameterList: [36]}]}
+  - {feature: 横, start: [7, 50], curveList: [{command: h, parameterList: [86]}]}
+  - {feature: 横, start: [19, 68], curveList: [{command: h, parameterList: [59]}]}
+  - {feature: 竖钩, start: [48, 32], curveList: [{command: v, parameterList: [61]}]}
 事:
-  - {feature: 横, start: [2, 13], curveList: [{command: h, parameterList: [95]}]}
-  - {feature: 竖, start: [20, 21], curveList: [{command: v, parameterList: [24]}]}
-  - {feature: 横折, start: [20, 26], curveList: [{command: h, parameterList: [56]}, {command: v, parameterList: [17]}]}
-  - {feature: 横, start: [20, 41], curveList: [{command: h, parameterList: [56]}]}
-  - {feature: 横折, start: [8, 51], curveList: [{command: h, parameterList: [70]}, {command: v, parameterList: [32]}]}
-  - {feature: 横, start: [1, 63], curveList: [{command: h, parameterList: [98]}]}
-  - {feature: 横, start: [9, 78], curveList: [{command: h, parameterList: [69]}]}
-  - {feature: 竖钩, start: [49, 2], curveList: [{command: v, parameterList: [95]}]}
+  - {feature: 横, start: [8, 12], curveList: [{command: h, parameterList: [84]}]}
+  - {feature: 竖, start: [20, 23], curveList: [{command: v, parameterList: [16]}]}
+  - {feature: 横折, start: [20, 23], curveList: [{command: h, parameterList: [60]}, {command: v, parameterList: [16]}]}
+  - {feature: 横, start: [20, 39], curveList: [{command: h, parameterList: [60]}]}
+  - {feature: 横折, start: [14, 49], curveList: [{command: h, parameterList: [67]}, {command: v, parameterList: [28]}]}
+  - {feature: 横, start: [5, 64], curveList: [{command: h, parameterList: [90]}]}
+  - {feature: 横, start: [14, 77], curveList: [{command: h, parameterList: [67]}]}
+  - {feature: 竖钩, start: [50, 4], curveList: [{command: v, parameterList: [90]}]}
 二:
-  - {feature: 横, start: [13, 24], curveList: [{command: h, parameterList: [75]}]}
-  - {feature: 横, start: [0, 86], curveList: [{command: h, parameterList: [99]}]}
+  - {feature: 横, start: [15, 18], curveList: [{command: h, parameterList: [70]}]}
+  - {feature: 横, start: [6, 81], curveList: [{command: h, parameterList: [88]}]}
 亍:
-  - {feature: 横, start: [15, 11], curveList: [{command: h, parameterList: [70]}]}
-  - {feature: 横, start: [2, 38], curveList: [{command: h, parameterList: [95]}]}
-  - {feature: 竖钩, start: [48, 38], curveList: [{command: v, parameterList: [60]}]}
+  - {feature: 横, start: [15, 12], curveList: [{command: h, parameterList: [70]}]}
+  - {feature: 横, start: [7, 40], curveList: [{command: h, parameterList: [86]}]}
+  - {feature: 竖钩, start: [50, 40], curveList: [{command: v, parameterList: [53]}]}
 于:
-  - {feature: 横, start: [6, 11], curveList: [{command: h, parameterList: [76]}]}
-  - {feature: 横, start: [0, 42], curveList: [{command: h, parameterList: [93]}]}
-  - {feature: 竖钩, start: [47, 11], curveList: [{command: v, parameterList: [84]}]}
+  - {feature: 横, start: [13, 10], curveList: [{command: h, parameterList: [74]}]}
+  - {feature: 横, start: [7, 46], curveList: [{command: h, parameterList: [86]}]}
+  - {feature: 竖钩, start: [50, 10], curveList: [{command: v, parameterList: [84]}]}
 亏:
-  - {feature: 横, start: [12, 11], curveList: [{command: h, parameterList: [70]}]}
-  - {feature: 横, start: [2, 33], curveList: [{command: h, parameterList: [92]}]}
-  - {feature: 竖折折钩, start: [35, 34], curveList: [{command: v, parameterList: [21]}, {command: h, parameterList: [46]}, {command: v, parameterList: [36]}]}
+  - {feature: 横, start: [17, 12], curveList: [{command: h, parameterList: [66]}]}
+  - {feature: 横, start: [8, 35], curveList: [{command: h, parameterList: [84]}]}
+  - {feature: 竖折折钩, start: [29, 35], curveList: [{command: v, parameterList: [22]}, {command: h, parameterList: [49]}, {command: v, parameterList: [36]}]}
 亏下:
   - {feature: 横, start: [2, 33], curveList: [{command: h, parameterList: [92]}]}
   - {feature: 竖折折钩, start: [35, 34], curveList: [{command: v, parameterList: [21]}, {command: h, parameterList: [46]}, {command: v, parameterList: [36]}]}
 云:
-  - {feature: 横, start: [13, 13], curveList: [{command: h, parameterList: [71]}]}
-  - {feature: 横, start: [2, 43], curveList: [{command: h, parameterList: [92]}]}
-  - {feature: 撇折, start: [44, 47], curveList: [{command: c, parameterList: [-8, 13, -18, 27, -30, 42]}, {command: h, parameterList: [62]}]}
-  - {feature: 点, start: [59, 57], curveList: [{command: c, parameterList: [14, 9, 21, 21, 23, 37]}]}
+  - {feature: 横, start: [16, 12], curveList: [{command: h, parameterList: [68]}]}
+  - {feature: 横, start: [6, 41], curveList: [{command: h, parameterList: [88]}]}
+  - {feature: 撇折, start: [44, 41], curveList: [{command: c, parameterList: [-6, 13, -14, 30, -29, 47]}, {command: h, parameterList: [71]}]}
+  - {feature: 点, start: [68, 57], curveList: [{command: c, parameterList: [8, 11, 16, 27, 21, 37]}]}
 互:
-  - {feature: 横, start: [0, 15], curveList: [{command: h, parameterList: [91]}]}
-  - {feature: 竖折, start: [34, 16], curveList: [{command: v, parameterList: [50]}, {command: h, parameterList: [36]}]}
-  - {feature: 横折, start: [30, 38], curveList: [{command: h, parameterList: [36]}, {command: v, parameterList: [54]}]}
-  - {feature: 横, start: [0, 93], curveList: [{command: h, parameterList: [99]}]}
+  - {feature: 横, start: [8, 11], curveList: [{command: h, parameterList: [84]}]}
+  - {feature: 竖折, start: [28, 11], curveList: [{command: v, parameterList: [53]}, {command: h, parameterList: [45]}]}
+  - {feature: 横折, start: [28, 34], curveList: [{command: h, parameterList: [45]}, {command: v, parameterList: [55]}]}
+  - {feature: 横, start: [7, 89], curveList: [{command: h, parameterList: [86]}]}
 亓:
-  - {feature: 横, start: [15, 7], curveList: [{command: h, parameterList: [74]}]}
-  - {feature: 横, start: [2, 32], curveList: [{command: h, parameterList: [94]}]}
-  - {feature: 撇, start: [32, 32], curveList: [{command: c, parameterList: [7, 22, -2, 44, -27, 64]}]}
-  - {feature: 竖, start: [67, 32], curveList: [{command: v, parameterList: [66]}]}
+  - {feature: 横, start: [18, 13], curveList: [{command: h, parameterList: [64]}]}
+  - {feature: 横, start: [7, 40], curveList: [{command: h, parameterList: [84]}]}
+  - {feature: 撇, start: [34, 40], curveList: [{command: c, parameterList: [0, 20, 0, 37, -24, 53]}]}
+  - {feature: 竖, start: [67, 40], curveList: [{command: v, parameterList: [53]}]}
 五:
-  - {feature: 横, start: [5, 15], curveList: [{command: h, parameterList: [89]}]}
-  - {feature: 竖, start: [44, 16], curveList: [{command: v, parameterList: [73]}]}
-  - {feature: 横折, start: [15, 44], curveList: [{command: h, parameterList: [55]}, {command: v, parameterList: [44]}]}
-  - {feature: 横, start: [0, 90], curveList: [{command: h, parameterList: [98]}]}
+  - {feature: 横, start: [10, 12], curveList: [{command: h, parameterList: [80]}]}
+  - {feature: 竖, start: [46, 12], curveList: [{command: v, parameterList: [76]}]}
+  - {feature: 横折, start: [15, 45], curveList: [{command: h, parameterList: [60]}, {command: v, parameterList: [43]}]}
+  - {feature: 横, start: [6, 88], curveList: [{command: h, parameterList: [88]}]}
 井:
-  - {feature: 横, start: [7, 27], curveList: [{command: h, parameterList: [85]}]}
-  - {feature: 横, start: [3, 55], curveList: [{command: h, parameterList: [95]}]}
-  - {feature: 撇, start: [36, 3], curveList: [{command: c, parameterList: [10, 43, 0, 74, -31, 94]}]}
-  - {feature: 竖, start: [63, 3], curveList: [{command: v, parameterList: [96]}]}
+  - {feature: 横, start: [10, 26], curveList: [{command: h, parameterList: [80]}]}
+  - {feature: 横, start: [6, 57], curveList: [{command: h, parameterList: [88]}]}
+  - {feature: 撇, start: [33, 5], curveList: [{command: c, parameterList: [0, 65, 0, 71, -23, 86]}]}
+  - {feature: 竖, start: [67, 5], curveList: [{command: v, parameterList: [88]}]}
 亘:
-  - {feature: 横, start: [6, 11], curveList: [{command: h, parameterList: [84]}]}
-  - {feature: 竖, start: [24, 25], curveList: [{command: v, parameterList: [53]}]}
-  - {feature: 横折, start: [24, 27], curveList: [{command: h, parameterList: [50]}, {command: v, parameterList: [51]}]}
-  - {feature: 横, start: [23, 49], curveList: [{command: h, parameterList: [50]}]}
-  - {feature: 横, start: [23, 72], curveList: [{command: h, parameterList: [50]}]}
-  - {feature: 横, start: [0, 90], curveList: [{command: h, parameterList: [97]}]}
+  - {feature: 横, start: [10, 11], curveList: [{command: h, parameterList: [80]}]}
+  - {feature: 竖, start: [22, 28], curveList: [{command: v, parameterList: [45]}]}
+  - {feature: 横折, start: [22, 28], curveList: [{command: h, parameterList: [56]}, {command: v, parameterList: [45]}]}
+  - {feature: 横, start: [22, 50], curveList: [{command: h, parameterList: [56]}]}
+  - {feature: 横, start: [22, 73], curveList: [{command: h, parameterList: [56]}]}
+  - {feature: 横, start: [7, 90], curveList: [{command: h, parameterList: [86]}]}
 亚:
-  - {feature: 横, start: [6, 13], curveList: [{command: h, parameterList: [82]}]}
-  - {feature: 竖, start: [36, 13], curveList: [{command: v, parameterList: [76]}]}
-  - {feature: 竖, start: [59, 14], curveList: [{command: v, parameterList: [75]}]}
-  - {feature: 点, start: [9, 29], curveList: [{command: c, parameterList: [8, 12, 13, 24, 15, 38]}]}
-  - {feature: 撇, start: [81, 31], curveList: [{command: c, parameterList: [-6, 13, -12, 26, -18, 39]}]}
-  - {feature: 横, start: [0, 90], curveList: [{command: h, parameterList: [96]}]}
+  - {feature: 横, start: [10, 12], curveList: [{command: h, parameterList: [80]}]}
+  - {feature: 竖, start: [39, 12], curveList: [{command: v, parameterList: [76]}]}
+  - {feature: 竖, start: [61, 12], curveList: [{command: v, parameterList: [76]}]}
+  - {feature: 点, start: [13, 32], curveList: [{command: c, parameterList: [8, 14, 12, 32, 14, 38]}]}
+  - {feature: 撇, start: [86, 31], curveList: [{command: c, parameterList: [-3, 13, -9, 30, -14, 39]}]}
+  - {feature: 横, start: [7, 88], curveList: [{command: h, parameterList: [86]}]}
 亟:
-  - {feature: 横撇, start: [15, 7], curveList: [{command: h, parameterList: [59]}, {command: c, parameterList: [-11, 3, -20, 8, -27, 15]}]}
-  - {feature: 竖钩, start: [49, 23], curveList: [{command: v, parameterList: [61]}]}
-  - {feature: 竖, start: [13, 27], curveList: [{command: v, parameterList: [42]}]}
-  - {feature: 横折, start: [14, 30], curveList: [{command: h, parameterList: [18]}, {command: v, parameterList: [35]}]}
-  - {feature: 横, start: [14, 61], curveList: [{command: h, parameterList: [17]}]}
-  - {feature: 横撇, start: [59, 30], curveList: [{command: h, parameterList: [27]}, {command: c, parameterList: [-6, 22, -16, 38, -32, 48]}]}
-  - {feature: 点, start: [59, 42], curveList: [{command: c, parameterList: [15, 10, 26, 21, 32, 33]}]}
+  - {feature: 横撇, start: [19, 10], curveList: [{command: h, parameterList: [56]}, {command: c, parameterList: [-2, 3, -20, 14, -25, 16]}]}
+  - {feature: 竖钩, start: [50, 26], curveList: [{command: v, parameterList: [52]}]}
+  - {feature: 竖, start: [13, 33], curveList: [{command: v, parameterList: [31]}]}
+  - {feature: 横折, start: [13, 33], curveList: [{command: h, parameterList: [21]}, {command: v, parameterList: [31]}]}
+  - {feature: 横, start: [13, 64], curveList: [{command: h, parameterList: [21]}]}
+  - {feature: 横撇, start: [60, 32], curveList: [{command: h, parameterList: [28]}, {command: c, parameterList: [-6, 20, -16, 32, -29, 40]}]}
+  - {feature: 点, start: [61, 41], curveList: [{command: c, parameterList: [12, 10, 24, 24, 30, 31]}]}
   - {feature: 横, start: [3, 90], curveList: [{command: h, parameterList: [94]}]}
 亠:
-  - {feature: 点, start: [39, 7], curveList: [{command: c, parameterList: [8, 3, 13, 9, 14, 18]}]}
-  - {feature: 横, start: [0, 34], curveList: [{command: h, parameterList: [96]}]}
+  - {feature: 点, start: [44, 5], curveList: [{command: c, parameterList: [4, 7, 7, 11, 10, 20]}]}
+  - {feature: 横, start: [8, 25], curveList: [{command: h, parameterList: [84]}]}
 亡:
-  - {feature: 点, start: [40, 2], curveList: [{command: c, parameterList: [7, 5, 11, 11, 13, 19]}]}
-  - {feature: 横, start: [0, 30], curveList: [{command: h, parameterList: [99]}]}
-  - {feature: 竖折, start: [24, 30], curveList: [{command: v, parameterList: [60]}, {command: h, parameterList: [69]}]}
+  - {feature: 点, start: [43, 6], curveList: [{command: c, parameterList: [6, 7, 7, 9, 11, 18]}]}
+  - {feature: 横, start: [7, 24], curveList: [{command: h, parameterList: [86]}]}
+  - {feature: 竖折, start: [22, 24], curveList: [{command: v, parameterList: [64]}, {command: h, parameterList: [67]}]}
 交:
-  - {feature: 点, start: [38, 1], curveList: [{command: c, parameterList: [9, 2, 13, 8, 12, 16]}]}
-  - {feature: 横, start: [3, 21], curveList: [{command: h, parameterList: [93]}]}
-  - {feature: 撇, start: [34, 27], curveList: [{command: c, parameterList: [-9, 12, -20, 21, -32, 27]}]}
-  - {feature: 点, start: [58, 28], curveList: [{command: c, parameterList: [14, 5, 25, 12, 32, 20]}]}
-  - {feature: 撇, start: [63, 42], curveList: [{command: c, parameterList: [-3, 24, -23, 43, -59, 57]}]}
-  - {feature: 捺, start: [30, 43], curveList: [{command: c, parameterList: [6, 26, 26, 43, 60, 52]}]}
+  - {feature: 点, start: [45, 4], curveList: [{command: c, parameterList: [2, 2, 5, 8, 8, 15]}]}
+  - {feature: 横, start: [7, 19], curveList: [{command: h, parameterList: [86]}]}
+  - {feature: 撇, start: [36, 27], curveList: [{command: c, parameterList: [-9, 12, -18, 19, -28, 26]}]}
+  - {feature: 点, start: [64, 28], curveList: [{command: c, parameterList: [8, 6, 14, 12, 27, 27]}]}
+  - {feature: 撇, start: [70, 45], curveList: [{command: c, parameterList: [-5, 14, -23, 38, -63, 48]}]}
+  - {feature: 捺, start: [30, 46], curveList: [{command: c, parameterList: [6, 14, 26, 37, 63, 47]}]}
 亥:
-  - {feature: 点, start: [43, 1], curveList: [{command: c, parameterList: [8, 4, 11, 8, 9, 14]}]}
-  - {feature: 横, start: [1, 19], curveList: [{command: h, parameterList: [97]}]}
-  - {feature: 撇折, start: [40, 24], curveList: [{command: c, parameterList: [-7, 7, -14, 15, -20, 24]}, {command: h, parameterList: [29]}]}
-  - {feature: 撇, start: [66, 33], curveList: [{command: c, parameterList: [-18, 21, -38, 36, -58, 46]}]}
-  - {feature: 撇, start: [78, 49], curveList: [{command: c, parameterList: [-22, 24, -45, 40, -69, 48]}]}
-  - {feature: 点, start: [58, 72], curveList: [{command: c, parameterList: [13, 6, 24, 14, 32, 24]}]}
+  - {feature: 点, start: [46, 4], curveList: [{command: c, parameterList: [3, 4, 5, 8, 6, 14]}]}
+  - {feature: 横, start: [7, 17], curveList: [{command: h, parameterList: [86]}]}
+  - {feature: 撇折, start: [43, 17], curveList: [{command: c, parameterList: [-7, 10, -14, 23, -24, 31]}, {command: h, parameterList: [36]}]}
+  - {feature: 撇, start: [71, 29], curveList: [{command: c, parameterList: [-15, 23, -33, 34, -60, 42]}]}
+  - {feature: 撇, start: [83, 45], curveList: [{command: c, parameterList: [-22, 31, -40, 40, -72, 48]}]}
+  - {feature: 点, start: [63, 68], curveList: [{command: c, parameterList: [7, 6, 18, 14, 27, 25]}]}
 亦:
-  - {feature: 点, start: [39, 3], curveList: [{command: c, parameterList: [6, 4, 9, 9, 10, 16]}]}
-  - {feature: 横, start: [0, 28], curveList: [{command: h, parameterList: [98]}]}
-  - {feature: 撇, start: [34, 27], curveList: [{command: c, parameterList: [8, 28, -1, 52, -28, 71]}]}
-  - {feature: 竖钩, start: [63, 27], curveList: [{command: v, parameterList: [66]}]}
-  - {feature: 撇, start: [24, 47], curveList: [{command: c, parameterList: [-5, 10, -12, 20, -21, 28]}]}
-  - {feature: 点, start: [68, 47], curveList: [{command: c, parameterList: [8, 8, 16, 16, 23, 24]}]}
+  - {feature: 点, start: [44, 5], curveList: [{command: c, parameterList: [4, 4, 6, 9, 8, 15]}]}
+  - {feature: 横, start: [8, 20], curveList: [{command: h, parameterList: [84]}]}
+  - {feature: 撇, start: [39, 20], curveList: [{command: c, parameterList: [0, 31, 0, 56, -23, 73]}]}
+  - {feature: 竖钩, start: [62, 20], curveList: [{command: v, parameterList: [73]}]}
+  - {feature: 撇, start: [22, 36], curveList: [{command: c, parameterList: [-4, 16, -9, 26, -15, 36]}]}
+  - {feature: 点, start: [75, 36], curveList: [{command: c, parameterList: [5, 8, 12, 22, 18, 37]}]}
 产:
-  - {feature: 点, start: [43, 0], curveList: [{command: c, parameterList: [6, 4, 9, 9, 7, 15]}]}
-  - {feature: 横, start: [5, 18], curveList: [{command: h, parameterList: [92]}]}
-  - {feature: 点, start: [30, 21], curveList: [{command: c, parameterList: [8, 4, 11, 10, 10, 18]}]}
-  - {feature: 撇, start: [68, 24], curveList: [{command: c, parameterList: [-6, 6, -10, 13, -13, 19]}]}
-  - {feature: 横, start: [18, 44], curveList: [{command: h, parameterList: [81]}]}
-  - {feature: 撇, start: [17, 42], curveList: [{command: c, parameterList: [5, 22, -1, 41, -17, 56]}]}
+  - {feature: 点, start: [47, 3], curveList: [{command: c, parameterList: [2, 4, 4, 9, 6, 14]}]}
+  - {feature: 横, start: [12, 17], curveList: [{command: h, parameterList: [78]}]}
+  - {feature: 点, start: [32, 17], curveList: [{command: c, parameterList: [1, 4, 3, 10, 7, 22]}]}
+  - {feature: 撇, start: [71, 17], curveList: [{command: c, parameterList: [-2, 6, -4, 13, -8, 22]}]}
+  - {feature: 横, start: [17, 39], curveList: [{command: h, parameterList: [75]}]}
+  - {feature: 撇, start: [17, 39], curveList: [{command: c, parameterList: [0, 22, 0, 41, -11, 55]}]}
 享上:
   - {feature: 点, start: [42, 1], curveList: [{command: c, parameterList: [6, 2, 9, 5, 8, 9]}]}
   - {feature: 横, start: [4, 12], curveList: [{command: h, parameterList: [89]}]}
@@ -398,50 +398,50 @@
   - {feature: 横折, start: [24, 21], curveList: [{command: h, parameterList: [50]}, {command: v, parameterList: [12]}]}
   - {feature: 横, start: [24, 32], curveList: [{command: h, parameterList: [48]}]}
 人:
-  - {feature: 撇, start: [47, 2], curveList: [{command: c, parameterList: [2, 44, -14, 75, -48, 95]}]}
-  - {feature: 捺, start: [45, 14], curveList: [{command: c, parameterList: [2, 40, 18, 67, 46, 80]}]}
+  - {feature: 撇, start: [50, 4], curveList: [{command: c, parameterList: [0, 30, 0, 60, -45, 88]}]}
+  - {feature: 捺, start: [50, 24], curveList: [{command: c, parameterList: [2, 25, 18, 53, 44, 69]}]}
 亻:
-  - {feature: 撇, start: [50, 5], curveList: [{command: c, parameterList: [-14, 16, -27, 33, -40, 49]}]}
-  - {feature: 竖, start: [30, 30], curveList: [{command: v, parameterList: [62]}]}
+  - {feature: 撇, start: [42, 5], curveList: [{command: c, parameterList: [-7, 16, -21, 33, -37, 46]}]}
+  - {feature: 竖, start: [28, 28], curveList: [{command: v, parameterList: [66]}]}
 今:
-  - {feature: 撇, start: [48, 3], curveList: [{command: c, parameterList: [-12, 21, -27, 38, -45, 50]}]}
-  - {feature: 捺, start: [48, 8], curveList: [{command: c, parameterList: [9, 17, 24, 29, 44, 37]}]}
-  - {feature: 点, start: [41, 36], curveList: [{command: c, parameterList: [7, 4, 10, 10, 9, 17]}]}
-  - {feature: 横撇, start: [15, 63], curveList: [{command: h, parameterList: [54]}, {command: c, parameterList: [-8, 10, -14, 22, -20, 34]}]}
+  - {feature: 撇, start: [50, 5], curveList: [{command: c, parameterList: [-12, 16, -27, 25, -44, 35]}]}
+  - {feature: 捺, start: [50, 5], curveList: [{command: c, parameterList: [12, 16, 27, 25, 44, 35]}]}
+  - {feature: 点, start: [40, 32], curveList: [{command: c, parameterList: [7, 4, 19, 10, 22, 14]}]}
+  - {feature: 横撇, start: [15, 56], curveList: [{command: h, parameterList: [67]}, {command: c, parameterList: [-8, 17, -12, 22, -39, 37]}]}
 令:
-  - {feature: 撇, start: [50, 2], curveList: [{command: c, parameterList: [-10, 18, -26, 36, -49, 54]}]}
-  - {feature: 捺, start: [46, 7], curveList: [{command: c, parameterList: [17, 23, 33, 37, 49, 42]}]}
-  - {feature: 点, start: [41, 32], curveList: [{command: c, parameterList: [7, 5, 11, 11, 12, 17]}]}
-  - {feature: 横撇, start: [16, 59], curveList: [{command: h, parameterList: [60]}, {command: c, parameterList: [-10, 6, -19, 15, -27, 27]}]}
-  - {feature: 点, start: [28, 78], curveList: [{command: c, parameterList: [15, 2, 26, 9, 32, 19]}]}
+  - {feature: 撇, start: [50, 6], curveList: [{command: c, parameterList: [-10, 14, -26, 26, -44, 36]}]}
+  - {feature: 捺, start: [50, 6], curveList: [{command: c, parameterList: [10, 14, 26, 26, 44, 36]}]}
+  - {feature: 点, start: [40, 30], curveList: [{command: c, parameterList: [12, 5, 18, 11, 20, 12]}]}
+  - {feature: 横撇, start: [17, 53], curveList: [{command: h, parameterList: [62]}, {command: c, parameterList: [-2, 6, -11, 15, -27, 27]}]}
+  - {feature: 点, start: [30, 70], curveList: [{command: c, parameterList: [6, 2, 21, 9, 41, 22]}]}
 以:
-  - {feature: 竖提, start: [14, 8], curveList: [{command: v, parameterList: [72]}, {command: l, parameterList: [32, -28]}]}
-  - {feature: 点, start: [34, 11], curveList: [{command: c, parameterList: [9, 8, 14, 17, 15, 25]}]}
-  - {feature: 撇, start: [76, 6], curveList: [{command: c, parameterList: [0, 27, -18, 55, -52, 85]}]}
-  - {feature: 点, start: [71, 65], curveList: [{command: c, parameterList: [11, 8, 16, 16, 15, 25]}]}
+  - {feature: 竖提, start: [17, 9], curveList: [{command: v, parameterList: [69]}, {command: l, parameterList: [27, -13]}]}
+  - {feature: 点, start: [34, 16], curveList: [{command: c, parameterList: [9, 8, 15, 17, 22, 27]}]}
+  - {feature: 撇, start: [80, 4], curveList: [{command: c, parameterList: [0, 24, 0, 64, -43, 89]}]}
+  - {feature: 点, start: [71, 58], curveList: [{command: c, parameterList: [8, 8, 12, 16, 23, 34]}]}
 伞:
-  - {feature: 撇, start: [49, 3], curveList: [{command: c, parameterList: [-12, 20, -29, 36, -49, 47]}]}
-  - {feature: 捺, start: [50, 6], curveList: [{command: c, parameterList: [11, 16, 26, 28, 44, 36]}]}
-  - {feature: 点, start: [24, 44], curveList: [{command: c, parameterList: [5, 6, 8, 14, 8, 23]}]}
-  - {feature: 撇, start: [75, 44], curveList: [{command: c, parameterList: [-5, 9, -10, 18, -14, 28]}]}
-  - {feature: 横, start: [1, 73], curveList: [{command: h, parameterList: [94]}]}
-  - {feature: 竖, start: [49, 30], curveList: [{command: v, parameterList: [68]}]}
+  - {feature: 撇, start: [50, 5], curveList: [{command: c, parameterList: [-12, 15, -29, 26, -45, 33]}]}
+  - {feature: 捺, start: [50, 5], curveList: [{command: c, parameterList: [12, 15, 29, 26, 45, 33]}]}
+  - {feature: 点, start: [23, 39], curveList: [{command: c, parameterList: [4, 6, 8, 15, 9, 18]}]}
+  - {feature: 撇, start: [77, 38], curveList: [{command: c, parameterList: [-5, 9, -9, 18, -11, 19]}]}
+  - {feature: 横, start: [9, 66], curveList: [{command: h, parameterList: [82]}]}
+  - {feature: 竖, start: [50, 26], curveList: [{command: v, parameterList: [68]}]}
 余:
-  - {feature: 撇, start: [46, 0], curveList: [{command: c, parameterList: [-11, 17, -26, 34, -46, 50]}]}
-  - {feature: 捺, start: [45, 4], curveList: [{command: c, parameterList: [8, 15, 23, 28, 44, 39]}]}
-  - {feature: 横, start: [26, 39], curveList: [{command: h, parameterList: [42]}]}
-  - {feature: 横, start: [7, 58], curveList: [{command: h, parameterList: [77]}]}
-  - {feature: 竖钩, start: [47, 40], curveList: [{command: v, parameterList: [59]}]}
-  - {feature: 撇, start: [28, 66], curveList: [{command: c, parameterList: [-8, 7, -17, 16, -27, 27]}]}
-  - {feature: 点, start: [60, 67], curveList: [{command: c, parameterList: [13, 7, 21, 16, 24, 27]}]}
+  - {feature: 撇, start: [50, 5], curveList: [{command: c, parameterList: [-16, 17, -30, 26, -45, 32]}]}
+  - {feature: 捺, start: [50, 5], curveList: [{command: c, parameterList: [16, 17, 30, 26, 45, 32]}]}
+  - {feature: 横, start: [25, 34], curveList: [{command: h, parameterList: [50]}]}
+  - {feature: 横, start: [10, 54], curveList: [{command: h, parameterList: [80]}]}
+  - {feature: 竖钩, start: [51, 34], curveList: [{command: v, parameterList: [59]}]}
+  - {feature: 撇, start: [33, 65], curveList: [{command: c, parameterList: [-4, 7, -12, 16, -24, 23]}]}
+  - {feature: 点, start: [67, 64], curveList: [{command: c, parameterList: [8, 7, 18, 16, 24, 25]}]}
 佥:
-  - {feature: 撇, start: [48, 4], curveList: [{command: c, parameterList: [-11, 19, -26, 35, -44, 48]}]}
-  - {feature: 捺, start: [47, 5], curveList: [{command: c, parameterList: [11, 20, 26, 32, 45, 37]}]}
-  - {feature: 横, start: [23, 46], curveList: [{command: h, parameterList: [49]}]}
-  - {feature: 点, start: [19, 56], curveList: [{command: c, parameterList: [6, 7, 10, 16, 10, 28]}]}
-  - {feature: 点, start: [38, 52], curveList: [{command: c, parameterList: [8, 7, 12, 16, 13, 26]}]}
-  - {feature: 撇, start: [75, 56], curveList: [{command: c, parameterList: [-8, 12, -15, 25, -20, 39]}]}
-  - {feature: 横, start: [0, 96], curveList: [{command: h, parameterList: [97]}]}
+  - {feature: 撇, start: [50, 5], curveList: [{command: c, parameterList: [-11, 17, -38, 35, -45, 38]}]}
+  - {feature: 捺, start: [50, 5], curveList: [{command: c, parameterList: [11, 17, 35, 35, 45, 38]}]}
+  - {feature: 横, start: [29, 36], curveList: [{command: h, parameterList: [42]}]}
+  - {feature: 点, start: [20, 51], curveList: [{command: c, parameterList: [6, 7, 10, 21, 13, 28]}]}
+  - {feature: 点, start: [44, 48], curveList: [{command: c, parameterList: [4, 7, 8, 16, 11, 27]}]}
+  - {feature: 撇, start: [81, 49], curveList: [{command: c, parameterList: [-4, 12, -11, 25, -19, 39]}]}
+  - {feature: 横, start: [8, 89], curveList: [{command: h, parameterList: [84]}]}
 候角:
   - {feature: 横折, start: [44, 8], curveList: [{command: h, parameterList: [33]}, {command: v, parameterList: [18]}]}
   - {feature: 横, start: [40, 26], curveList: [{command: h, parameterList: [56]}]}
@@ -459,122 +459,122 @@
   - {feature: 横折, start: [67, 11], curveList: [{command: h, parameterList: [20]}, {command: v, parameterList: [26]}]}
   - {feature: 横, start: [67, 32], curveList: [{command: h, parameterList: [20]}]}
 儿:
-  - {feature: 撇, start: [36, 5], curveList: [{command: c, parameterList: [10, 38, -2, 69, -37, 93]}]}
-  - {feature: 竖弯钩, start: [61, 5], curveList: [{command: v, parameterList: [83]}, {command: h, parameterList: [32]}]}
+  - {feature: 撇, start: [32, 7], curveList: [{command: c, parameterList: [0, 47, 0, 66, -25, 86]}]}
+  - {feature: 竖弯钩, start: [62, 7], curveList: [{command: v, parameterList: [86]}, {command: h, parameterList: [32]}]}
 兀:
-  - {feature: 横, start: [2, 15], curveList: [{command: h, parameterList: [92]}]}
-  - {feature: 撇, start: [33, 16], curveList: [{command: c, parameterList: [7, 39, -4, 66, -32, 80]}]}
-  - {feature: 竖弯钩, start: [59, 16], curveList: [{command: v, parameterList: [69]}, {command: h, parameterList: [33]}]}
+  - {feature: 横, start: [8, 14], curveList: [{command: h, parameterList: [84]}]}
+  - {feature: 撇, start: [35, 14], curveList: [{command: c, parameterList: [0, 39, 0, 54, -27, 79]}]}
+  - {feature: 竖弯钩, start: [63, 14], curveList: [{command: v, parameterList: [79]}, {command: h, parameterList: [32]}]}
 元:
-  - {feature: 横, start: [15, 9], curveList: [{command: h, parameterList: [74]}]}
-  - {feature: 横, start: [3, 36], curveList: [{command: h, parameterList: [94]}]}
-  - {feature: 撇, start: [36, 37], curveList: [{command: c, parameterList: [7, 22, -5, 41, -36, 57]}]}
-  - {feature: 竖弯钩, start: [61, 38], curveList: [{command: v, parameterList: [46]}, {command: h, parameterList: [32]}]}
+  - {feature: 横, start: [16, 12], curveList: [{command: h, parameterList: [68]}]}
+  - {feature: 横, start: [8, 42], curveList: [{command: h, parameterList: [84]}]}
+  - {feature: 撇, start: [37, 42], curveList: [{command: c, parameterList: [0, 17, 0, 37, -31, 52]}]}
+  - {feature: 竖弯钩, start: [62, 42], curveList: [{command: v, parameterList: [52]}, {command: h, parameterList: [32]}]}
 充:
-  - {feature: 点, start: [46, 0], curveList: [{command: c, parameterList: [5, 3, 8, 7, 8, 13]}]}
-  - {feature: 横, start: [5, 17], curveList: [{command: h, parameterList: [93]}]}
-  - {feature: 撇折, start: [46, 23], curveList: [{command: c, parameterList: [-10, 5, -19, 13, -26, 23]}, {command: h, parameterList: [59]}]}
-  - {feature: 点, start: [61, 26], curveList: [{command: c, parameterList: [14, 8, 22, 16, 22, 25]}]}
-  - {feature: 撇, start: [38, 47], curveList: [{command: c, parameterList: [4, 24, -8, 41, -34, 51]}]}
-  - {feature: 竖弯钩, start: [59, 46], curveList: [{command: v, parameterList: [46]}, {command: h, parameterList: [31]}]}
+  - {feature: 点, start: [46, 4], curveList: [{command: c, parameterList: [2, 3, 4, 7, 7, 15]}]}
+  - {feature: 横, start: [10, 19], curveList: [{command: h, parameterList: [80]}]}
+  - {feature: 撇折, start: [43, 19], curveList: [{command: c, parameterList: [-2, 3, -6, 13, -24, 29]}, {command: h, parameterList: [62]}]}
+  - {feature: 点, start: [66, 29], curveList: [{command: c, parameterList: [10, 11, 13, 16, 20, 27]}]}
+  - {feature: 撇, start: [37, 54], curveList: [{command: c, parameterList: [0, 7, 0, 30, -29, 39]}]}
+  - {feature: 竖弯钩, start: [60, 53], curveList: [{command: v, parameterList: [39]}, {command: h, parameterList: [33]}]}
 充上:
   - {feature: 点, start: [46, 0], curveList: [{command: c, parameterList: [5, 3, 8, 7, 8, 13]}]}
   - {feature: 横, start: [5, 17], curveList: [{command: h, parameterList: [93]}]}
   - {feature: 撇折, start: [46, 23], curveList: [{command: c, parameterList: [-10, 5, -19, 13, -26, 23]}, {command: h, parameterList: [59]}]}
   - {feature: 点, start: [61, 26], curveList: [{command: c, parameterList: [14, 8, 22, 16, 22, 25]}]}
 兆:
-  - {feature: 撇, start: [36, 2], curveList: [{command: c, parameterList: [12, 47, 0, 79, -37, 96]}]}
-  - {feature: 点, start: [6, 15], curveList: [{command: c, parameterList: [10, 6, 16, 13, 18, 22]}]}
-  - {feature: 提, start: [4, 64], curveList: [{command: l, parameterList: [29, -12]}]}
-  - {feature: 竖弯钩, start: [59, 2], curveList: [{command: v, parameterList: [84]}, {command: h, parameterList: [34]}]}
-  - {feature: 撇, start: [87, 17], curveList: [{command: c, parameterList: [-9, 7, -18, 14, -27, 21]}]}
-  - {feature: 点, start: [60, 46], curveList: [{command: c, parameterList: [12, 4, 22, 10, 28, 19]}]}
+  - {feature: 撇, start: [40, 5], curveList: [{command: c, parameterList: [0, 62, 0, 73, -33, 88]}]}
+  - {feature: 点, start: [12, 17], curveList: [{command: c, parameterList: [7, 6, 11, 13, 16, 20]}]}
+  - {feature: 提, start: [7, 63], curveList: [{command: l, parameterList: [32, -16]}]}
+  - {feature: 竖弯钩, start: [60, 5], curveList: [{command: v, parameterList: [88]}, {command: h, parameterList: [34]}]}
+  - {feature: 撇, start: [86, 16], curveList: [{command: c, parameterList: [-4, 7, -8, 14, -15, 22]}]}
+  - {feature: 点, start: [60, 46], curveList: [{command: c, parameterList: [12, 4, 19, 9, 29, 17]}]}
 克:
-  - {feature: 横, start: [2, 17], curveList: [{command: h, parameterList: [94]}]}
-  - {feature: 竖, start: [48, 2], curveList: [{command: v, parameterList: [32]}]}
-  - {feature: 竖, start: [23, 31], curveList: [{command: v, parameterList: [34]}]}
-  - {feature: 横折, start: [23, 33], curveList: [{command: h, parameterList: [51]}, {command: v, parameterList: [28]}]}
-  - {feature: 横, start: [23, 56], curveList: [{command: h, parameterList: [50]}]}
-  - {feature: 撇, start: [39, 56], curveList: [{command: c, parameterList: [5, 9, -8, 23, -39, 42]}]}
-  - {feature: 竖弯钩, start: [57, 56], curveList: [{command: v, parameterList: [32]}, {command: h, parameterList: [35]}]}
+  - {feature: 横, start: [8, 17], curveList: [{command: h, parameterList: [84]}]}
+  - {feature: 竖, start: [50, 4], curveList: [{command: v, parameterList: [30]}]}
+  - {feature: 竖, start: [21, 34], curveList: [{command: v, parameterList: [24]}]}
+  - {feature: 横折, start: [21, 34], curveList: [{command: h, parameterList: [58]}, {command: v, parameterList: [24]}]}
+  - {feature: 横, start: [21, 58], curveList: [{command: h, parameterList: [58]}]}
+  - {feature: 撇, start: [38, 58], curveList: [{command: c, parameterList: [0, 6, 0, 26, -30, 35]}]}
+  - {feature: 竖弯钩, start: [61, 58], curveList: [{command: v, parameterList: [35]}, {command: h, parameterList: [32]}]}
 免:
-  - {feature: 撇, start: [38, 4], curveList: [{command: c, parameterList: [-8, 14, -20, 28, -36, 40]}]}
-  - {feature: 横钩, start: [33, 15], curveList: [{command: h, parameterList: [32]}]}
-  - {feature: 竖, start: [24, 32], curveList: [{command: v, parameterList: [34]}]}
-  - {feature: 横折, start: [25, 34], curveList: [{command: h, parameterList: [57]}, {command: v, parameterList: [27]}]}
-  - {feature: 横, start: [25, 57], curveList: [{command: h, parameterList: [56]}]}
-  - {feature: 撇, start: [51, 35], curveList: [{command: c, parameterList: [7, 18, -8, 39, -46, 63]}]}
-  - {feature: 竖弯钩, start: [59, 58], curveList: [{command: v, parameterList: [32]}, {command: h, parameterList: [33]}]}
+  - {feature: 撇, start: [39, 4], curveList: [{command: c, parameterList: [-8, 14, -20, 25, -32, 32]}]}
+  - {feature: 横撇, start: [32, 15], curveList: [{command: h, parameterList: [38]}, {command: c, parameterList: [-8, 11, -11, 12, -19, 19]}]}
+  - {feature: 竖, start: [21, 34], curveList: [{command: v, parameterList: [24]}]}
+  - {feature: 横折, start: [21, 34], curveList: [{command: h, parameterList: [60]}, {command: v, parameterList: [24]}]}
+  - {feature: 横, start: [21, 58], curveList: [{command: h, parameterList: [60]}]}
+  - {feature: 撇, start: [51, 34], curveList: [{command: c, parameterList: [0, 7, 0, 47, -44, 59]}]}
+  - {feature: 竖弯钩, start: [58, 58], curveList: [{command: v, parameterList: [35]}, {command: h, parameterList: [35]}]}
 兑:
-  - {feature: 点, start: [23, 2], curveList: [{command: c, parameterList: [8, 6, 13, 12, 15, 20]}]}
-  - {feature: 撇, start: [70, 3], curveList: [{command: c, parameterList: [-4, 6, -9, 14, -16, 22]}]}
-  - {feature: 竖, start: [24, 27], curveList: [{command: v, parameterList: [37]}]}
-  - {feature: 横折, start: [24, 30], curveList: [{command: h, parameterList: [49]}, {command: v, parameterList: [32]}]}
-  - {feature: 横, start: [24, 57], curveList: [{command: h, parameterList: [49]}]}
-  - {feature: 撇, start: [38, 57], curveList: [{command: c, parameterList: [6, 12, -7, 26, -39, 42]}]}
-  - {feature: 竖弯钩, start: [57, 57], curveList: [{command: v, parameterList: [31]}, {command: h, parameterList: [35]}]}
+  - {feature: 点, start: [27, 5], curveList: [{command: c, parameterList: [6, 6, 8, 12, 11, 17]}]}
+  - {feature: 撇, start: [72, 4], curveList: [{command: c, parameterList: [-4, 6, -9, 17, -14, 23]}]}
+  - {feature: 竖, start: [22, 27], curveList: [{command: v, parameterList: [28]}]}
+  - {feature: 横折, start: [22, 27], curveList: [{command: h, parameterList: [56]}, {command: v, parameterList: [28]}]}
+  - {feature: 横, start: [22, 55], curveList: [{command: h, parameterList: [56]}]}
+  - {feature: 撇, start: [40, 55], curveList: [{command: c, parameterList: [0, 6, 0, 25, -32, 39]}]}
+  - {feature: 竖弯钩, start: [62, 55], curveList: [{command: v, parameterList: [39]}, {command: h, parameterList: [32]}]}
 兔:
-  - {feature: 撇, start: [40, 3], curveList: [{command: c, parameterList: [-8, 15, -21, 30, -39, 44]}]}
-  - {feature: 横钩, start: [33, 15], curveList: [{command: h, parameterList: [33]}]}
-  - {feature: 竖, start: [22, 34], curveList: [{command: v, parameterList: [31]}]}
-  - {feature: 横折, start: [23, 36], curveList: [{command: h, parameterList: [59]}, {command: v, parameterList: [25]}]}
-  - {feature: 横, start: [23, 57], curveList: [{command: h, parameterList: [58]}]}
-  - {feature: 撇, start: [51, 37], curveList: [{command: c, parameterList: [7, 16, -7, 36, -41, 61]}]}
-  - {feature: 竖弯钩, start: [59, 57], curveList: [{command: v, parameterList: [37]}, {command: h, parameterList: [33]}]}
-  - {feature: 点, start: [67, 64], curveList: [{command: c, parameterList: [8, 7, 13, 13, 15, 19]}]}
+  - {feature: 撇, start: [39, 4], curveList: [{command: c, parameterList: [-8, 15, -27, 30, -33, 32]}]}
+  - {feature: 横撇, start: [31, 16], curveList: [{command: h, parameterList: [39]}, {command: c, parameterList: [-8, 8, -9, 10, -20, 17]}]}
+  - {feature: 竖, start: [20, 33], curveList: [{command: v, parameterList: [24]}]}
+  - {feature: 横折, start: [20, 33], curveList: [{command: h, parameterList: [61]}, {command: v, parameterList: [24]}]}
+  - {feature: 横, start: [20, 57], curveList: [{command: h, parameterList: [61]}]}
+  - {feature: 撇, start: [50, 33], curveList: [{command: c, parameterList: [0, 16, 0, 45, -41, 60]}]}
+  - {feature: 竖弯钩, start: [56, 57], curveList: [{command: v, parameterList: [36]}, {command: h, parameterList: [33]}]}
+  - {feature: 点, start: [67, 66], curveList: [{command: c, parameterList: [8, 7, 12, 13, 13, 15]}]}
 入:
-  - {feature: 撇, start: [50, 34], curveList: [{command: c, parameterList: [-10, 23, -26, 42, -46, 58]}]}
-  - {feature: 捺, start: [30, 2], curveList: [{command: c, parameterList: [18, 32, 38, 62, 62, 90]}]}
+  - {feature: 撇, start: [50, 26], curveList: [{command: c, parameterList: [-10, 29, -13, 42, -44, 66]}]}
+  - {feature: 捺, start: [32, 5], curveList: [{command: c, parameterList: [36, 32, 16, 55, 62, 87]}]}
 八:
-  - {feature: 撇, start: [35, 20], curveList: [{command: c, parameterList: [-3, 33, -14, 57, -34, 72]}]}
-  - {feature: 捺, start: [57, 7], curveList: [{command: c, parameterList: [1, 37, 13, 64, 35, 82]}]}
+  - {feature: 撇, start: [37, 11], curveList: [{command: c, parameterList: [-3, 29, -14, 57, -30, 80]}]}
+  - {feature: 捺, start: [61, 8], curveList: [{command: c, parameterList: [1, 37, 13, 64, 33, 83]}]}
 兰:
-  - {feature: 点, start: [19, 2], curveList: [{command: c, parameterList: [10, 6, 16, 14, 17, 22]}]}
-  - {feature: 撇, start: [69, 4], curveList: [{command: c, parameterList: [-4, 10, -8, 18, -12, 26]}]}
-  - {feature: 横, start: [10, 32], curveList: [{command: h, parameterList: [78]}]}
-  - {feature: 横, start: [14, 61], curveList: [{command: h, parameterList: [66]}]}
-  - {feature: 横, start: [3, 93], curveList: [{command: h, parameterList: [91]}]}
+  - {feature: 点, start: [25, 5], curveList: [{command: c, parameterList: [5, 6, 10, 14, 12, 18]}]}
+  - {feature: 撇, start: [75, 4], curveList: [{command: c, parameterList: [-4, 10, -8, 18, -14, 27]}]}
+  - {feature: 横, start: [11, 31], curveList: [{command: h, parameterList: [78]}]}
+  - {feature: 横, start: [18, 58], curveList: [{command: h, parameterList: [64]}]}
+  - {feature: 横, start: [6, 88], curveList: [{command: h, parameterList: [88]}]}
 关:
-  - {feature: 点, start: [23, 3], curveList: [{command: c, parameterList: [10, 6, 15, 12, 17, 18]}]}
-  - {feature: 捺, start: [70, 3], curveList: [{command: c, parameterList: [-6, 8, -11, 15, -14, 22]}]}
-  - {feature: 横, start: [9, 28], curveList: [{command: h, parameterList: [84]}]}
-  - {feature: 横, start: [4, 55], curveList: [{command: h, parameterList: [95]}]}
-  - {feature: 撇, start: [47, 27], curveList: [{command: c, parameterList: [6, 10, -10, 34, -48, 72]}]}
-  - {feature: 捺, start: [52, 54], curveList: [{command: c, parameterList: [8, 22, 24, 36, 46, 42]}]}
+  - {feature: 点, start: [27, 5], curveList: [{command: c, parameterList: [6, 6, 10, 12, 13, 18]}]}
+  - {feature: 捺, start: [73, 3], curveList: [{command: c, parameterList: [-4, 8, -6, 15, -12, 25]}]}
+  - {feature: 横, start: [14, 28], curveList: [{command: h, parameterList: [72]}]}
+  - {feature: 横, start: [8, 53], curveList: [{command: h, parameterList: [84]}]}
+  - {feature: 撇, start: [50, 28], curveList: [{command: c, parameterList: [0, 24, 0, 52, -42, 65]}]}
+  - {feature: 捺, start: [51, 53], curveList: [{command: c, parameterList: [8, 22, 24, 32, 42, 40]}]}
 兴:
-  - {feature: 点, start: [13, 7], curveList: [{command: c, parameterList: [10, 10, 16, 23, 19, 39]}]}
-  - {feature: 点, start: [38, 0], curveList: [{command: c, parameterList: [11, 12, 16, 25, 16, 41]}]}
-  - {feature: 撇, start: [86, 9], curveList: [{command: c, parameterList: [-5, 13, -13, 27, -23, 43]}]}
-  - {feature: 横, start: [2, 55], curveList: [{command: h, parameterList: [96]}]}
-  - {feature: 撇, start: [37, 65], curveList: [{command: c, parameterList: [-9, 12, -21, 22, -37, 31]}]}
-  - {feature: 点, start: [59, 61], curveList: [{command: c, parameterList: [14, 8, 25, 19, 32, 33]}]}
+  - {feature: 点, start: [14, 12], curveList: [{command: c, parameterList: [7, 10, 10, 19, 14, 29]}]}
+  - {feature: 点, start: [39, 6], curveList: [{command: c, parameterList: [7, 12, 12, 25, 14, 31]}]}
+  - {feature: 撇, start: [83, 6], curveList: [{command: c, parameterList: [-5, 13, -10, 27, -20, 46]}]}
+  - {feature: 横, start: [5, 52], curveList: [{command: h, parameterList: [90]}]}
+  - {feature: 撇, start: [35, 63], curveList: [{command: c, parameterList: [-8, 12, -15, 22, -24, 29]}]}
+  - {feature: 点, start: [65, 63], curveList: [{command: c, parameterList: [8, 8, 17, 19, 24, 29]}]}
 其:
-  - {feature: 横, start: [2, 18], curveList: [{command: h, parameterList: [93]}]}
-  - {feature: 竖, start: [30, 2], curveList: [{command: v, parameterList: [69]}]}
-  - {feature: 竖, start: [68, 2], curveList: [{command: v, parameterList: [69]}]}
-  - {feature: 横, start: [30, 33], curveList: [{command: h, parameterList: [37]}]}
-  - {feature: 横, start: [30, 53], curveList: [{command: h, parameterList: [37]}]}
-  - {feature: 横, start: [0, 72], curveList: [{command: h, parameterList: [99]}]}
-  - {feature: 撇, start: [34, 78], curveList: [{command: c, parameterList: [-8, 8, -18, 15, -30, 21]}]}
-  - {feature: 点, start: [56, 78], curveList: [{command: c, parameterList: [14, 4, 26, 10, 34, 19]}]}
+  - {feature: 横, start: [8, 15], curveList: [{command: h, parameterList: [84]}]}
+  - {feature: 竖, start: [26, 4], curveList: [{command: v, parameterList: [65]}]}
+  - {feature: 竖, start: [74, 4], curveList: [{command: v, parameterList: [65]}]}
+  - {feature: 横, start: [26, 33], curveList: [{command: h, parameterList: [48]}]}
+  - {feature: 横, start: [26, 51], curveList: [{command: h, parameterList: [48]}]}
+  - {feature: 横, start: [6, 69], curveList: [{command: h, parameterList: [88]}]}
+  - {feature: 撇, start: [40, 76], curveList: [{command: c, parameterList: [-11, 8, -25, 14, -31, 17]}]}
+  - {feature: 点, start: [61, 76], curveList: [{command: c, parameterList: [12, 4, 21, 10, 31, 17]}]}
 具:
-  - {feature: 竖, start: [28, 2], curveList: [{command: v, parameterList: [65]}]}
-  - {feature: 横折, start: [28, 4], curveList: [{command: h, parameterList: [43]}, {command: v, parameterList: [62]}]}
-  - {feature: 横, start: [28, 21], curveList: [{command: h, parameterList: [43]}]}
-  - {feature: 横, start: [28, 36], curveList: [{command: h, parameterList: [43]}]}
-  - {feature: 横, start: [28, 51], curveList: [{command: h, parameterList: [44]}]}
-  - {feature: 横, start: [0, 67], curveList: [{command: h, parameterList: [99]}]}
-  - {feature: 撇, start: [36, 73], curveList: [{command: c, parameterList: [-10, 10, -22, 17, -36, 23]}]}
-  - {feature: 点, start: [59, 73], curveList: [{command: c, parameterList: [14, 4, 23, 11, 29, 21]}]}
+  - {feature: 竖, start: [24, 10], curveList: [{command: v, parameterList: [62]}]}
+  - {feature: 横折, start: [24, 10], curveList: [{command: h, parameterList: [52]}, {command: v, parameterList: [62]}]}
+  - {feature: 横, start: [24, 26], curveList: [{command: h, parameterList: [52]}]}
+  - {feature: 横, start: [24, 41], curveList: [{command: h, parameterList: [52]}]}
+  - {feature: 横, start: [24, 56], curveList: [{command: h, parameterList: [52]}]}
+  - {feature: 横, start: [6, 72], curveList: [{command: h, parameterList: [88]}]}
+  - {feature: 撇, start: [38, 77], curveList: [{command: c, parameterList: [-10, 10, -27, 17, -27, 16]}]}
+  - {feature: 点, start: [62, 77], curveList: [{command: c, parameterList: [10, 4, 19, 11, 27, 16]}]}
 典:
-  - {feature: 竖, start: [20, 20], curveList: [{command: v, parameterList: [49]}]}
-  - {feature: 横折, start: [20, 22], curveList: [{command: h, parameterList: [61]}, {command: v, parameterList: [48]}]}
-  - {feature: 横, start: [19, 44], curveList: [{command: h, parameterList: [60]}]}
-  - {feature: 竖, start: [39, 2], curveList: [{command: v, parameterList: [66]}]}
-  - {feature: 竖, start: [59, 3], curveList: [{command: v, parameterList: [66]}]}
-  - {feature: 横, start: [0, 70], curveList: [{command: h, parameterList: [99]}]}
-  - {feature: 撇, start: [35, 76], curveList: [{command: c, parameterList: [-8, 9, -19, 17, -31, 23]}]}
-  - {feature: 点, start: [58, 76], curveList: [{command: c, parameterList: [16, 2, 26, 10, 32, 22]}]}
+  - {feature: 竖, start: [17, 19], curveList: [{command: v, parameterList: [48]}]}
+  - {feature: 横折, start: [17, 19], curveList: [{command: h, parameterList: [66]}, {command: v, parameterList: [48]}]}
+  - {feature: 横, start: [17, 42], curveList: [{command: h, parameterList: [66]}]}
+  - {feature: 竖, start: [39, 3], curveList: [{command: v, parameterList: [64]}]}
+  - {feature: 竖, start: [61, 3], curveList: [{command: v, parameterList: [64]}]}
+  - {feature: 横, start: [5, 67], curveList: [{command: h, parameterList: [90]}]}
+  - {feature: 撇, start: [39, 74], curveList: [{command: c, parameterList: [-8, 9, -22, 17, -31, 20]}]}
+  - {feature: 点, start: [61, 74], curveList: [{command: c, parameterList: [11, 6, 26, 13, 31, 20]}]}
 养上:
   - {feature: 点, start: [28, 2], curveList: [{command: c, parameterList: [7, 4, 12, 8, 14, 13]}]}
   - {feature: 撇, start: [68, 3], curveList: [{command: c, parameterList: [-4, 4, -7, 9, -9, 13]}]}
@@ -584,94 +584,94 @@
   - {feature: 撇, start: [46, 19], curveList: [{command: c, parameterList: [6, 12, -9, 31, -45, 56]}]}
   - {feature: 捺, start: [58, 46], curveList: [{command: c, parameterList: [6, 12, 18, 20, 36, 24]}]}
 兼:
-  - {feature: 点, start: [23, 0], curveList: [{command: c, parameterList: [8, 4, 13, 10, 13, 19]}]}
-  - {feature: 撇, start: [66, 3], curveList: [{command: c, parameterList: [-4, 5, -8, 10, -11, 16]}]}
-  - {feature: 横, start: [2, 21], curveList: [{command: h, parameterList: [92]}]}
-  - {feature: 横折, start: [13, 34], curveList: [{command: h, parameterList: [66]}, {command: v, parameterList: [33]}]}
-  - {feature: 横, start: [0, 48], curveList: [{command: h, parameterList: [98]}]}
-  - {feature: 横, start: [9, 63], curveList: [{command: h, parameterList: [68]}]}
-  - {feature: 竖, start: [36, 21], curveList: [{command: v, parameterList: [77]}]}
-  - {feature: 竖, start: [58, 22], curveList: [{command: v, parameterList: [76]}]}
-  - {feature: 撇, start: [32, 66], curveList: [{command: c, parameterList: [-8, 10, -19, 20, -32, 28]}]}
-  - {feature: 捺, start: [63, 65], curveList: [{command: c, parameterList: [8, 12, 18, 21, 29, 27]}]}
+  - {feature: 点, start: [29, 4], curveList: [{command: c, parameterList: [3, 4, 6, 10, 7, 13]}]}
+  - {feature: 撇, start: [69, 4], curveList: [{command: c, parameterList: [-2, 4, -5, 10, -7, 13]}]}
+  - {feature: 横, start: [9, 17], curveList: [{command: h, parameterList: [82]}]}
+  - {feature: 横折, start: [16, 32], curveList: [{command: h, parameterList: [64]}, {command: v, parameterList: [31]}]}
+  - {feature: 横, start: [6, 48], curveList: [{command: h, parameterList: [88]}]}
+  - {feature: 横, start: [15, 63], curveList: [{command: h, parameterList: [65]}]}
+  - {feature: 竖, start: [39, 17], curveList: [{command: v, parameterList: [78]}]}
+  - {feature: 竖, start: [58, 17], curveList: [{command: v, parameterList: [78]}]}
+  - {feature: 撇, start: [34, 63], curveList: [{command: c, parameterList: [-3, 10, -16, 20, -28, 27]}]}
+  - {feature: 捺, start: [63, 63], curveList: [{command: c, parameterList: [8, 12, 18, 21, 31, 27]}]}
 冂:
-  - {feature: 竖, start: [13, 10], curveList: [{command: v, parameterList: [87]}]}
-  - {feature: 横折钩, start: [13, 11], curveList: [{command: h, parameterList: [73]}, {command: v, parameterList: [81]}]}
+  - {feature: 竖, start: [13, 11], curveList: [{command: v, parameterList: [83]}]}
+  - {feature: 横折钩, start: [13, 11], curveList: [{command: h, parameterList: [73]}, {command: v, parameterList: [83]}]}
 内:
-  - {feature: 竖, start: [13, 23], curveList: [{command: v, parameterList: [76]}]}
-  - {feature: 横折钩, start: [13, 25], curveList: [{command: h, parameterList: [71]}, {command: v, parameterList: [68]}]}
-  - {feature: 撇, start: [47, 3], curveList: [{command: c, parameterList: [8, 30, -2, 54, -29, 73]}]}
-  - {feature: 点, start: [48, 44], curveList: [{command: c, parameterList: [11, 6, 18, 14, 22, 24]}]}
+  - {feature: 竖, start: [13, 23], curveList: [{command: v, parameterList: [71]}]}
+  - {feature: 横折钩, start: [13, 23], curveList: [{command: h, parameterList: [74]}, {command: v, parameterList: [71]}]}
+  - {feature: 撇, start: [52, 4], curveList: [{command: c, parameterList: [0, 16, 0, 50, -29, 67]}]}
+  - {feature: 点, start: [48, 38], curveList: [{command: c, parameterList: [9, 6, 14, 14, 29, 32]}]}
 冉:
-  - {feature: 竖, start: [19, 17], curveList: [{command: v, parameterList: [81]}]}
-  - {feature: 横折钩, start: [19, 20], curveList: [{command: h, parameterList: [63]}, {command: v, parameterList: [78]}]}
-  - {feature: 竖, start: [50, 3], curveList: [{command: v, parameterList: [62]}]}
-  - {feature: 横, start: [19, 42], curveList: [{command: h, parameterList: [63]}]}
-  - {feature: 横, start: [0, 65], curveList: [{command: h, parameterList: [99]}]}
+  - {feature: 竖, start: [19, 20], curveList: [{command: v, parameterList: [74]}]}
+  - {feature: 横折钩, start: [19, 20], curveList: [{command: h, parameterList: [62]}, {command: v, parameterList: [74]}]}
+  - {feature: 竖, start: [50, 5], curveList: [{command: v, parameterList: [61]}]}
+  - {feature: 横, start: [19, 43], curveList: [{command: h, parameterList: [62]}]}
+  - {feature: 横, start: [6, 66], curveList: [{command: h, parameterList: [88]}]}
 册:
-  - {feature: 撇, start: [17, 8], curveList: [{command: c, parameterList: [7, 44, 1, 74, -17, 90]}]}
-  - {feature: 横折钩, start: [19, 11], curveList: [{command: h, parameterList: [19]}, {command: v, parameterList: [85]}]}
-  - {feature: 撇, start: [57, 8], curveList: [{command: c, parameterList: [6, 45, 1, 75, -15, 90]}]}
-  - {feature: 横折钩, start: [59, 11], curveList: [{command: h, parameterList: [21]}, {command: v, parameterList: [87]}]}
-  - {feature: 横, start: [1, 47], curveList: [{command: h, parameterList: [96]}]}
+  - {feature: 撇, start: [19, 10], curveList: [{command: c, parameterList: [0, 53, 0, 73, -9, 83]}]}
+  - {feature: 横折钩, start: [19, 10], curveList: [{command: h, parameterList: [23]}, {command: v, parameterList: [83]}]}
+  - {feature: 撇, start: [59, 10], curveList: [{command: c, parameterList: [0, 53, 0, 73, -9, 83]}]}
+  - {feature: 横折钩, start: [59, 10], curveList: [{command: h, parameterList: [23]}, {command: v, parameterList: [83]}]}
+  - {feature: 横, start: [6, 47], curveList: [{command: h, parameterList: [88]}]}
 再:
-  - {feature: 横, start: [5, 7], curveList: [{command: h, parameterList: [90]}]}
-  - {feature: 竖, start: [20, 25], curveList: [{command: v, parameterList: [73]}]}
-  - {feature: 横折钩, start: [19, 28], curveList: [{command: h, parameterList: [58]}, {command: v, parameterList: [70]}]}
-  - {feature: 竖, start: [48, 8], curveList: [{command: v, parameterList: [57]}]}
-  - {feature: 横, start: [19, 46], curveList: [{command: h, parameterList: [59]}]}
-  - {feature: 横, start: [0, 65], curveList: [{command: h, parameterList: [99]}]}
+  - {feature: 横, start: [8, 11], curveList: [{command: h, parameterList: [84]}]}
+  - {feature: 竖, start: [19, 28], curveList: [{command: v, parameterList: [66]}]}
+  - {feature: 横折钩, start: [19, 28], curveList: [{command: h, parameterList: [62]}, {command: v, parameterList: [66]}]}
+  - {feature: 竖, start: [50, 11], curveList: [{command: v, parameterList: [55]}]}
+  - {feature: 横, start: [19, 47], curveList: [{command: h, parameterList: [62]}]}
+  - {feature: 横, start: [5, 66], curveList: [{command: h, parameterList: [90]}]}
 冒上:
   - {feature: 竖, start: [17, 4], curveList: [{command: v, parameterList: [36]}]}
   - {feature: 横折, start: [17, 7], curveList: [{command: h, parameterList: [64]}, {command: v, parameterList: [31]}]}
   - {feature: 横, start: [25, 22], curveList: [{command: h, parameterList: [49]}]}
   - {feature: 横, start: [25, 34], curveList: [{command: h, parameterList: [49]}]}
 冖:
-  - {feature: 点, start: [15, 9], curveList: [{command: c, parameterList: [-2, 12, -5, 21, -9, 27]}]}
-  - {feature: 横钩, start: [15, 15], curveList: [{command: h, parameterList: [73]}]}
+  - {feature: 点, start: [12, 14], curveList: [{command: c, parameterList: [0, 8, 0, 14, 0, 20]}]}
+  - {feature: 横钩, start: [12, 14], curveList: [{command: h, parameterList: [76]}]}
 农:
-  - {feature: 点, start: [13, 17], curveList: [{command: c, parameterList: [-2, 10, -4, 17, -7, 23]}]}
-  - {feature: 横钩, start: [13, 24], curveList: [{command: h, parameterList: [71]}]}
-  - {feature: 撇, start: [50, 4], curveList: [{command: c, parameterList: [-6, 30, -22, 56, -50, 78]}]}
-  - {feature: 竖提, start: [30, 52], curveList: [{command: v, parameterList: [40]}, {command: l, parameterList: [29, -16]}]}
-  - {feature: 撇, start: [82, 45], curveList: [{command: c, parameterList: [-6, 5, -13, 10, -21, 16]}]}
-  - {feature: 捺, start: [48, 26], curveList: [{command: c, parameterList: [0, 30, 14, 52, 42, 65]}]}
+  - {feature: 点, start: [14, 22], curveList: [{command: c, parameterList: [0, 6, 0, 12, 0, 18]}]}
+  - {feature: 横钩, start: [15, 22], curveList: [{command: h, parameterList: [71]}]}
+  - {feature: 撇, start: [52, 4], curveList: [{command: c, parameterList: [-6, 30, -22, 54, -46, 68]}]}
+  - {feature: 竖提, start: [28, 54], curveList: [{command: v, parameterList: [38]}, {command: l, parameterList: [30, -12]}]}
+  - {feature: 撇, start: [85, 46], curveList: [{command: c, parameterList: [-6, 5, -9, 10, -20, 16]}]}
+  - {feature: 捺, start: [51, 31], curveList: [{command: c, parameterList: [0, 3, 14, 45, 41, 61]}]}
 冫:
-  - {feature: 点, start: [9, 12], curveList: [{command: c, parameterList: [10, 4, 16, 12, 17, 22]}]}
-  - {feature: 提, start: [3, 64], curveList: [{command: l, parameterList: [25, -78]}]}
+  - {feature: 点, start: [12, 9], curveList: [{command: c, parameterList: [5, 4, 13, 12, 20, 22]}]}
+  - {feature: 提, start: [12, 92], curveList: [{command: l, parameterList: [22, -42]}]}
 冬下:
   - {feature: 点, start: [40, 40], curveList: [{command: c, parameterList: [6, 3, 13, 7, 20, 12]}]}
   - {feature: 点, start: [35, 60], curveList: [{command: c, parameterList: [10, 4, 20, 12, 30, 24]}]}
 几:
-  - {feature: 撇, start: [32, 8], curveList: [{command: c, parameterList: [8, 30, -2, 60, -32, 88]}]}
-  - {feature: 横折弯钩, start: [32, 11], curveList: [{command: h, parameterList: [31]}, {command: v, parameterList: [72]}, {command: h, parameterList: [29]}]}
+  - {feature: 撇, start: [28, 11], curveList: [{command: c, parameterList: [0, 44, 0, 62, -21, 82]}]}
+  - {feature: 横折弯钩, start: [28, 11], curveList: [{command: h, parameterList: [39]}, {command: v, parameterList: [82]}, {command: h, parameterList: [26]}]}
 凵:
-  - {feature: 竖折, start: [16, 17], curveList: [{command: v, parameterList: [64]}, {command: h, parameterList: [69]}]}
-  - {feature: 竖, start: [85, 17], curveList: [{command: v, parameterList: [72]}]}
+  - {feature: 竖折, start: [14, 10], curveList: [{command: v, parameterList: [75]}, {command: h, parameterList: [72]}]}
+  - {feature: 竖, start: [86, 10], curveList: [{command: v, parameterList: [75]}]}
 凸:
-  - {feature: 竖, start: [35, 7], curveList: [{command: v, parameterList: [37]}]}
-  - {feature: 横, start: [11, 44], curveList: [{command: h, parameterList: [24]}]}
-  - {feature: 竖, start: [11, 44], curveList: [{command: v, parameterList: [53]}]}
-  - {feature: 横折折折, start: [35, 7], curveList: [{command: h, parameterList: [30]}, {command: v, parameterList: [37]}, {command: h, parameterList: [24]}, {command: v, parameterList: [53]}]}
-  - {feature: 横, start: [11, 87], curveList: [{command: h, parameterList: [78]}]}
+  - {feature: 竖, start: [33, 10], curveList: [{command: v, parameterList: [33]}]}
+  - {feature: 横, start: [12, 43], curveList: [{command: h, parameterList: [21]}]}
+  - {feature: 竖, start: [12, 43], curveList: [{command: v, parameterList: [45]}]}
+  - {feature: 横折折折, start: [33, 10], curveList: [{command: h, parameterList: [34]}, {command: v, parameterList: [33]}, {command: h, parameterList: [21]}, {command: v, parameterList: [45]}]}
+  - {feature: 横, start: [12, 88], curveList: [{command: h, parameterList: [76]}]}
 凹:
-  - {feature: 竖, start: [11, 13], curveList: [{command: v, parameterList: [80]}]}
-  - {feature: 横折折, start: [11, 15], curveList: [{command: h, parameterList: [26]}, {command: v, parameterList: [37]}, {command: h, parameterList: [26]}]}
-  - {feature: 竖, start: [63, 12], curveList: [{command: v, parameterList: [45]}]}
-  - {feature: 横折, start: [63, 15], curveList: [{command: h, parameterList: [25]}, {command: v, parameterList: [76]}]}
-  - {feature: 横, start: [11, 82], curveList: [{command: h, parameterList: [77]}]}
+  - {feature: 竖, start: [12, 12], curveList: [{command: v, parameterList: [74]}]}
+  - {feature: 横折折, start: [12, 12], curveList: [{command: h, parameterList: [25]}, {command: v, parameterList: [38]}, {command: h, parameterList: [25]}]}
+  - {feature: 竖, start: [62, 12], curveList: [{command: v, parameterList: [38]}]}
+  - {feature: 横折, start: [62, 12], curveList: [{command: h, parameterList: [25]}, {command: v, parameterList: [74]}]}
+  - {feature: 横, start: [12, 86], curveList: [{command: h, parameterList: [75]}]}
 出:
-  - {feature: 竖折, start: [18, 17], curveList: [{command: v, parameterList: [28]}, {command: h, parameterList: [62]}]}
-  - {feature: 竖, start: [80, 17], curveList: [{command: v, parameterList: [32]}]}
-  - {feature: 竖, start: [49, 2], curveList: [{command: v, parameterList: [85]}]}
-  - {feature: 竖折, start: [13, 58], curveList: [{command: v, parameterList: [29]}, {command: h, parameterList: [70]}]}
-  - {feature: 竖, start: [84, 58], curveList: [{command: v, parameterList: [38]}]}
+  - {feature: 竖折, start: [19, 12], curveList: [{command: v, parameterList: [30]}, {command: h, parameterList: [62]}]}
+  - {feature: 竖, start: [81, 12], curveList: [{command: v, parameterList: [30]}]}
+  - {feature: 竖, start: [50, 4], curveList: [{command: v, parameterList: [82]}]}
+  - {feature: 竖折, start: [14, 56], curveList: [{command: v, parameterList: [29]}, {command: h, parameterList: [72]}]}
+  - {feature: 竖, start: [86, 56], curveList: [{command: v, parameterList: [29]}]}
 击:
-  - {feature: 横, start: [11, 23], curveList: [{command: h, parameterList: [75]}]}
-  - {feature: 横, start: [1, 49], curveList: [{command: h, parameterList: [98]}]}
-  - {feature: 竖, start: [49, 3], curveList: [{command: v, parameterList: [89]}]}
-  - {feature: 竖折, start: [18, 61], curveList: [{command: v, parameterList: [31]}, {command: h, parameterList: [64]}]}
-  - {feature: 竖, start: [82, 61], curveList: [{command: v, parameterList: [38]}]}
+  - {feature: 横, start: [14, 22], curveList: [{command: h, parameterList: [72]}]}
+  - {feature: 横, start: [7, 45], curveList: [{command: h, parameterList: [86]}]}
+  - {feature: 竖, start: [50, 5], curveList: [{command: v, parameterList: [83]}]}
+  - {feature: 竖折, start: [19, 58], curveList: [{command: v, parameterList: [30]}, {command: h, parameterList: [62]}]}
+  - {feature: 竖, start: [81, 58], curveList: [{command: v, parameterList: [30]}]}
 函内:
   - {feature: 横撇, start: [15, 7], curveList: [{command: h, parameterList: [59]}, {command: c, parameterList: [-11, 3, -20, 8, -27, 15]}]}
   - {feature: 竖钩, start: [49, 24], curveList: [{command: v, parameterList: [57]}]}
@@ -680,18 +680,18 @@
   - {feature: 撇, start: [72, 34], curveList: [{command: c, parameterList: [-6, 6, -11, 11, -13, 15]}]}
   - {feature: 点, start: [53, 53], curveList: [{command: c, parameterList: [11, 4, 19, 11, 23, 21]}]}
 刀:
-  - {feature: 横折钩, start: [13, 14], curveList: [{command: h, parameterList: [70]}, {command: v, parameterList: [75]}]}
-  - {feature: 撇, start: [47, 15], curveList: [{command: c, parameterList: [1, 40, -14, 66, -44, 80]}]}
+  - {feature: 横折钩, start: [12, 14], curveList: [{command: h, parameterList: [73]}, {command: v, parameterList: [77]}]}
+  - {feature: 撇, start: [43, 14], curveList: [{command: c, parameterList: [0, 15, 0, 51, -34, 77]}]}
 刁:
-  - {feature: 横折钩, start: [11, 13], curveList: [{command: h, parameterList: [70]}, {command: v, parameterList: [77]}]}
-  - {feature: 提, start: [8, 72], curveList: [{command: l, parameterList: [63, -45]}]}
+  - {feature: 横折钩, start: [15, 12], curveList: [{command: h, parameterList: [67]}, {command: v, parameterList: [81]}]}
+  - {feature: 提, start: [12, 68], curveList: [{command: l, parameterList: [51, -32]}]}
 刂:
-  - {feature: 竖, start: [55, 16], curveList: [{command: v, parameterList: [57]}]}
-  - {feature: 竖钩, start: [80, 5], curveList: [{command: v, parameterList: [93]}]}
+  - {feature: 竖, start: [61, 14], curveList: [{command: v, parameterList: [62]}]}
+  - {feature: 竖钩, start: [85, 5], curveList: [{command: v, parameterList: [88]}]}
 刃:
-  - {feature: 横折钩, start: [10, 13], curveList: [{command: h, parameterList: [72]}, {command: v, parameterList: [81]}]}
-  - {feature: 撇, start: [49, 14], curveList: [{command: c, parameterList: [2, 46, -14, 73, -46, 80]}]}
-  - {feature: 点, start: [24, 32], curveList: [{command: c, parameterList: [-4, 10, -7, 19, -9, 26]}]}
+  - {feature: 横折钩, start: [11, 13], curveList: [{command: h, parameterList: [74]}, {command: v, parameterList: [79]}]}
+  - {feature: 撇, start: [48, 13], curveList: [{command: c, parameterList: [0, 16, 0, 53, -38, 79]}]}
+  - {feature: 点, start: [25, 31], curveList: [{command: c, parameterList: [-2, 9, -7, 22, -14, 27]}]}
 制左:
   - {feature: 撇, start: [15, 9], curveList: [{command: c, parameterList: [-2, 8, -6, 17, -11, 25]}]}
   - {feature: 横, start: [12, 24], curveList: [{command: h, parameterList: [45]}]}
@@ -704,30 +704,30 @@
   - {feature: 撇, start: [67, 3], curveList: [{command: c, parameterList: [-3, 4, -6, 9, -10, 15]}]}
   - {feature: 横, start: [1, 21], curveList: [{command: h, parameterList: [95]}]}
 力:
-  - {feature: 横折钩, start: [10, 30], curveList: [{command: h, parameterList: [73]}, {command: v, parameterList: [64]}]}
-  - {feature: 撇, start: [51, 2], curveList: [{command: c, parameterList: [7, 15, -9, 47, -49, 96]}]}
+  - {feature: 横折钩, start: [13, 27], curveList: [{command: h, parameterList: [71]}, {command: v, parameterList: [66]}]}
+  - {feature: 撇, start: [46, 5], curveList: [{command: c, parameterList: [0, 25, 0, 67, -37, 88]}]}
 办:
-  - {feature: 横折钩, start: [9, 27], curveList: [{command: h, parameterList: [60]}, {command: v, parameterList: [64]}]}
-  - {feature: 撇, start: [41, 3], curveList: [{command: c, parameterList: [6, 48, -8, 79, -42, 91]}]}
-  - {feature: 点, start: [21, 40], curveList: [{command: c, parameterList: [-5, 10, -9, 19, -12, 25]}]}
-  - {feature: 点, start: [77, 41], curveList: [{command: c, parameterList: [9, 6, 15, 15, 17, 26]}]}
+  - {feature: 横折钩, start: [13, 27], curveList: [{command: h, parameterList: [61]}, {command: v, parameterList: [67]}]}
+  - {feature: 撇, start: [41, 5], curveList: [{command: c, parameterList: [0, 39, 0, 68, -33, 89]}]}
+  - {feature: 点, start: [21, 41], curveList: [{command: c, parameterList: [-3, 10, -9, 19, -14, 27]}]}
+  - {feature: 点, start: [79, 41], curveList: [{command: c, parameterList: [5, 6, 12, 22, 15, 30]}]}
 勹:
-  - {feature: 撇, start: [31, 3], curveList: [{command: c, parameterList: [-8, 23, -19, 41, -31, 54]}]}
-  - {feature: 横折钩, start: [24, 23], curveList: [{command: h, parameterList: [58]}, {command: v, parameterList: [71]}]}
+  - {feature: 撇, start: [34, 4], curveList: [{command: c, parameterList: [-6, 23, -16, 35, -26, 43]}]}
+  - {feature: 横折钩, start: [27, 23], curveList: [{command: h, parameterList: [59]}, {command: v, parameterList: [70]}]}
 勿:
-  - {feature: 撇, start: [34, 4], curveList: [{command: c, parameterList: [-10, 23, -20, 39, -32, 47]}]}
-  - {feature: 横折钩, start: [25, 23], curveList: [{command: h, parameterList: [61]}, {command: v, parameterList: [73]}]}
-  - {feature: 撇, start: [44, 24], curveList: [{command: c, parameterList: [-3, 28, -17, 46, -42, 55]}]}
-  - {feature: 撇, start: [65, 24], curveList: [{command: c, parameterList: [1, 37, -17, 61, -55, 72]}]}
+  - {feature: 撇, start: [33, 4], curveList: [{command: c, parameterList: [-10, 27, -20, 31, -26, 37]}]}
+  - {feature: 横折钩, start: [25, 22], curveList: [{command: h, parameterList: [61]}, {command: v, parameterList: [73]}]}
+  - {feature: 撇, start: [45, 22], curveList: [{command: c, parameterList: [-3, 18, -17, 39, -36, 49]}]}
+  - {feature: 撇, start: [67, 22], curveList: [{command: c, parameterList: [-7, 30, -14, 54, -47, 71]}]}
 匆:
-  - {feature: 撇, start: [33, 4], curveList: [{command: c, parameterList: [-8, 17, -19, 33, -31, 47]}]}
-  - {feature: 横折钩, start: [27, 24], curveList: [{command: h, parameterList: [62]}, {command: v, parameterList: [74]}]}
-  - {feature: 撇, start: [45, 25], curveList: [{command: c, parameterList: [-4, 20, -16, 38, -34, 52]}]}
-  - {feature: 撇, start: [64, 24], curveList: [{command: c, parameterList: [2, 38, -18, 62, -58, 74]}]}
-  - {feature: 点, start: [25, 43], curveList: [{command: c, parameterList: [17, 4, 32, 13, 46, 26]}]}
+  - {feature: 撇, start: [32, 4], curveList: [{command: c, parameterList: [-4, 17, -19, 33, -25, 39]}]}
+  - {feature: 横折钩, start: [25, 20], curveList: [{command: h, parameterList: [63]}, {command: v, parameterList: [73]}]}
+  - {feature: 撇, start: [48, 20], curveList: [{command: c, parameterList: [-4, 20, -10, 38, -39, 52]}]}
+  - {feature: 撇, start: [70, 20], curveList: [{command: c, parameterList: [-4, 29, -16, 55, -47, 72]}]}
+  - {feature: 点, start: [21, 42], curveList: [{command: c, parameterList: [12, 4, 28, 13, 53, 32]}]}
 匕:
-  - {feature: 撇, start: [74, 23], curveList: [{command: c, parameterList: [-15, 12, -29, 21, -43, 27]}]}
-  - {feature: 竖弯钩, start: [32, 9], curveList: [{command: v, parameterList: [79]}, {command: h, parameterList: [54]}]}
+  - {feature: 撇, start: [84, 22], curveList: [{command: c, parameterList: [-21, 12, -46, 21, -63, 25]}]}
+  - {feature: 竖弯钩, start: [21, 6], curveList: [{command: v, parameterList: [84]}, {command: h, parameterList: [68]}]}
 化右:
   - {feature: 撇, start: [89, 17], curveList: [{command: c, parameterList: [-23, 16, -43, 28, -59, 38]}]}
   - {feature: 竖弯钩, start: [57, 2], curveList: [{command: v, parameterList: [84]}, {command: h, parameterList: [42]}]}
@@ -736,36 +736,36 @@
   - {feature: 横, start: [4, 36], curveList: [{command: h, parameterList: [30]}]}
   - {feature: 提, start: [4, 85], curveList: [{command: l, parameterList: [30, -10]}]}
 匚:
-  - {feature: 横, start: [9, 11], curveList: [{command: h, parameterList: [79]}]}
-  - {feature: 竖折, start: [9, 8], curveList: [{command: v, parameterList: [79]}, {command: h, parameterList: [87]}]}
+  - {feature: 横, start: [15, 12], curveList: [{command: h, parameterList: [74]}]}
+  - {feature: 竖折, start: [15, 12], curveList: [{command: v, parameterList: [74]}, {command: h, parameterList: [76]}]}
 十:
-  - {feature: 横, start: [3, 43], curveList: [{command: h, parameterList: [95]}]}
-  - {feature: 竖, start: [51, 3], curveList: [{command: v, parameterList: [95]}]}
+  - {feature: 横, start: [7, 40], curveList: [{command: h, parameterList: [86]}]}
+  - {feature: 竖, start: [50, 5], curveList: [{command: v, parameterList: [89]}]}
 千:
-  - {feature: 撇, start: [76, 4], curveList: [{command: c, parameterList: [-22, 7, -44, 12, -66, 14]}]}
-  - {feature: 横, start: [2, 44], curveList: [{command: h, parameterList: [92]}]}
-  - {feature: 竖, start: [49, 11], curveList: [{command: v, parameterList: [84]}]}
+  - {feature: 撇, start: [86, 8], curveList: [{command: c, parameterList: [-25, 7, -47, 9, -72, 9]}]}
+  - {feature: 横, start: [7, 48], curveList: [{command: h, parameterList: [86]}]}
+  - {feature: 竖, start: [50, 15], curveList: [{command: v, parameterList: [79]}]}
 卅:
-  - {feature: 横, start: [1, 44], curveList: [{command: h, parameterList: [98]}]}
-  - {feature: 撇, start: [24, 6], curveList: [{command: c, parameterList: [8, 40, 0, 70, -22, 90]}]}
-  - {feature: 竖, start: [49, 8], curveList: [{command: v, parameterList: [84]}]}
-  - {feature: 竖, start: [76, 7], curveList: [{command: v, parameterList: [91]}]}
+  - {feature: 横, start: [6, 42], curveList: [{command: h, parameterList: [88]}]}
+  - {feature: 撇, start: [24, 5], curveList: [{command: c, parameterList: [0, 53, 0, 75, -18, 87]}]}
+  - {feature: 竖, start: [50, 7], curveList: [{command: v, parameterList: [81]}]}
+  - {feature: 竖, start: [79, 4], curveList: [{command: v, parameterList: [90]}]}
 升:
-  - {feature: 撇, start: [55, 7], curveList: [{command: c, parameterList: [-18, 7, -34, 12, -49, 14]}]}
-  - {feature: 横, start: [1, 46], curveList: [{command: h, parameterList: [97]}]}
-  - {feature: 撇, start: [36, 15], curveList: [{command: c, parameterList: [11, 38, -1, 66, -35, 84]}]}
-  - {feature: 竖, start: [72, 4], curveList: [{command: v, parameterList: [94]}]}
+  - {feature: 撇, start: [54, 7], curveList: [{command: c, parameterList: [-18, 7, -34, 9, -45, 10]}]}
+  - {feature: 横, start: [6, 45], curveList: [{command: h, parameterList: [88]}]}
+  - {feature: 撇, start: [34, 13], curveList: [{command: c, parameterList: [0, 38, 0, 66, -25, 80]}]}
+  - {feature: 竖, start: [68, 5], curveList: [{command: v, parameterList: [89]}]}
 午:
-  - {feature: 撇, start: [31, 5], curveList: [{command: c, parameterList: [-6, 15, -17, 30, -31, 46]}]}
-  - {feature: 横, start: [24, 24], curveList: [{command: h, parameterList: [66]}]}
-  - {feature: 横, start: [3, 55], curveList: [{command: h, parameterList: [95]}]}
-  - {feature: 竖, start: [51, 24], curveList: [{command: v, parameterList: [75]}]}
+  - {feature: 撇, start: [31, 3], curveList: [{command: c, parameterList: [-6, 15, -17, 30, -23, 35]}]}
+  - {feature: 横, start: [22, 20], curveList: [{command: h, parameterList: [67]}]}
+  - {feature: 横, start: [8, 53], curveList: [{command: h, parameterList: [84]}]}
+  - {feature: 竖, start: [52, 20], curveList: [{command: v, parameterList: [74]}]}
 半:
-  - {feature: 点, start: [15, 11], curveList: [{command: c, parameterList: [8, 4, 14, 11, 16, 21]}]}
-  - {feature: 撇, start: [80, 9], curveList: [{command: c, parameterList: [-5, 7, -11, 15, -19, 24]}]}
-  - {feature: 横, start: [11, 39], curveList: [{command: h, parameterList: [77]}]}
-  - {feature: 横, start: [4, 62], curveList: [{command: h, parameterList: [92]}]}
-  - {feature: 竖, start: [49, 3], curveList: [{command: v, parameterList: [95]}]}
+  - {feature: 点, start: [18, 10], curveList: [{command: c, parameterList: [3, 4, 10, 11, 14, 20]}]}
+  - {feature: 撇, start: [81, 9], curveList: [{command: c, parameterList: [-5, 12, -8, 15, -13, 22]}]}
+  - {feature: 横, start: [13, 40], curveList: [{command: h, parameterList: [74]}]}
+  - {feature: 横, start: [7, 65], curveList: [{command: h, parameterList: [86]}]}
+  - {feature: 竖, start: [50, 4], curveList: [{command: v, parameterList: [90]}]}
 半变:
   - {feature: 点, start: [6, 10], curveList: [{command: c, parameterList: [6, 4, 11, 10, 14, 18]}]}
   - {feature: 撇, start: [53, 12], curveList: [{command: c, parameterList: [-4, 6, -9, 13, -13, 22]}]}
@@ -777,23 +777,23 @@
   - {feature: 横, start: [52, 24], curveList: [{command: h, parameterList: [43]}]}
   - {feature: 点, start: [63, 29], curveList: [{command: c, parameterList: [4, 5, 7, 11, 8, 19]}]}
 卑:
-  - {feature: 撇, start: [46, 3], curveList: [{command: c, parameterList: [-3, 3, -6, 7, -8, 11]}]}
-  - {feature: 竖, start: [20, 13], curveList: [{command: v, parameterList: [46]}]}
-  - {feature: 横折, start: [20, 15], curveList: [{command: h, parameterList: [56]}, {command: v, parameterList: [41]}]}
-  - {feature: 横, start: [20, 34], curveList: [{command: h, parameterList: [56]}]}
-  - {feature: 横, start: [20, 53], curveList: [{command: h, parameterList: [55]}]}
-  - {feature: 撇, start: [47, 16], curveList: [{command: c, parameterList: [4, 24, -5, 42, -27, 54]}]}
-  - {feature: 横, start: [2, 72], curveList: [{command: h, parameterList: [94]}]}
-  - {feature: 竖, start: [51, 57], curveList: [{command: v, parameterList: [42]}]}
+  - {feature: 撇, start: [44, 3], curveList: [{command: c, parameterList: [-1, 3, -2, 7, -6, 12]}]}
+  - {feature: 竖, start: [20, 15], curveList: [{command: v, parameterList: [35]}]}
+  - {feature: 横折, start: [20, 15], curveList: [{command: h, parameterList: [61]}, {command: v, parameterList: [35]}]}
+  - {feature: 横, start: [20, 33], curveList: [{command: h, parameterList: [61]}]}
+  - {feature: 横, start: [20, 50], curveList: [{command: h, parameterList: [61]}]}
+  - {feature: 撇, start: [51, 15], curveList: [{command: c, parameterList: [0, 24, 0, 43, -30, 51]}]}
+  - {feature: 横, start: [7, 71], curveList: [{command: h, parameterList: [86]}]}
+  - {feature: 竖, start: [64, 58], curveList: [{command: v, parameterList: [36]}]}
 单:
-  - {feature: 点, start: [27, 1], curveList: [{command: c, parameterList: [5, 4, 10, 10, 14, 18]}]}
-  - {feature: 撇, start: [70, 6], curveList: [{command: c, parameterList: [-6, 4, -10, 8, -12, 14]}]}
-  - {feature: 竖, start: [22, 24], curveList: [{command: v, parameterList: [38]}]}
-  - {feature: 横折, start: [24, 24], curveList: [{command: h, parameterList: [55]}, {command: v, parameterList: [37]}]}
-  - {feature: 横, start: [24, 41], curveList: [{command: h, parameterList: [56]}]}
-  - {feature: 横, start: [24, 57], curveList: [{command: h, parameterList: [55]}]}
-  - {feature: 横, start: [3, 74], curveList: [{command: h, parameterList: [93]}]}
-  - {feature: 竖, start: [50, 25], curveList: [{command: v, parameterList: [71]}]}
+  - {feature: 点, start: [30, 5], curveList: [{command: c, parameterList: [4, 4, 5, 7, 9, 13]}]}
+  - {feature: 撇, start: [70, 4], curveList: [{command: c, parameterList: [-2, 4, -3, 8, -10, 18]}]}
+  - {feature: 竖, start: [18, 22], curveList: [{command: v, parameterList: [35]}]}
+  - {feature: 横折, start: [18, 22], curveList: [{command: h, parameterList: [64]}, {command: v, parameterList: [35]}]}
+  - {feature: 横, start: [18, 39], curveList: [{command: h, parameterList: [64]}]}
+  - {feature: 横, start: [18, 57], curveList: [{command: h, parameterList: [64]}]}
+  - {feature: 横, start: [6, 72], curveList: [{command: h, parameterList: [88]}]}
+  - {feature: 竖, start: [50, 22], curveList: [{command: v, parameterList: [71]}]}
 卖上:
   - {feature: 横, start: [15, 13], curveList: [{command: h, parameterList: [68]}]}
   - {feature: 竖, start: [49, 3], curveList: [{command: v, parameterList: [26]}]}
@@ -810,22 +810,22 @@
   - {feature: 竖, start: [13, 33], curveList: [{command: v, parameterList: [66]}]}
   - {feature: 横折钩, start: [13, 36], curveList: [{command: h, parameterList: [71]}, {command: v, parameterList: [60]}]}
 卜:
-  - {feature: 竖, start: [43, 2], curveList: [{command: v, parameterList: [96]}]}
-  - {feature: 点, start: [47, 33], curveList: [{command: c, parameterList: [16, 9, 29, 19, 38, 30]}]}
+  - {feature: 竖, start: [44, 4], curveList: [{command: v, parameterList: [90]}]}
+  - {feature: 点, start: [44, 36], curveList: [{command: c, parameterList: [16, 9, 29, 19, 37, 24]}]}
 卞:
-  - {feature: 点, start: [36, 0], curveList: [{command: c, parameterList: [6, 2, 12, 5, 16, 10]}]}
-  - {feature: 横, start: [2, 14], curveList: [{command: h, parameterList: [88]}]}
-  - {feature: 竖, start: [46, 14], curveList: [{command: v, parameterList: [44]}]}
-  - {feature: 点, start: [53, 25], curveList: [{command: c, parameterList: [11, 1, 19, 5, 24, 11]}]}
+  - {feature: 点, start: [39, 4], curveList: [{command: c, parameterList: [2, 2, 7, 5, 16, 18]}]}
+  - {feature: 横, start: [7, 27], curveList: [{command: h, parameterList: [86]}]}
+  - {feature: 竖, start: [48, 27], curveList: [{command: v, parameterList: [67]}]}
+  - {feature: 点, start: [48, 46], curveList: [{command: c, parameterList: [11, 6, 18, 11, 35, 23]}]}
 占上:
   - {feature: 竖, start: [46, 3], curveList: [{command: v, parameterList: [51]}]}
   - {feature: 横, start: [47, 28], curveList: [{command: h, parameterList: [46]}]}
 卡:
-  - {feature: 竖, start: [45, 3], curveList: [{command: v, parameterList: [39]}]}
-  - {feature: 横, start: [44, 19], curveList: [{command: h, parameterList: [44]}]}
-  - {feature: 横, start: [3, 42], curveList: [{command: h, parameterList: [94]}]}
-  - {feature: 竖, start: [44, 42], curveList: [{command: v, parameterList: [56]}]}
-  - {feature: 点, start: [49, 55], curveList: [{command: c, parameterList: [13, 3, 25, 10, 36, 21]}]}
+  - {feature: 竖, start: [45, 5], curveList: [{command: v, parameterList: [37]}]}
+  - {feature: 横, start: [45, 20], curveList: [{command: h, parameterList: [35]}]}
+  - {feature: 横, start: [7, 42], curveList: [{command: h, parameterList: [86]}]}
+  - {feature: 竖, start: [45, 42], curveList: [{command: v, parameterList: [52]}]}
+  - {feature: 点, start: [45, 56], curveList: [{command: c, parameterList: [7, 3, 20, 10, 38, 21]}]}
 卣下:
   - {feature: 竖, start: [13, 29], curveList: [{command: v, parameterList: [69]}]}
   - {feature: 横折, start: [14, 32], curveList: [{command: h, parameterList: [67]}, {command: v, parameterList: [66]}]}
@@ -833,12 +833,12 @@
   - {feature: 横, start: [14, 69], curveList: [{command: h, parameterList: [42]}]}
   - {feature: 横, start: [13, 91], curveList: [{command: h, parameterList: [68]}]}
 卩:
-  - {feature: 横折钩, start: [61, 9], curveList: [{command: h, parameterList: [25]}, {command: v, parameterList: [60]}]}
-  - {feature: 竖, start: [61, 7], curveList: [{command: v, parameterList: [91]}]}
+  - {feature: 横折钩, start: [34, 11], curveList: [{command: h, parameterList: [34]}, {command: v, parameterList: [66]}]}
+  - {feature: 竖, start: [34, 11], curveList: [{command: v, parameterList: [83]}]}
 卫:
-  - {feature: 横折钩, start: [9, 11], curveList: [{command: h, parameterList: [73]}, {command: v, parameterList: [53]}]}
-  - {feature: 竖, start: [44, 11], curveList: [{command: v, parameterList: [81]}]}
-  - {feature: 横, start: [0, 93], curveList: [{command: h, parameterList: [98]}]}
+  - {feature: 横折钩, start: [16, 13], curveList: [{command: h, parameterList: [64]}, {command: v, parameterList: [55]}]}
+  - {feature: 竖, start: [44, 13], curveList: [{command: v, parameterList: [77]}]}
+  - {feature: 横, start: [8, 90], curveList: [{command: h, parameterList: [84]}]}
 卯左:
   - {feature: 撇, start: [51, 3], curveList: [{command: c, parameterList: [-12, 4, -24, 8, -35, 12]}]}
   - {feature: 竖提, start: [16, 10], curveList: [{command: v, parameterList: [52]}, {command: l, parameterList: [22, -12]}]}
@@ -881,27 +881,27 @@
   - {feature: 竖, start: [13, 50], curveList: [{command: v, parameterList: [34]}]}
   - {feature: 提, start: [4, 87], curveList: [{command: l, parameterList: [53, -10]}]}
 厂:
-  - {feature: 横, start: [23, 13], curveList: [{command: h, parameterList: [76]}]}
-  - {feature: 撇, start: [19, 10], curveList: [{command: c, parameterList: [6, 35, -1, 64, -19, 88]}]}
+  - {feature: 横, start: [19, 12], curveList: [{command: h, parameterList: [72]}]}
+  - {feature: 撇, start: [19, 12], curveList: [{command: c, parameterList: [0, 35, 0, 64, -13, 81]}]}
 压下:
   - {feature: 横, start: [27, 47], curveList: [{command: h, parameterList: [61]}]}
   - {feature: 竖, start: [56, 19], curveList: [{command: v, parameterList: [71]}]}
   - {feature: 横, start: [14, 90], curveList: [{command: h, parameterList: [84]}]}
   - {feature: 点, start: [67, 57], curveList: [{command: c, parameterList: [10, 3, 15, 9, 16, 19]}]}
 厶:
-  - {feature: 撇折, start: [45, 5], curveList: [{command: c, parameterList: [-10, 16, -21, 30, -35, 42]}, {command: h, parameterList: [69]}]}
-  - {feature: 点, start: [58, 19], curveList: [{command: c, parameterList: [12, 7, 21, 17, 26, 31]}]}
+  - {feature: 撇折, start: [50, 5], curveList: [{command: c, parameterList: [-10, 19, -21, 34, -32, 44]}, {command: h, parameterList: [62]}]}
+  - {feature: 点, start: [62, 25], curveList: [{command: c, parameterList: [6, 7, 16, 17, 21, 30]}]}
 又:
-  - {feature: 横撇, start: [10, 11], curveList: [{command: h, parameterList: [60]}, {command: c, parameterList: [-6, 38, -29, 65, -69, 81]}]}
-  - {feature: 捺, start: [23, 11], curveList: [{command: c, parameterList: [5, 40, 27, 65, 66, 77]}]}
+  - {feature: 横撇, start: [21, 13], curveList: [{command: h, parameterList: [59]}, {command: c, parameterList: [-6, 29, -29, 62, -71, 79]}]}
+  - {feature: 捺, start: [21, 13], curveList: [{command: c, parameterList: [5, 33, 27, 61, 72, 80]}]}
 叉:
-  - {feature: 横撇, start: [9, 13], curveList: [{command: h, parameterList: [66]}, {command: c, parameterList: [-8, 44, -33, 71, -75, 80]}]}
-  - {feature: 捺, start: [27, 14], curveList: [{command: c, parameterList: [6, 42, 27, 68, 62, 76]}]}
-  - {feature: 点, start: [42, 24], curveList: [{command: c, parameterList: [4, 4, 7, 10, 9, 17]}]}
+  - {feature: 横撇, start: [18, 13], curveList: [{command: h, parameterList: [63]}, {command: c, parameterList: [-8, 37, -33, 63, -72, 79]}]}
+  - {feature: 捺, start: [18, 13], curveList: [{command: c, parameterList: [8, 37, 34, 65, 75, 79]}]}
+  - {feature: 点, start: [39, 24], curveList: [{command: c, parameterList: [4, 4, 12, 10, 18, 18]}]}
 及:
-  - {feature: 撇, start: [36, 9], curveList: [{command: c, parameterList: [6, 15, -6, 44, -36, 86]}]}
-  - {feature: 横折折撇, start: [12, 9], curveList: [{command: h, parameterList: [62]}, {command: l, parameterList: [-13, 28]}, {command: h, parameterList: [22]}, {command: c, parameterList: [-14, 34, -38, 55, -70, 61]}]}
-  - {feature: 捺, start: [38, 28], curveList: [{command: c, parameterList: [6, 33, 24, 55, 54, 66]}]}
+  - {feature: 撇, start: [33, 11], curveList: [{command: c, parameterList: [0, 35, 0, 55, -26, 82]}]}
+  - {feature: 横折折撇, start: [14, 11], curveList: [{command: h, parameterList: [54]}, {command: l, parameterList: [-6, 27]}, {command: h, parameterList: [21]}, {command: c, parameterList: [-10, 38, -38, 50, -56, 56]}]}
+  - {feature: 捺, start: [33, 28], curveList: [{command: c, parameterList: [10, 33, 29, 49, 60, 66]}]}
 双折:
   - {feature: 撇折, start: [31, 9], curveList: [{command: c, parameterList: [-6, 13, -14, 25, -22, 37]}, {command: h, parameterList: [22]}]}
   - {feature: 撇折, start: [45, 27], curveList: [{command: c, parameterList: [-10, 15, -20, 30, -31, 44]}, {command: h, parameterList: [30]}]}
@@ -909,11 +909,11 @@
   - {feature: 撇, start: [88, 9], curveList: [{command: c, parameterList: [-22, 3, -45, 5, -68, 6]}]}
   - {feature: 撇, start: [21, 13], curveList: [{command: c, parameterList: [6, 30, -1, 58, -19, 84]}]}
 发:
-  - {feature: 竖折, start: [24, 8], curveList: [{command: v, parameterList: [22]}, {command: h, parameterList: [82]}]}
-  - {feature: 撇, start: [47, 2], curveList: [{command: c, parameterList: [-5, 41, -21, 73, -48, 95]}]}
-  - {feature: 横撇, start: [39, 50], curveList: [{command: h, parameterList: [37]}, {command: c, parameterList: [-14, 28, -35, 44, -64, 48]}]}
-  - {feature: 捺, start: [44, 50], curveList: [{command: c, parameterList: [5, 24, 21, 38, 49, 43]}]}
-  - {feature: 点, start: [62, 5], curveList: [{command: c, parameterList: [8, 4, 14, 10, 18, 17]}]}
+  - {feature: 竖折, start: [15, 8], curveList: [{command: v, parameterList: [23]}, {command: h, parameterList: [76]}]}
+  - {feature: 撇, start: [47, 3], curveList: [{command: c, parameterList: [-5, 41, -21, 73, -41, 88]}]}
+  - {feature: 横撇, start: [36, 49], curveList: [{command: h, parameterList: [43]}, {command: c, parameterList: [-15, 29, -35, 37, -54, 44]}]}
+  - {feature: 捺, start: [36, 49], curveList: [{command: c, parameterList: [5, 11, 21, 32, 57, 44]}]}
+  - {feature: 点, start: [65, 6], curveList: [{command: c, parameterList: [6, 4, 12, 10, 18, 17]}]}
 变上:
   - {feature: 点, start: [42, 1], curveList: [{command: c, parameterList: [6, 4, 10, 8, 10, 14]}]}
   - {feature: 横, start: [5, 19], curveList: [{command: h, parameterList: [92]}]}
@@ -930,32 +930,32 @@
   - {feature: 横, start: [16, 47], curveList: [{command: h, parameterList: [63]}]}
   - {feature: 竖, start: [49, 2], curveList: [{command: v, parameterList: [56]}]}
 口:
-  - {feature: 竖, start: [20, 20], curveList: [{command: v, parameterList: [60]}]}
-  - {feature: 横折, start: [20, 20], curveList: [{command: h, parameterList: [60]}, {command: v, parameterList: [60]}]}
-  - {feature: 横, start: [20, 80], curveList: [{command: h, parameterList: [60]}]}
+  - {feature: 竖, start: [17, 19], curveList: [{command: v, parameterList: [65]}]}
+  - {feature: 横折, start: [17, 19], curveList: [{command: h, parameterList: [66]}, {command: v, parameterList: [65]}]}
+  - {feature: 横, start: [17, 84], curveList: [{command: h, parameterList: [66]}]}
 史:
-  - {feature: 竖, start: [18, 21], curveList: [{command: v, parameterList: [36]}]}
-  - {feature: 横折, start: [18, 23], curveList: [{command: h, parameterList: [64]}, {command: v, parameterList: [33]}]}
-  - {feature: 横, start: [18, 48], curveList: [{command: h, parameterList: [64]}]}
-  - {feature: 撇, start: [50, 2], curveList: [{command: c, parameterList: [15, 46, -1, 78, -49, 96]}]}
-  - {feature: 捺, start: [25, 54], curveList: [{command: c, parameterList: [12, 21, 34, 34, 66, 40]}]}
+  - {feature: 竖, start: [17, 19], curveList: [{command: v, parameterList: [28]}]}
+  - {feature: 横折, start: [17, 19], curveList: [{command: h, parameterList: [67]}, {command: v, parameterList: [28]}]}
+  - {feature: 横, start: [17, 47], curveList: [{command: h, parameterList: [67]}]}
+  - {feature: 撇, start: [50, 4], curveList: [{command: c, parameterList: [0, 68, 0, 74, -43, 89]}]}
+  - {feature: 捺, start: [19, 58], curveList: [{command: c, parameterList: [12, 14, 31, 31, 75, 35]}]}
 司:
-  - {feature: 横折钩, start: [8, 9], curveList: [{command: h, parameterList: [75]}, {command: v, parameterList: [86]}]}
-  - {feature: 横, start: [4, 30], curveList: [{command: h, parameterList: [65]}]}
-  - {feature: 竖, start: [20, 42], curveList: [{command: v, parameterList: [43]}]}
-  - {feature: 横折, start: [20, 45], curveList: [{command: h, parameterList: [33]}, {command: v, parameterList: [34]}]}
-  - {feature: 横, start: [20, 69], curveList: [{command: h, parameterList: [32]}]}
+  - {feature: 横折钩, start: [12, 11], curveList: [{command: h, parameterList: [71]}, {command: v, parameterList: [83]}]}
+  - {feature: 横, start: [11, 30], curveList: [{command: h, parameterList: [57]}]}
+  - {feature: 竖, start: [18, 49], curveList: [{command: v, parameterList: [25]}]}
+  - {feature: 横折, start: [18, 49], curveList: [{command: h, parameterList: [38]}, {command: v, parameterList: [25]}]}
+  - {feature: 横, start: [18, 74], curveList: [{command: h, parameterList: [38]}]}
 后上:
   - {feature: 撇, start: [87, 7], curveList: [{command: c, parameterList: [-22, 4, -43, 7, -65, 8]}]}
   - {feature: 撇, start: [22, 12], curveList: [{command: c, parameterList: [6, 30, -1, 59, -20, 86]}]}
   - {feature: 横, start: [21, 35], curveList: [{command: h, parameterList: [78]}]}
 吏:
-  - {feature: 横, start: [4, 20], curveList: [{command: h, parameterList: [93]}]}
-  - {feature: 竖, start: [20, 31], curveList: [{command: v, parameterList: [31]}]}
-  - {feature: 横折, start: [20, 34], curveList: [{command: h, parameterList: [60]}, {command: v, parameterList: [30]}]}
-  - {feature: 横, start: [20, 57], curveList: [{command: h, parameterList: [60]}]}
-  - {feature: 撇, start: [50, 2], curveList: [{command: c, parameterList: [16, 51, 0, 83, -49, 97]}]}
-  - {feature: 捺, start: [26, 64], curveList: [{command: c, parameterList: [14, 20, 36, 30, 66, 31]}]}
+  - {feature: 横, start: [8, 16], curveList: [{command: h, parameterList: [84]}]}
+  - {feature: 竖, start: [19, 32], curveList: [{command: v, parameterList: [24]}]}
+  - {feature: 横折, start: [19, 32], curveList: [{command: h, parameterList: [63]}, {command: v, parameterList: [24]}]}
+  - {feature: 横, start: [19, 56], curveList: [{command: h, parameterList: [63]}]}
+  - {feature: 撇, start: [50, 4], curveList: [{command: c, parameterList: [0, 59, 0, 79, -43, 89]}]}
+  - {feature: 捺, start: [18, 64], curveList: [{command: c, parameterList: [14, 15, 36, 25, 76, 29]}]}
 向框:
   - {feature: 撇, start: [45, 2], curveList: [{command: c, parameterList: [-3, 5, -6, 11, -10, 19]}]}
   - {feature: 竖, start: [11, 21], curveList: [{command: v, parameterList: [78]}]}
@@ -974,17 +974,17 @@
   - {feature: 横, start: [24, 59], curveList: [{command: h, parameterList: [56]}]}
   - {feature: 竖, start: [54, 20], curveList: [{command: v, parameterList: [47]}]}
 商:
-  - {feature: 点, start: [43, 1], curveList: [{command: c, parameterList: [5, 2, 8, 6, 8, 12]}]}
-  - {feature: 横, start: [1, 16], curveList: [{command: h, parameterList: [98]}]}
-  - {feature: 点, start: [30, 20], curveList: [{command: c, parameterList: [6, 2, 8, 6, 8, 12]}]}
-  - {feature: 撇, start: [66, 20], curveList: [{command: c, parameterList: [-2, 4, -4, 8, -7, 12]}]}
-  - {feature: 竖, start: [13, 32], curveList: [{command: v, parameterList: [67]}]}
-  - {feature: 横折钩, start: [14, 35], curveList: [{command: h, parameterList: [70]}, {command: v, parameterList: [62]}]}
-  - {feature: 撇, start: [40, 40], curveList: [{command: c, parameterList: [-4, 7, -10, 14, -19, 21]}]}
-  - {feature: 点, start: [57, 40], curveList: [{command: c, parameterList: [9, 4, 15, 10, 17, 18]}]}
-  - {feature: 竖, start: [33, 60], curveList: [{command: v, parameterList: [31]}]}
-  - {feature: 横折, start: [34, 61], curveList: [{command: h, parameterList: [29]}, {command: v, parameterList: [26]}]}
-  - {feature: 横, start: [33, 82], curveList: [{command: h, parameterList: [29]}]}
+  - {feature: 点, start: [46, 4], curveList: [{command: c, parameterList: [1, 2, 4, 6, 6, 11]}]}
+  - {feature: 横, start: [7, 15], curveList: [{command: h, parameterList: [86]}]}
+  - {feature: 点, start: [29, 15], curveList: [{command: c, parameterList: [0, 2, 4, 6, 8, 19]}]}
+  - {feature: 撇, start: [70, 15], curveList: [{command: c, parameterList: [-2, 4, -4, 8, -10, 19]}]}
+  - {feature: 竖, start: [14, 34], curveList: [{command: v, parameterList: [59]}]}
+  - {feature: 横折钩, start: [14, 34], curveList: [{command: h, parameterList: [72]}, {command: v, parameterList: [59]}]}
+  - {feature: 撇, start: [43, 41], curveList: [{command: c, parameterList: [-4, 4, -10, 10, -22, 18]}]}
+  - {feature: 点, start: [57, 40], curveList: [{command: c, parameterList: [5, 4, 12, 10, 21, 20]}]}
+  - {feature: 竖, start: [34, 61], curveList: [{command: v, parameterList: [19]}]}
+  - {feature: 横折, start: [34, 61], curveList: [{command: h, parameterList: [32]}, {command: v, parameterList: [19]}]}
+  - {feature: 横, start: [34, 80], curveList: [{command: h, parameterList: [32]}]}
 啬上:
   - {feature: 横, start: [9, 15], curveList: [{command: h, parameterList: [83]}]}
   - {feature: 竖, start: [49, 3], curveList: [{command: v, parameterList: [39]}]}
@@ -992,43 +992,43 @@
   - {feature: 撇, start: [74, 23], curveList: [{command: c, parameterList: [-3, 4, -7, 10, -11, 16]}]}
   - {feature: 横, start: [0, 43], curveList: [{command: h, parameterList: [99]}]}
 囗:
-  - {feature: 竖, start: [10, 10], curveList: [{command: v, parameterList: [80]}]}
-  - {feature: 横折, start: [10, 10], curveList: [{command: h, parameterList: [80]}, {command: v, parameterList: [80]}]}
-  - {feature: 横, start: [10, 90], curveList: [{command: h, parameterList: [80]}]}
+  - {feature: 竖, start: [15, 11], curveList: [{command: v, parameterList: [76]}]}
+  - {feature: 横折, start: [15, 11], curveList: [{command: h, parameterList: [70]}, {command: v, parameterList: [76]}]}
+  - {feature: 横, start: [15, 87], curveList: [{command: h, parameterList: [70]}]}
 囱框:
   - {feature: 撇, start: [47, 3], curveList: [{command: c, parameterList: [-2, 4, -4, 8, -8, 14]}]}
   - {feature: 竖, start: [15, 15], curveList: [{command: v, parameterList: [84]}]}
   - {feature: 横折, start: [16, 17], curveList: [{command: h, parameterList: [72]}, {command: v, parameterList: [79]}]}
   - {feature: 撇, start: [46, 24], curveList: [{command: c, parameterList: [-5, 12, -11, 23, -19, 35]}]}
 土:
-  - {feature: 横, start: [11, 40], curveList: [{command: h, parameterList: [78]}]}
-  - {feature: 竖, start: [49, 5], curveList: [{command: v, parameterList: [86]}]}
-  - {feature: 横, start: [2, 90], curveList: [{command: h, parameterList: [96]}]}
+  - {feature: 横, start: [14, 39], curveList: [{command: h, parameterList: [72]}]}
+  - {feature: 竖, start: [50, 5], curveList: [{command: v, parameterList: [85]}]}
+  - {feature: 横, start: [6, 90], curveList: [{command: h, parameterList: [88]}]}
 在角:
   - {feature: 横, start: [0, 14], curveList: [{command: h, parameterList: [96]}]}
   - {feature: 撇, start: [45, 2], curveList: [{command: c, parameterList: [-11, 18, -26, 32, -45, 40]}]}
   - {feature: 竖, start: [26, 23], curveList: [{command: v, parameterList: [35]}]}
 垂:
-  - {feature: 撇, start: [77, 3], curveList: [{command: c, parameterList: [-18, 4, -40, 8, -66, 10]}]}
-  - {feature: 横, start: [5, 29], curveList: [{command: h, parameterList: [88]}]}
-  - {feature: 竖, start: [51, 8], curveList: [{command: v, parameterList: [85]}]}
-  - {feature: 横, start: [0, 51], curveList: [{command: h, parameterList: [97]}]}
-  - {feature: 竖, start: [27, 30], curveList: [{command: v, parameterList: [43]}]}
-  - {feature: 竖, start: [71, 30], curveList: [{command: v, parameterList: [43]}]}
-  - {feature: 横, start: [3, 74], curveList: [{command: h, parameterList: [93]}]}
-  - {feature: 横, start: [7, 95], curveList: [{command: h, parameterList: [88]}]}
+  - {feature: 撇, start: [84, 7], curveList: [{command: c, parameterList: [-18, 4, -40, 5, -71, 6]}]}
+  - {feature: 横, start: [12, 28], curveList: [{command: h, parameterList: [76]}]}
+  - {feature: 竖, start: [50, 11], curveList: [{command: v, parameterList: [79]}]}
+  - {feature: 横, start: [6, 48], curveList: [{command: h, parameterList: [88]}]}
+  - {feature: 竖, start: [26, 28], curveList: [{command: v, parameterList: [42]}]}
+  - {feature: 竖, start: [74, 28], curveList: [{command: v, parameterList: [42]}]}
+  - {feature: 横, start: [11, 70], curveList: [{command: h, parameterList: [78]}]}
+  - {feature: 横, start: [13, 90], curveList: [{command: h, parameterList: [74]}]}
 堇:
-  - {feature: 横, start: [1, 17], curveList: [{command: h, parameterList: [95]}]}
-  - {feature: 竖, start: [32, 4], curveList: [{command: v, parameterList: [31]}]}
-  - {feature: 竖, start: [66, 5], curveList: [{command: v, parameterList: [31]}]}
-  - {feature: 横, start: [32, 31], curveList: [{command: h, parameterList: [33]}]}
-  - {feature: 竖, start: [19, 41], curveList: [{command: v, parameterList: [22]}]}
-  - {feature: 横折, start: [19, 43], curveList: [{command: h, parameterList: [58]}, {command: v, parameterList: [18]}]}
-  - {feature: 横, start: [19, 56], curveList: [{command: h, parameterList: [58]}]}
-  - {feature: 横, start: [7, 69], curveList: [{command: h, parameterList: [83]}]}
-  - {feature: 横, start: [16, 82], curveList: [{command: h, parameterList: [67]}]}
-  - {feature: 竖, start: [48, 32], curveList: [{command: v, parameterList: [64]}]}
-  - {feature: 横, start: [3, 97], curveList: [{command: h, parameterList: [92]}]}
+  - {feature: 横, start: [6, 14], curveList: [{command: h, parameterList: [88]}]}
+  - {feature: 竖, start: [29, 5], curveList: [{command: v, parameterList: [22]}]}
+  - {feature: 竖, start: [71, 5], curveList: [{command: v, parameterList: [22]}]}
+  - {feature: 横, start: [29, 27], curveList: [{command: h, parameterList: [42]}]}
+  - {feature: 竖, start: [19, 38], curveList: [{command: v, parameterList: [14]}]}
+  - {feature: 横折, start: [19, 38], curveList: [{command: h, parameterList: [62]}, {command: v, parameterList: [14]}]}
+  - {feature: 横, start: [19, 52], curveList: [{command: h, parameterList: [62]}]}
+  - {feature: 横, start: [14, 64], curveList: [{command: h, parameterList: [72]}]}
+  - {feature: 横, start: [17, 77], curveList: [{command: h, parameterList: [66]}]}
+  - {feature: 竖, start: [50, 27], curveList: [{command: v, parameterList: [63]}]}
+  - {feature: 横, start: [7, 90], curveList: [{command: h, parameterList: [86]}]}
 墼角:
   - {feature: 横, start: [0, 13], curveList: [{command: h, parameterList: [55]}]}
   - {feature: 竖, start: [11, 21], curveList: [{command: v, parameterList: [24]}]}
@@ -1052,14 +1052,14 @@
   - {feature: 竖, start: [19, 54], curveList: [{command: v, parameterList: [18]}]}
   - {feature: 横折, start: [22, 55], curveList: [{command: h, parameterList: [22]}, {command: v, parameterList: [14]}]}
 士:
-  - {feature: 横, start: [0, 40], curveList: [{command: h, parameterList: [98]}]}
-  - {feature: 竖, start: [49, 2], curveList: [{command: v, parameterList: [88]}]}
-  - {feature: 横, start: [7, 90], curveList: [{command: h, parameterList: [82]}]}
+  - {feature: 横, start: [7, 39], curveList: [{command: h, parameterList: [86]}]}
+  - {feature: 竖, start: [50, 4], curveList: [{command: v, parameterList: [83]}]}
+  - {feature: 横, start: [10, 87], curveList: [{command: h, parameterList: [80]}]}
 壬:
-  - {feature: 撇, start: [82, 5], curveList: [{command: c, parameterList: [-24, 4, -49, 7, -75, 11]}]}
-  - {feature: 横, start: [3, 49], curveList: [{command: h, parameterList: [95]}]}
-  - {feature: 竖, start: [49, 10], curveList: [{command: v, parameterList: [79]}]}
-  - {feature: 横, start: [8, 90], curveList: [{command: h, parameterList: [84]}]}
+  - {feature: 撇, start: [87, 7], curveList: [{command: c, parameterList: [-24, 7, -49, 8, -75, 9]}]}
+  - {feature: 横, start: [6, 50], curveList: [{command: h, parameterList: [88]}]}
+  - {feature: 竖, start: [50, 13], curveList: [{command: v, parameterList: [77]}]}
+  - {feature: 横, start: [12, 90], curveList: [{command: h, parameterList: [76]}]}
 声下:
   - {feature: 横折, start: [17, 44], curveList: [{command: h, parameterList: [67]}, {command: v, parameterList: [25]}]}
   - {feature: 竖, start: [51, 44], curveList: [{command: v, parameterList: [20]}]}
@@ -1072,9 +1072,9 @@
   - {feature: 点, start: [10, 38], curveList: [{command: c, parameterList: [-1, 8, -4, 14, -8, 19]}]}
   - {feature: 横钩, start: [9, 44], curveList: [{command: h, parameterList: [84]}]}
 夂:
-  - {feature: 撇, start: [34, 2], curveList: [{command: c, parameterList: [-6, 14, -14, 26, -24, 36]}]}
-  - {feature: 横撇, start: [28, 17], curveList: [{command: h, parameterList: [43]}, {command: c, parameterList: [-17, 24, -39, 38, -67, 44]}]}
-  - {feature: 捺, start: [29, 21], curveList: [{command: c, parameterList: [14, 19, 33, 31, 58, 35]}]}
+  - {feature: 撇, start: [43, 4], curveList: [{command: c, parameterList: [-6, 12, -14, 23, -30, 32]}]}
+  - {feature: 横撇, start: [35, 17], curveList: [{command: h, parameterList: [41]}, {command: c, parameterList: [-17, 24, -39, 34, -70, 42]}]}
+  - {feature: 捺, start: [32, 21], curveList: [{command: c, parameterList: [14, 19, 34, 31, 62, 37]}]}
 夏上:
   - {feature: 横, start: [4, 7], curveList: [{command: h, parameterList: [89]}]}
   - {feature: 撇, start: [46, 7], curveList: [{command: c, parameterList: [-2, 3, -4, 7, -6, 11]}]}
@@ -1084,70 +1084,70 @@
   - {feature: 横, start: [23, 40], curveList: [{command: h, parameterList: [53]}]}
   - {feature: 横, start: [23, 50], curveList: [{command: h, parameterList: [52]}]}
 夕:
-  - {feature: 撇, start: [45, 4], curveList: [{command: c, parameterList: [-6, 24, -19, 46, -39, 64]}]}
-  - {feature: 横撇, start: [37, 24], curveList: [{command: h, parameterList: [45]}, {command: c, parameterList: [-10, 40, -37, 65, -83, 75]}]}
-  - {feature: 点, start: [34, 38], curveList: [{command: c, parameterList: [10, 5, 17, 12, 20, 22]}]}
+  - {feature: 撇, start: [47, 4], curveList: [{command: c, parameterList: [-6, 18, -19, 34, -36, 47]}]}
+  - {feature: 横撇, start: [40, 20], curveList: [{command: h, parameterList: [45]}, {command: c, parameterList: [-10, 37, -37, 58, -72, 74]}]}
+  - {feature: 点, start: [33, 43], curveList: [{command: c, parameterList: [10, 5, 19, 13, 27, 21]}]}
 夜角:
   - {feature: 撇, start: [53, 22], curveList: [{command: c, parameterList: [-5, 16, -14, 30, -27, 43]}]}
   - {feature: 横撇, start: [48, 36], curveList: [{command: h, parameterList: [33]}, {command: c, parameterList: [-8, 32, -27, 52, -56, 62]}]}
   - {feature: 捺, start: [43, 45], curveList: [{command: c, parameterList: [8, 25, 26, 42, 52, 50]}]}
   - {feature: 点, start: [53, 42], curveList: [{command: c, parameterList: [6, 4, 10, 9, 10, 15]}]}
 大:
-  - {feature: 横, start: [0, 32], curveList: [{command: h, parameterList: [93]}]}
-  - {feature: 撇, start: [44, 3], curveList: [{command: c, parameterList: [8, 43, -6, 75, -44, 95]}]}
-  - {feature: 捺, start: [50, 33], curveList: [{command: c, parameterList: [3, 32, 19, 51, 48, 57]}]}
+  - {feature: 横, start: [7, 33], curveList: [{command: h, parameterList: [86]}]}
+  - {feature: 撇, start: [50, 4], curveList: [{command: c, parameterList: [0, 26, 0, 65, -44, 89]}]}
+  - {feature: 捺, start: [49, 33], curveList: [{command: c, parameterList: [6, 21, 20, 44, 45, 60]}]}
 天:
-  - {feature: 横, start: [13, 11], curveList: [{command: h, parameterList: [75]}]}
-  - {feature: 横, start: [3, 43], curveList: [{command: h, parameterList: [92]}]}
-  - {feature: 撇, start: [49, 11], curveList: [{command: c, parameterList: [10, 36, -6, 64, -46, 85]}]}
-  - {feature: 捺, start: [53, 45], curveList: [{command: c, parameterList: [4, 21, 18, 36, 40, 45]}]}
+  - {feature: 横, start: [11, 12], curveList: [{command: h, parameterList: [78]}]}
+  - {feature: 横, start: [9, 42], curveList: [{command: h, parameterList: [82]}]}
+  - {feature: 撇, start: [51, 12], curveList: [{command: c, parameterList: [-1, 24, -2, 61, -44, 81]}]}
+  - {feature: 捺, start: [48, 42], curveList: [{command: c, parameterList: [4, 15, 18, 34, 45, 51]}]}
 太:
-  - {feature: 横, start: [2, 31], curveList: [{command: h, parameterList: [95]}]}
-  - {feature: 撇, start: [47, 1], curveList: [{command: c, parameterList: [11, 31, -4, 63, -46, 95]}]}
-  - {feature: 捺, start: [47, 34], curveList: [{command: c, parameterList: [9, 28, 25, 48, 48, 60]}]}
-  - {feature: 点, start: [42, 74], curveList: [{command: c, parameterList: [6, 5, 10, 11, 12, 19]}]}
+  - {feature: 横, start: [7, 28], curveList: [{command: h, parameterList: [86]}]}
+  - {feature: 撇, start: [49, 5], curveList: [{command: c, parameterList: [0, 31, -4, 63, -43, 88]}]}
+  - {feature: 捺, start: [48, 28], curveList: [{command: c, parameterList: [9, 28, 25, 52, 47, 65]}]}
+  - {feature: 点, start: [32, 69], curveList: [{command: c, parameterList: [6, 5, 10, 7, 21, 21]}]}
 夫:
-  - {feature: 横, start: [13, 26], curveList: [{command: h, parameterList: [78]}]}
-  - {feature: 横, start: [4, 49], curveList: [{command: h, parameterList: [93]}]}
-  - {feature: 撇, start: [47, 2], curveList: [{command: c, parameterList: [10, 27, -6, 59, -47, 97]}]}
-  - {feature: 捺, start: [54, 48], curveList: [{command: c, parameterList: [3, 22, 18, 39, 44, 49]}]}
+  - {feature: 横, start: [14, 22], curveList: [{command: h, parameterList: [72]}]}
+  - {feature: 横, start: [7, 49], curveList: [{command: h, parameterList: [86]}]}
+  - {feature: 撇, start: [50, 4], curveList: [{command: c, parameterList: [0, 57, 0, 75, -44, 89]}]}
+  - {feature: 捺, start: [49, 49], curveList: [{command: c, parameterList: [3, 6, 16, 32, 45, 44]}]}
 夭:
-  - {feature: 撇, start: [82, 7], curveList: [{command: c, parameterList: [-24, 6, -49, 10, -75, 14]}]}
-  - {feature: 横, start: [3, 45], curveList: [{command: h, parameterList: [96]}]}
-  - {feature: 撇, start: [46, 16], curveList: [{command: c, parameterList: [9, 36, -6, 64, -45, 83]}]}
-  - {feature: 捺, start: [55, 46], curveList: [{command: c, parameterList: [5, 21, 18, 37, 39, 47]}]}
+  - {feature: 撇, start: [83, 7], curveList: [{command: c, parameterList: [-19, 8, -40, 10, -71, 11]}]}
+  - {feature: 横, start: [8, 47], curveList: [{command: h, parameterList: [84]}]}
+  - {feature: 撇, start: [50, 15], curveList: [{command: c, parameterList: [0, 36, 0, 64, -44, 78]}]}
+  - {feature: 捺, start: [49, 47], curveList: [{command: c, parameterList: [5, 14, 18, 32, 44, 45]}]}
 央:
-  - {feature: 竖, start: [19, 23], curveList: [{command: v, parameterList: [33]}]}
-  - {feature: 横折, start: [20, 26], curveList: [{command: h, parameterList: [56]}, {command: v, parameterList: [30]}]}
-  - {feature: 横, start: [1, 57], curveList: [{command: h, parameterList: [96]}]}
-  - {feature: 撇, start: [49, 2], curveList: [{command: c, parameterList: [12, 44, -4, 77, -48, 97]}]}
-  - {feature: 捺, start: [53, 59], curveList: [{command: c, parameterList: [5, 16, 18, 28, 40, 36]}]}
+  - {feature: 竖, start: [21, 21], curveList: [{command: v, parameterList: [34]}]}
+  - {feature: 横折, start: [21, 21], curveList: [{command: h, parameterList: [58]}, {command: v, parameterList: [34]}]}
+  - {feature: 横, start: [8, 55], curveList: [{command: h, parameterList: [84]}]}
+  - {feature: 撇, start: [50, 4], curveList: [{command: c, parameterList: [0, 63, 0, 72, -42, 89]}]}
+  - {feature: 捺, start: [48, 55], curveList: [{command: c, parameterList: [5, 12, 18, 25, 45, 38]}]}
 失:
-  - {feature: 撇, start: [27, 11], curveList: [{command: c, parameterList: [-5, 10, -11, 22, -18, 34]}]}
-  - {feature: 横, start: [21, 25], curveList: [{command: h, parameterList: [65]}]}
-  - {feature: 横, start: [3, 51], curveList: [{command: h, parameterList: [91]}]}
-  - {feature: 撇, start: [49, 3], curveList: [{command: c, parameterList: [11, 44, -4, 76, -45, 95]}]}
-  - {feature: 捺, start: [52, 53], curveList: [{command: c, parameterList: [8, 20, 21, 33, 40, 37]}]}
+  - {feature: 撇, start: [28, 7], curveList: [{command: c, parameterList: [-5, 11, -9, 24, -21, 34]}]}
+  - {feature: 横, start: [20, 24], curveList: [{command: h, parameterList: [66]}]}
+  - {feature: 横, start: [7, 52], curveList: [{command: h, parameterList: [86]}]}
+  - {feature: 撇, start: [50, 4], curveList: [{command: c, parameterList: [0, 64, 0, 71, -45, 89]}]}
+  - {feature: 捺, start: [49, 52], curveList: [{command: c, parameterList: [8, 17, 21, 30, 46, 41]}]}
 头:
-  - {feature: 点, start: [22, 9], curveList: [{command: c, parameterList: [8, 4, 14, 9, 18, 16]}]}
-  - {feature: 点, start: [11, 30], curveList: [{command: c, parameterList: [10, 4, 17, 9, 23, 17]}]}
-  - {feature: 横, start: [3, 57], curveList: [{command: h, parameterList: [93]}]}
-  - {feature: 撇, start: [53, 2], curveList: [{command: c, parameterList: [15, 47, -1, 79, -49, 97]}]}
-  - {feature: 点, start: [52, 68], curveList: [{command: c, parameterList: [16, 4, 28, 12, 36, 23]}]}
+  - {feature: 点, start: [24, 11], curveList: [{command: c, parameterList: [8, 4, 14, 9, 19, 13]}]}
+  - {feature: 点, start: [14, 28], curveList: [{command: c, parameterList: [10, 4, 17, 9, 22, 13]}]}
+  - {feature: 横, start: [7, 54], curveList: [{command: h, parameterList: [86]}]}
+  - {feature: 撇, start: [57, 4], curveList: [{command: c, parameterList: [0, 58, 0, 73, -49, 89]}]}
+  - {feature: 点, start: [51, 65], curveList: [{command: c, parameterList: [9, 4, 23, 12, 40, 28]}]}
 夷:
-  - {feature: 横, start: [0, 15], curveList: [{command: h, parameterList: [91]}]}
-  - {feature: 横折, start: [14, 29], curveList: [{command: h, parameterList: [63]}, {command: v, parameterList: [20]}]}
-  - {feature: 横, start: [16, 44], curveList: [{command: h, parameterList: [58]}]}
-  - {feature: 竖折折钩, start: [16, 41], curveList: [{command: v, parameterList: [17]}, {command: h, parameterList: [73]}, {command: v, parameterList: [20]}]}
-  - {feature: 撇, start: [48, 2], curveList: [{command: c, parameterList: [8, 30, -6, 61, -43, 95]}]}
-  - {feature: 捺, start: [48, 62], curveList: [{command: c, parameterList: [7, 18, 21, 29, 42, 33]}]}
+  - {feature: 横, start: [8, 14], curveList: [{command: h, parameterList: [84]}]}
+  - {feature: 横折, start: [14, 28], curveList: [{command: h, parameterList: [67]}, {command: v, parameterList: [15]}]}
+  - {feature: 横, start: [17, 43], curveList: [{command: h, parameterList: [64]}]}
+  - {feature: 竖折折钩, start: [17, 43], curveList: [{command: v, parameterList: [14]}, {command: h, parameterList: [69]}, {command: v, parameterList: [17]}]}
+  - {feature: 撇, start: [50, 4], curveList: [{command: c, parameterList: [0, 51, 0, 69, -42, 90]}]}
+  - {feature: 捺, start: [46, 57], curveList: [{command: c, parameterList: [7, 17, 21, 27, 47, 36]}]}
 夹:
-  - {feature: 横, start: [8, 24], curveList: [{command: h, parameterList: [79]}]}
-  - {feature: 点, start: [15, 32], curveList: [{command: c, parameterList: [9, 6, 13, 12, 12, 20]}]}
-  - {feature: 撇, start: [72, 33], curveList: [{command: c, parameterList: [-4, 7, -7, 14, -11, 21]}]}
-  - {feature: 横, start: [1, 57], curveList: [{command: h, parameterList: [95]}]}
-  - {feature: 撇, start: [47, 2], curveList: [{command: c, parameterList: [12, 40, -2, 72, -41, 96]}]}
-  - {feature: 捺, start: [53, 60], curveList: [{command: c, parameterList: [7, 16, 20, 28, 39, 34]}]}
+  - {feature: 横, start: [11, 19], curveList: [{command: h, parameterList: [78]}]}
+  - {feature: 点, start: [20, 29], curveList: [{command: c, parameterList: [3, 5, 6, 12, 8, 20]}]}
+  - {feature: 撇, start: [79, 28], curveList: [{command: c, parameterList: [-2, 5, -5, 16, -12, 26]}]}
+  - {feature: 横, start: [7, 54], curveList: [{command: h, parameterList: [86]}]}
+  - {feature: 撇, start: [50, 5], curveList: [{command: c, parameterList: [0, 58, 0, 72, -43, 87]}]}
+  - {feature: 捺, start: [49, 54], curveList: [{command: c, parameterList: [7, 16, 20, 28, 45, 39]}]}
 奂:
   - {feature: 撇, start: [38, 3], curveList: [{command: c, parameterList: [-10, 18, -23, 32, -39, 41]}]}
   - {feature: 横钩, start: [33, 14], curveList: [{command: h, parameterList: [30]}]}
@@ -1157,9 +1157,9 @@
   - {feature: 撇, start: [48, 34], curveList: [{command: c, parameterList: [1, 38, -15, 60, -48, 65]}]}
   - {feature: 捺, start: [52, 64], curveList: [{command: c, parameterList: [9, 18, 22, 29, 39, 32]}]}
 女:
-  - {feature: 撇点, start: [46, 4], curveList: [{command: c, parameterList: [-6, 20, -13, 39, -22, 58]}, {command: c, parameterList: [19, 6, 38, 16, 58, 30]}]}
-  - {feature: 撇, start: [68, 35], curveList: [{command: c, parameterList: [-4, 34, -24, 55, -60, 63]}]}
-  - {feature: 横, start: [0, 34], curveList: [{command: h, parameterList: [96]}]}
+  - {feature: 撇点, start: [45, 4], curveList: [{command: c, parameterList: [-6, 20, -13, 31, -22, 50]}, {command: c, parameterList: [19, 6, 38, 14, 68, 39]}]}
+  - {feature: 撇, start: [75, 30], curveList: [{command: c, parameterList: [-4, 26, -22, 51, -67, 63]}]}
+  - {feature: 横, start: [7, 30], curveList: [{command: h, parameterList: [86]}]}
 妻上:
   - {feature: 横, start: [5, 14], curveList: [{command: h, parameterList: [91]}]}
   - {feature: 横折, start: [13, 25], curveList: [{command: h, parameterList: [62]}, {command: v, parameterList: [29]}]}
@@ -1183,17 +1183,17 @@
   - {feature: 横, start: [44, 63], curveList: [{command: h, parameterList: [43]}]}
   - {feature: 横, start: [34, 76], curveList: [{command: h, parameterList: [64]}]}
 子:
-  - {feature: 横撇, start: [15, 7], curveList: [{command: h, parameterList: [59]}, {command: c, parameterList: [-11, 3, -20, 8, -27, 15]}]}
-  - {feature: 竖钩, start: [51, 29], curveList: [{command: v, parameterList: [66]}]}
-  - {feature: 横, start: [3, 48], curveList: [{command: h, parameterList: [95]}]}
+  - {feature: 横撇, start: [18, 11], curveList: [{command: h, parameterList: [64]}, {command: c, parameterList: [-2, 3, -9, 8, -30, 22]}]}
+  - {feature: 竖钩, start: [52, 33], curveList: [{command: v, parameterList: [61]}]}
+  - {feature: 横, start: [7, 50], curveList: [{command: h, parameterList: [86]}]}
 孑:
-  - {feature: 横撇, start: [15, 7], curveList: [{command: h, parameterList: [59]}, {command: c, parameterList: [-11, 3, -20, 8, -27, 15]}]}
-  - {feature: 竖钩, start: [53, 27], curveList: [{command: v, parameterList: [69]}]}
-  - {feature: 提, start: [7, 68], curveList: [{command: l, parameterList: [88, -31]}]}
+  - {feature: 横撇, start: [18, 11], curveList: [{command: h, parameterList: [62]}, {command: c, parameterList: [-2, 3, -6, 8, -28, 23]}]}
+  - {feature: 竖钩, start: [52, 34], curveList: [{command: v, parameterList: [59]}]}
+  - {feature: 提, start: [6, 56], curveList: [{command: l, parameterList: [89, -11]}]}
 孓:
-  - {feature: 横撇, start: [15, 7], curveList: [{command: h, parameterList: [59]}, {command: c, parameterList: [-11, 3, -20, 8, -27, 15]}]}
-  - {feature: 竖钩, start: [45, 27], curveList: [{command: v, parameterList: [71]}]}
-  - {feature: 捺, start: [15, 26], curveList: [{command: c, parameterList: [15, 28, 38, 45, 69, 50]}]}
+  - {feature: 横撇, start: [18, 10], curveList: [{command: h, parameterList: [62]}, {command: c, parameterList: [-3, 3, -7, 8, -28, 22]}]}
+  - {feature: 竖钩, start: [52, 32], curveList: [{command: v, parameterList: [61]}]}
+  - {feature: 捺, start: [12, 32], curveList: [{command: c, parameterList: [15, 16, 38, 35, 81, 42]}]}
 学上:
   - {feature: 点, start: [16, 2], curveList: [{command: c, parameterList: [8, 6, 12, 13, 12, 21]}]}
   - {feature: 点, start: [40, 0], curveList: [{command: c, parameterList: [5, 7, 8, 14, 9, 20]}]}
@@ -1201,9 +1201,9 @@
   - {feature: 点, start: [9, 23], curveList: [{command: c, parameterList: [-2, 8, -4, 15, -6, 21]}]}
   - {feature: 横钩, start: [8, 27], curveList: [{command: h, parameterList: [82]}]}
 宀:
-  - {feature: 点, start: [38, 2], curveList: [{command: c, parameterList: [7, 3, 11, 8, 13, 14]}]}
-  - {feature: 点, start: [11, 21], curveList: [{command: c, parameterList: [-1, 8, -3, 14, -7, 20]}]}
-  - {feature: 横钩, start: [11, 26], curveList: [{command: h, parameterList: [80]}]}
+  - {feature: 点, start: [45, 7], curveList: [{command: c, parameterList: [1, 3, 5, 8, 6, 17]}]}
+  - {feature: 点, start: [11, 24], curveList: [{command: c, parameterList: [0, 8, 0, 14, 0, 17]}]}
+  - {feature: 横钩, start: [11, 24], curveList: [{command: h, parameterList: [78]}]}
 官下:
   - {feature: 竖, start: [27, 29], curveList: [{command: v, parameterList: [70]}]}
   - {feature: 横折, start: [27, 32], curveList: [{command: h, parameterList: [45]}, {command: v, parameterList: [23]}]}
@@ -1243,18 +1243,18 @@
   - {feature: 横, start: [27, 51], curveList: [{command: h, parameterList: [44]}]}
   - {feature: 横, start: [3, 61], curveList: [{command: h, parameterList: [95]}]}
 寸:
-  - {feature: 横, start: [0, 32], curveList: [{command: h, parameterList: [99]}]}
-  - {feature: 竖钩, start: [63, 2], curveList: [{command: v, parameterList: [94]}]}
-  - {feature: 点, start: [25, 40], curveList: [{command: c, parameterList: [7, 8, 12, 15, 14, 23]}]}
+  - {feature: 横, start: [8, 26], curveList: [{command: h, parameterList: [84]}]}
+  - {feature: 竖钩, start: [71, 5], curveList: [{command: v, parameterList: [88]}]}
+  - {feature: 点, start: [20, 43], curveList: [{command: c, parameterList: [7, 8, 18, 15, 24, 25]}]}
 小:
-  - {feature: 竖钩, start: [53, 4], curveList: [{command: v, parameterList: [93]}]}
-  - {feature: 撇, start: [30, 31], curveList: [{command: c, parameterList: [-5, 16, -13, 31, -25, 45]}]}
-  - {feature: 点, start: [70, 30], curveList: [{command: c, parameterList: [10, 12, 18, 25, 25, 40]}]}
+  - {feature: 竖钩, start: [52, 6], curveList: [{command: v, parameterList: [87]}]}
+  - {feature: 撇, start: [26, 30], curveList: [{command: c, parameterList: [-5, 16, -10, 31, -20, 45]}]}
+  - {feature: 点, start: [73, 28], curveList: [{command: c, parameterList: [10, 17, 18, 34, 21, 47]}]}
 少:
-  - {feature: 竖, start: [47, 3], curveList: [{command: v, parameterList: [64]}]}
-  - {feature: 撇, start: [27, 25], curveList: [{command: c, parameterList: [-6, 15, -14, 28, -24, 38]}]}
-  - {feature: 点, start: [67, 21], curveList: [{command: c, parameterList: [8, 0, 17, 8, 28, 23]}]}
-  - {feature: 撇, start: [77, 55], curveList: [{command: c, parameterList: [-14, 23, -40, 37, -76, 41]}]}
+  - {feature: 竖, start: [50, 5], curveList: [{command: v, parameterList: [58]}]}
+  - {feature: 撇, start: [30, 17], curveList: [{command: c, parameterList: [-6, 15, -14, 28, -21, 35]}]}
+  - {feature: 点, start: [66, 16], curveList: [{command: c, parameterList: [11, 9, 15, 15, 28, 34]}]}
+  - {feature: 撇, start: [79, 47], curveList: [{command: c, parameterList: [-14, 23, -29, 37, -70, 46]}]}
 尚上:
   - {feature: 竖, start: [48, 2], curveList: [{command: v, parameterList: [34]}]}
   - {feature: 点, start: [14, 8], curveList: [{command: c, parameterList: [9, 6, 15, 13, 18, 22]}]}
@@ -1262,32 +1262,32 @@
   - {feature: 竖, start: [13, 34], curveList: [{command: v, parameterList: [65]}]}
   - {feature: 横折钩, start: [13, 36], curveList: [{command: h, parameterList: [72]}, {command: v, parameterList: [60]}]}
 尢:
-  - {feature: 横, start: [2, 28], curveList: [{command: h, parameterList: [61]}]}
-  - {feature: 撇, start: [28, 2], curveList: [{command: c, parameterList: [3, 46, -6, 78, -26, 97]}]}
-  - {feature: 竖弯钩, start: [40, 35], curveList: [{command: v, parameterList: [53]}, {command: h, parameterList: [50]}]}
+  - {feature: 横, start: [8, 28], curveList: [{command: h, parameterList: [84]}]}
+  - {feature: 撇, start: [47, 4], curveList: [{command: c, parameterList: [0, 37, 0, 69, -38, 89]}]}
+  - {feature: 竖弯钩, start: [57, 39], curveList: [{command: v, parameterList: [54]}, {command: h, parameterList: [35]}]}
 尤:
-  - {feature: 横, start: [2, 28], curveList: [{command: h, parameterList: [86]}]}
-  - {feature: 撇, start: [39, 1], curveList: [{command: c, parameterList: [8, 27, -5, 59, -39, 96]}]}
-  - {feature: 竖弯钩, start: [55, 28], curveList: [{command: v, parameterList: [59]}, {command: h, parameterList: [33]}]}
-  - {feature: 点, start: [55, 4], curveList: [{command: c, parameterList: [6, 4, 12, 8, 16, 13]}]}
+  - {feature: 横, start: [8, 31], curveList: [{command: h, parameterList: [84]}]}
+  - {feature: 撇, start: [46, 4], curveList: [{command: c, parameterList: [0, 27, 0, 59, -39, 90]}]}
+  - {feature: 竖弯钩, start: [58, 31], curveList: [{command: v, parameterList: [62]}, {command: h, parameterList: [34]}]}
+  - {feature: 点, start: [63, 6], curveList: [{command: c, parameterList: [5, 4, 9, 8, 14, 16]}]}
 尧上:
   - {feature: 横, start: [2, 14], curveList: [{command: h, parameterList: [86]}]}
   - {feature: 斜钩, start: [34, 1], curveList: [{command: c, parameterList: [4, 21, 24, 30, 58, 27]}]}
   - {feature: 撇, start: [74, 15], curveList: [{command: c, parameterList: [-24, 4, -47, 10, -70, 16]}]}
 尸:
-  - {feature: 横折, start: [27, 9], curveList: [{command: h, parameterList: [59]}, {command: v, parameterList: [37]}]}
-  - {feature: 横, start: [26, 38], curveList: [{command: h, parameterList: [59]}]}
-  - {feature: 撇, start: [25, 6], curveList: [{command: c, parameterList: [7, 36, -1, 66, -24, 90]}]}
+  - {feature: 横折, start: [17, 11], curveList: [{command: h, parameterList: [69]}, {command: v, parameterList: [27]}]}
+  - {feature: 横, start: [17, 38], curveList: [{command: h, parameterList: [69]}]}
+  - {feature: 撇, start: [17, 11], curveList: [{command: c, parameterList: [0, 36, 1, 66, -11, 81]}]}
 尹:
-  - {feature: 横折, start: [9, 10], curveList: [{command: h, parameterList: [69]}, {command: v, parameterList: [38]}]}
-  - {feature: 横, start: [1, 27], curveList: [{command: h, parameterList: [98]}]}
-  - {feature: 横, start: [9, 45], curveList: [{command: h, parameterList: [70]}]}
-  - {feature: 撇, start: [42, 10], curveList: [{command: c, parameterList: [7, 27, -2, 56, -28, 88]}]}
+  - {feature: 横折, start: [17, 13], curveList: [{command: h, parameterList: [60]}, {command: v, parameterList: [45]}]}
+  - {feature: 横, start: [7, 35], curveList: [{command: h, parameterList: [87]}]}
+  - {feature: 横, start: [15, 58], curveList: [{command: h, parameterList: [62]}]}
+  - {feature: 撇, start: [43, 13], curveList: [{command: c, parameterList: [0, 40, 0, 66, -32, 80]}]}
 尺:
-  - {feature: 横折, start: [21, 11], curveList: [{command: h, parameterList: [56]}, {command: v, parameterList: [32]}]}
-  - {feature: 横, start: [21, 38], curveList: [{command: h, parameterList: [56]}]}
-  - {feature: 撇, start: [21, 11], curveList: [{command: c, parameterList: [8, 37, 1, 65, -21, 85]}]}
-  - {feature: 捺, start: [44, 39], curveList: [{command: c, parameterList: [8, 27, 23, 44, 46, 51]}]}
+  - {feature: 横折, start: [21, 11], curveList: [{command: h, parameterList: [59]}, {command: v, parameterList: [31]}]}
+  - {feature: 横, start: [21, 42], curveList: [{command: h, parameterList: [59]}]}
+  - {feature: 撇, start: [21, 11], curveList: [{command: c, parameterList: [0, 49, 0, 68, -15, 82]}]}
+  - {feature: 捺, start: [50, 42], curveList: [{command: c, parameterList: [8, 27, 23, 41, 44, 51]}]}
 局上:
   - {feature: 横折, start: [19, 7], curveList: [{command: h, parameterList: [60]}, {command: v, parameterList: [22]}]}
   - {feature: 横, start: [19, 25], curveList: [{command: h, parameterList: [61]}]}
@@ -1302,42 +1302,42 @@
   - {feature: 撇, start: [82, 64], curveList: [{command: c, parameterList: [-6, 1, -12, 5, -18, 11]}]}
   - {feature: 捺, start: [52, 59], curveList: [{command: c, parameterList: [5, 17, 19, 28, 41, 34]}]}
 屮:
-  - {feature: 竖折, start: [15, 15], curveList: [{command: v, parameterList: [40]}, {command: h, parameterList: [66]}]}
-  - {feature: 竖, start: [82, 15], curveList: [{command: v, parameterList: [47]}]}
-  - {feature: 竖, start: [49, 2], curveList: [{command: v, parameterList: [97]}]}
+  - {feature: 竖折, start: [15, 14], curveList: [{command: v, parameterList: [44]}, {command: h, parameterList: [70]}]}
+  - {feature: 竖, start: [85, 14], curveList: [{command: v, parameterList: [44]}]}
+  - {feature: 竖, start: [50, 4], curveList: [{command: v, parameterList: [90]}]}
 屯:
-  - {feature: 横, start: [0, 22], curveList: [{command: h, parameterList: [89]}]}
-  - {feature: 竖折, start: [16, 32], curveList: [{command: v, parameterList: [29]}, {command: h, parameterList: [59]}]}
-  - {feature: 竖, start: [74, 32], curveList: [{command: v, parameterList: [38]}]}
-  - {feature: 竖弯钩, start: [42, 3], curveList: [{command: v, parameterList: [85]}, {command: h, parameterList: [52]}]}
+  - {feature: 横, start: [8, 20], curveList: [{command: h, parameterList: [84]}]}
+  - {feature: 竖折, start: [18, 31], curveList: [{command: v, parameterList: [29]}, {command: h, parameterList: [64]}]}
+  - {feature: 竖, start: [82, 31], curveList: [{command: v, parameterList: [29]}]}
+  - {feature: 竖弯钩, start: [50, 5], curveList: [{command: v, parameterList: [87]}, {command: h, parameterList: [43]}]}
 山:
-  - {feature: 竖, start: [47, 3], curveList: [{command: v, parameterList: [84]}]}
-  - {feature: 竖折, start: [13, 25], curveList: [{command: v, parameterList: [61]}, {command: h, parameterList: [69]}]}
-  - {feature: 竖, start: [83, 26], curveList: [{command: v, parameterList: [68]}]}
+  - {feature: 竖, start: [50, 4], curveList: [{command: v, parameterList: [80]}]}
+  - {feature: 竖折, start: [14, 21], curveList: [{command: v, parameterList: [63]}, {command: h, parameterList: [72]}]}
+  - {feature: 竖, start: [86, 21], curveList: [{command: v, parameterList: [63]}]}
 巛:
-  - {feature: 撇点, start: [28, 11], curveList: [{command: c, parameterList: [-6, 14, -14, 27, -22, 38]}, {command: c, parameterList: [12, 10, 20, 21, 24, 33]}]}
-  - {feature: 撇点, start: [54, 14], curveList: [{command: c, parameterList: [-5, 13, -11, 25, -19, 36]}, {command: c, parameterList: [10, 10, 18, 20, 23, 32]}]}
-  - {feature: 撇点, start: [79, 14], curveList: [{command: c, parameterList: [-6, 12, -11, 24, -17, 35]}, {command: c, parameterList: [10, 10, 17, 21, 21, 32]}]}
+  - {feature: 撇点, start: [36, 6], curveList: [{command: c, parameterList: [-6, 16, -14, 29, -23, 44]}, {command: c, parameterList: [12, 19, 13, 21, 23, 41]}]}
+  - {feature: 撇点, start: [62, 6], curveList: [{command: c, parameterList: [-6, 16, -14, 29, -23, 44]}, {command: c, parameterList: [12, 19, 13, 21, 23, 41]}]}
+  - {feature: 撇点, start: [88, 6], curveList: [{command: c, parameterList: [-6, 16, -14, 29, -23, 44]}, {command: c, parameterList: [12, 19, 13, 21, 23, 41]}]}
 川:
-  - {feature: 撇, start: [24, 4], curveList: [{command: c, parameterList: [8, 44, 0, 75, -24, 94]}]}
-  - {feature: 竖, start: [55, 13], curveList: [{command: v, parameterList: [65]}]}
-  - {feature: 竖, start: [86, 4], curveList: [{command: v, parameterList: [94]}]}
+  - {feature: 撇, start: [22, 5], curveList: [{command: c, parameterList: [0, 48, 0, 75, -16, 88]}]}
+  - {feature: 竖, start: [52, 9], curveList: [{command: v, parameterList: [78]}]}
+  - {feature: 竖, start: [82, 5], curveList: [{command: v, parameterList: [89]}]}
 州:
-  - {feature: 点, start: [13, 34], curveList: [{command: c, parameterList: [-2, 9, -4, 17, -5, 25]}]}
-  - {feature: 撇, start: [27, 7], curveList: [{command: c, parameterList: [8, 44, 0, 74, -22, 91]}]}
-  - {feature: 点, start: [34, 32], curveList: [{command: c, parameterList: [5, 7, 8, 15, 10, 23]}]}
+  - {feature: 点, start: [18, 29], curveList: [{command: c, parameterList: [-2, 9, -4, 17, -8, 28]}]}
+  - {feature: 撇, start: [30, 6], curveList: [{command: c, parameterList: [0, 44, 0, 71, -19, 88]}]}
+  - {feature: 点, start: [38, 32], curveList: [{command: c, parameterList: [5, 7, 8, 15, 11, 23]}]}
   - {feature: 竖, start: [58, 9], curveList: [{command: v, parameterList: [82]}]}
-  - {feature: 点, start: [65, 33], curveList: [{command: c, parameterList: [5, 6, 8, 14, 8, 22]}]}
-  - {feature: 竖, start: [86, 7], curveList: [{command: v, parameterList: [92]}]}
+  - {feature: 点, start: [65, 30], curveList: [{command: c, parameterList: [5, 6, 8, 14, 11, 25]}]}
+  - {feature: 竖, start: [86, 5], curveList: [{command: v, parameterList: [89]}]}
 工:
-  - {feature: 横, start: [8, 15], curveList: [{command: h, parameterList: [84]}]}
-  - {feature: 竖, start: [48, 15], curveList: [{command: v, parameterList: [71]}]}
-  - {feature: 横, start: [1, 86], curveList: [{command: h, parameterList: [97]}]}
+  - {feature: 横, start: [13, 14], curveList: [{command: h, parameterList: [74]}]}
+  - {feature: 竖, start: [50, 14], curveList: [{command: v, parameterList: [71]}]}
+  - {feature: 横, start: [6, 85], curveList: [{command: h, parameterList: [88]}]}
 巨:
-  - {feature: 横, start: [13, 11], curveList: [{command: h, parameterList: [73]}]}
-  - {feature: 横折, start: [13, 35], curveList: [{command: h, parameterList: [58]}, {command: v, parameterList: [31]}]}
-  - {feature: 横, start: [13, 62], curveList: [{command: h, parameterList: [58]}]}
-  - {feature: 竖折, start: [12, 7], curveList: [{command: v, parameterList: [82]}, {command: h, parameterList: [77]}]}
+  - {feature: 横, start: [18, 11], curveList: [{command: h, parameterList: [72]}]}
+  - {feature: 横折, start: [18, 34], curveList: [{command: h, parameterList: [63]}, {command: v, parameterList: [30]}]}
+  - {feature: 横, start: [18, 64], curveList: [{command: h, parameterList: [63]}]}
+  - {feature: 竖折, start: [18, 11], curveList: [{command: v, parameterList: [79]}, {command: h, parameterList: [75]}]}
 差上:
   - {feature: 点, start: [28, 2], curveList: [{command: c, parameterList: [6, 4, 11, 10, 13, 18]}]}
   - {feature: 撇, start: [70, 3], curveList: [{command: c, parameterList: [-4, 6, -8, 12, -14, 19]}]}
@@ -1346,37 +1346,37 @@
   - {feature: 横, start: [2, 54], curveList: [{command: h, parameterList: [93]}]}
   - {feature: 撇, start: [47, 23], curveList: [{command: c, parameterList: [-7, 30, -22, 53, -46, 71]}]}
 己:
-  - {feature: 横折, start: [11, 11], curveList: [{command: h, parameterList: [61]}, {command: v, parameterList: [37]}]}
-  - {feature: 横, start: [14, 40], curveList: [{command: h, parameterList: [57]}]}
-  - {feature: 竖弯钩, start: [15, 37], curveList: [{command: v, parameterList: [49]}, {command: h, parameterList: [73]}]}
+  - {feature: 横折, start: [14, 12], curveList: [{command: h, parameterList: [67]}, {command: v, parameterList: [33]}]}
+  - {feature: 横, start: [16, 45], curveList: [{command: h, parameterList: [65]}]}
+  - {feature: 竖弯钩, start: [16, 45], curveList: [{command: v, parameterList: [45]}, {command: h, parameterList: [75]}]}
 已:
-  - {feature: 横折, start: [9, 13], curveList: [{command: h, parameterList: [62]}, {command: v, parameterList: [37]}]}
-  - {feature: 横, start: [13, 42], curveList: [{command: h, parameterList: [58]}]}
-  - {feature: 竖弯钩, start: [13, 29], curveList: [{command: v, parameterList: [56]}, {command: h, parameterList: [72]}]}
+  - {feature: 横折, start: [11, 12], curveList: [{command: h, parameterList: [70]}, {command: v, parameterList: [34]}]}
+  - {feature: 横, start: [16, 46], curveList: [{command: h, parameterList: [65]}]}
+  - {feature: 竖弯钩, start: [16, 27], curveList: [{command: v, parameterList: [63]}, {command: h, parameterList: [76]}]}
 巳:
-  - {feature: 横折, start: [13, 13], curveList: [{command: h, parameterList: [60]}, {command: v, parameterList: [38]}]}
-  - {feature: 横, start: [13, 42], curveList: [{command: h, parameterList: [60]}]}
-  - {feature: 竖弯钩, start: [12, 10], curveList: [{command: v, parameterList: [78]}, {command: h, parameterList: [72]}]}
+  - {feature: 横折, start: [17, 12], curveList: [{command: h, parameterList: [65]}, {command: v, parameterList: [33]}]}
+  - {feature: 横, start: [17, 45], curveList: [{command: h, parameterList: [65]}]}
+  - {feature: 竖弯钩, start: [17, 12], curveList: [{command: v, parameterList: [78]}, {command: h, parameterList: [74]}]}
 巴:
-  - {feature: 横折, start: [13, 13], curveList: [{command: h, parameterList: [66]}, {command: v, parameterList: [36]}]}
-  - {feature: 竖, start: [47, 13], curveList: [{command: v, parameterList: [29]}]}
-  - {feature: 横, start: [13, 42], curveList: [{command: h, parameterList: [66]}]}
-  - {feature: 竖弯钩, start: [13, 10], curveList: [{command: v, parameterList: [73]}, {command: h, parameterList: [73]}]}
+  - {feature: 横折, start: [15, 12], curveList: [{command: h, parameterList: [70]}, {command: v, parameterList: [36]}]}
+  - {feature: 竖, start: [50, 12], curveList: [{command: v, parameterList: [36]}]}
+  - {feature: 横, start: [15, 48], curveList: [{command: h, parameterList: [70]}]}
+  - {feature: 竖弯钩, start: [15, 12], curveList: [{command: v, parameterList: [78]}, {command: h, parameterList: [78]}]}
 巾:
-  - {feature: 竖, start: [18, 23], curveList: [{command: v, parameterList: [59]}]}
-  - {feature: 横折钩, start: [18, 25], curveList: [{command: h, parameterList: [61]}, {command: v, parameterList: [54]}]}
-  - {feature: 竖, start: [49, 2], curveList: [{command: v, parameterList: [96]}]}
+  - {feature: 竖, start: [18, 25], curveList: [{command: v, parameterList: [56]}]}
+  - {feature: 横折钩, start: [18, 25], curveList: [{command: h, parameterList: [64]}, {command: v, parameterList: [56]}]}
+  - {feature: 竖, start: [50, 5], curveList: [{command: v, parameterList: [90]}]}
 币:
-  - {feature: 撇, start: [83, 3], curveList: [{command: c, parameterList: [-24, 6, -50, 10, -77, 12]}]}
-  - {feature: 竖, start: [17, 29], curveList: [{command: v, parameterList: [55]}]}
-  - {feature: 横折钩, start: [17, 32], curveList: [{command: h, parameterList: [64]}, {command: v, parameterList: [50]}]}
-  - {feature: 竖, start: [49, 11], curveList: [{command: v, parameterList: [88]}]}
+  - {feature: 撇, start: [89, 7], curveList: [{command: c, parameterList: [-24, 6, -50, 8, -81, 9]}]}
+  - {feature: 竖, start: [17, 37], curveList: [{command: v, parameterList: [45]}]}
+  - {feature: 横折钩, start: [17, 37], curveList: [{command: h, parameterList: [66]}, {command: v, parameterList: [45]}]}
+  - {feature: 竖, start: [50, 13], curveList: [{command: v, parameterList: [81]}]}
 市:
-  - {feature: 点, start: [39, 0], curveList: [{command: c, parameterList: [6, 4, 9, 10, 11, 18]}]}
-  - {feature: 横, start: [0, 19], curveList: [{command: h, parameterList: [97]}]}
-  - {feature: 竖, start: [19, 37], curveList: [{command: v, parameterList: [51]}]}
-  - {feature: 横折钩, start: [19, 40], curveList: [{command: h, parameterList: [60]}, {command: v, parameterList: [44]}]}
-  - {feature: 竖, start: [49, 19], curveList: [{command: v, parameterList: [80]}]}
+  - {feature: 点, start: [44, 3], curveList: [{command: c, parameterList: [2, 4, 5, 10, 6, 15]}]}
+  - {feature: 横, start: [7, 18], curveList: [{command: h, parameterList: [86]}]}
+  - {feature: 竖, start: [19, 38], curveList: [{command: v, parameterList: [42]}]}
+  - {feature: 横折钩, start: [19, 38], curveList: [{command: h, parameterList: [64]}, {command: v, parameterList: [42]}]}
+  - {feature: 竖, start: [50, 18], curveList: [{command: v, parameterList: [76]}]}
 师右:
   - {feature: 横, start: [37, 11], curveList: [{command: h, parameterList: [60]}]}
   - {feature: 竖, start: [43, 30], curveList: [{command: v, parameterList: [53]}]}
@@ -1393,37 +1393,37 @@
   - {feature: 点, start: [12, 33], curveList: [{command: c, parameterList: [-1, 8, -4, 15, -8, 21]}]}
   - {feature: 横钩, start: [10, 40], curveList: [{command: h, parameterList: [81]}]}
 干:
-  - {feature: 横, start: [13, 11], curveList: [{command: h, parameterList: [69]}]}
-  - {feature: 横, start: [0, 46], curveList: [{command: h, parameterList: [92]}]}
-  - {feature: 竖, start: [51, 11], curveList: [{command: v, parameterList: [86]}]}
+  - {feature: 横, start: [14, 11], curveList: [{command: h, parameterList: [72]}]}
+  - {feature: 横, start: [6, 46], curveList: [{command: h, parameterList: [88]}]}
+  - {feature: 竖, start: [50, 11], curveList: [{command: v, parameterList: [83]}]}
 平:
-  - {feature: 横, start: [6, 7], curveList: [{command: h, parameterList: [82]}]}
-  - {feature: 点, start: [14, 15], curveList: [{command: c, parameterList: [10, 7, 15, 16, 16, 26]}]}
-  - {feature: 撇, start: [77, 17], curveList: [{command: c, parameterList: [-5, 8, -11, 17, -19, 28]}]}
-  - {feature: 横, start: [2, 51], curveList: [{command: h, parameterList: [97]}]}
-  - {feature: 竖, start: [46, 7], curveList: [{command: v, parameterList: [92]}]}
+  - {feature: 横, start: [10, 11], curveList: [{command: h, parameterList: [80]}]}
+  - {feature: 点, start: [17, 23], curveList: [{command: c, parameterList: [5, 7, 10, 16, 12, 23]}]}
+  - {feature: 撇, start: [83, 22], curveList: [{command: c, parameterList: [-5, 8, -8, 17, -14, 24]}]}
+  - {feature: 横, start: [7, 56], curveList: [{command: h, parameterList: [86]}]}
+  - {feature: 竖, start: [50, 11], curveList: [{command: v, parameterList: [84]}]}
 年:
-  - {feature: 撇, start: [30, 2], curveList: [{command: c, parameterList: [-6, 14, -16, 29, -28, 45]}]}
-  - {feature: 横, start: [24, 17], curveList: [{command: h, parameterList: [71]}]}
-  - {feature: 横, start: [26, 40], curveList: [{command: h, parameterList: [63]}]}
-  - {feature: 竖, start: [26, 37], curveList: [{command: v, parameterList: [28]}]}
-  - {feature: 横, start: [2, 65], curveList: [{command: h, parameterList: [97]}]}
-  - {feature: 竖, start: [55, 17], curveList: [{command: v, parameterList: [82]}]}
+  - {feature: 撇, start: [29, 3], curveList: [{command: c, parameterList: [-3, 14, -13, 29, -21, 33]}]}
+  - {feature: 横, start: [24, 18], curveList: [{command: h, parameterList: [66]}]}
+  - {feature: 横, start: [26, 41], curveList: [{command: h, parameterList: [60]}]}
+  - {feature: 竖, start: [26, 41], curveList: [{command: v, parameterList: [29]}]}
+  - {feature: 横, start: [7, 70], curveList: [{command: h, parameterList: [86]}]}
+  - {feature: 竖, start: [56, 18], curveList: [{command: v, parameterList: [76]}]}
 并:
-  - {feature: 点, start: [23, 0], curveList: [{command: c, parameterList: [9, 7, 15, 14, 17, 21]}]}
-  - {feature: 撇, start: [72, 3], curveList: [{command: c, parameterList: [-6, 9, -10, 16, -14, 22]}]}
-  - {feature: 横, start: [6, 28], curveList: [{command: h, parameterList: [89]}]}
-  - {feature: 横, start: [2, 57], curveList: [{command: h, parameterList: [97]}]}
-  - {feature: 撇, start: [34, 28], curveList: [{command: c, parameterList: [10, 30, -1, 54, -33, 71]}]}
-  - {feature: 竖, start: [66, 28], curveList: [{command: v, parameterList: [71]}]}
+  - {feature: 点, start: [26, 4], curveList: [{command: c, parameterList: [7, 7, 9, 14, 11, 17]}]}
+  - {feature: 撇, start: [74, 3], curveList: [{command: c, parameterList: [-3, 9, -9, 19, -12, 23]}]}
+  - {feature: 横, start: [11, 26], curveList: [{command: h, parameterList: [78]}]}
+  - {feature: 横, start: [7, 56], curveList: [{command: h, parameterList: [86]}]}
+  - {feature: 撇, start: [34, 26], curveList: [{command: c, parameterList: [0, 30, 0, 54, -26, 67]}]}
+  - {feature: 竖, start: [67, 26], curveList: [{command: v, parameterList: [68]}]}
 幺:
-  - {feature: 撇折, start: [49, 4], curveList: [{command: c, parameterList: [-9, 12, -20, 27, -33, 44]}, {command: h, parameterList: [42]}]}
-  - {feature: 撇折, start: [76, 22], curveList: [{command: c, parameterList: [-20, 24, -40, 47, -61, 68]}, {command: h, parameterList: [63]}]}
-  - {feature: 点, start: [63, 65], curveList: [{command: c, parameterList: [12, 9, 19, 19, 21, 31]}]}
+  - {feature: 撇折, start: [51, 5], curveList: [{command: c, parameterList: [-9, 17, -20, 34, -31, 44]}, {command: h, parameterList: [35]}]}
+  - {feature: 撇折, start: [74, 24], curveList: [{command: c, parameterList: [-17, 24, -35, 47, -55, 63]}, {command: h, parameterList: [65]}]}
+  - {feature: 点, start: [67, 56], curveList: [{command: c, parameterList: [5, 9, 12, 19, 19, 37]}]}
 广:
-  - {feature: 点, start: [44, 0], curveList: [{command: c, parameterList: [6, 4, 10, 10, 11, 18]}]}
-  - {feature: 横, start: [17, 19], curveList: [{command: h, parameterList: [80]}]}
-  - {feature: 撇, start: [17, 17], curveList: [{command: c, parameterList: [5, 34, 0, 61, -15, 82]}]}
+  - {feature: 点, start: [48, 2], curveList: [{command: c, parameterList: [3, 4, 5, 8, 8, 15]}]}
+  - {feature: 横, start: [16, 17], curveList: [{command: h, parameterList: [77]}]}
+  - {feature: 撇, start: [16, 17], curveList: [{command: c, parameterList: [0, 34, 0, 61, -10, 77]}]}
 应内:
   - {feature: 点, start: [25, 40], curveList: [{command: c, parameterList: [6, 15, 11, 29, 15, 42]}]}
   - {feature: 点, start: [43, 30], curveList: [{command: c, parameterList: [8, 16, 13, 29, 13, 40]}]}
@@ -1445,49 +1445,49 @@
   - {feature: 横, start: [27, 78], curveList: [{command: h, parameterList: [50]}]}
   - {feature: 竖, start: [51, 21], curveList: [{command: v, parameterList: [71]}]}
 廴:
-  - {feature: 横折折撇, start: [4, 11], curveList: [{command: h, parameterList: [33]}, {command: l, parameterList: [-22, 32]}, {command: h, parameterList: [23]}, {command: c, parameterList: [-4, 24, -16, 42, -36, 54]}]}
-  - {feature: 捺, start: [13, 52], curveList: [{command: c, parameterList: [10, 34, 37, 47, 80, 39]}]}
+  - {feature: 横折折撇, start: [9, 12], curveList: [{command: h, parameterList: [24]}, {command: l, parameterList: [-20, 30]}, {command: h, parameterList: [21]}, {command: c, parameterList: [0, 4, 0, 36, -28, 50]}]}
+  - {feature: 捺, start: [10, 53], curveList: [{command: c, parameterList: [10, 33, 36, 36, 84, 40]}]}
 延内:
   - {feature: 撇, start: [90, 7], curveList: [{command: c, parameterList: [-16, 6, -32, 9, -48, 11]}]}
   - {feature: 竖, start: [71, 13], curveList: [{command: v, parameterList: [59]}]}
   - {feature: 横, start: [71, 42], curveList: [{command: h, parameterList: [23]}]}
   - {feature: 竖折, start: [50, 33], curveList: [{command: v, parameterList: [38]}, {command: h, parameterList: [46]}]}
 廾:
-  - {feature: 横, start: [3, 44], curveList: [{command: h, parameterList: [93]}]}
-  - {feature: 撇, start: [34, 6], curveList: [{command: c, parameterList: [8, 29, -1, 59, -27, 91]}]}
-  - {feature: 竖, start: [69, 5], curveList: [{command: v, parameterList: [94]}]}
+  - {feature: 横, start: [6, 43], curveList: [{command: h, parameterList: [88]}]}
+  - {feature: 撇, start: [33, 5], curveList: [{command: c, parameterList: [0, 35, 0, 70, -24, 88]}]}
+  - {feature: 竖, start: [70, 5], curveList: [{command: v, parameterList: [88]}]}
 廿:
-  - {feature: 横, start: [3, 28], curveList: [{command: h, parameterList: [90]}]}
-  - {feature: 竖, start: [29, 4], curveList: [{command: v, parameterList: [70]}]}
-  - {feature: 竖, start: [67, 5], curveList: [{command: v, parameterList: [72]}]}
-  - {feature: 横, start: [31, 68], curveList: [{command: h, parameterList: [35]}]}
+  - {feature: 横, start: [7, 28], curveList: [{command: h, parameterList: [86]}]}
+  - {feature: 竖, start: [28, 5], curveList: [{command: v, parameterList: [76]}]}
+  - {feature: 竖, start: [72, 5], curveList: [{command: v, parameterList: [76]}]}
+  - {feature: 横, start: [28, 81], curveList: [{command: h, parameterList: [44]}]}
 开:
-  - {feature: 横, start: [9, 11], curveList: [{command: h, parameterList: [84]}]}
-  - {feature: 横, start: [2, 49], curveList: [{command: h, parameterList: [97]}]}
-  - {feature: 撇, start: [34, 11], curveList: [{command: c, parameterList: [10, 39, 0, 68, -31, 86]}]}
-  - {feature: 竖, start: [65, 11], curveList: [{command: v, parameterList: [88]}]}
+  - {feature: 横, start: [13, 12], curveList: [{command: h, parameterList: [74]}]}
+  - {feature: 横, start: [6, 47], curveList: [{command: h, parameterList: [88]}]}
+  - {feature: 撇, start: [33, 12], curveList: [{command: c, parameterList: [0, 47, 0, 69, -23, 81]}]}
+  - {feature: 竖, start: [69, 12], curveList: [{command: v, parameterList: [81]}]}
 弋:
-  - {feature: 横, start: [3, 36], curveList: [{command: h, parameterList: [91]}]}
-  - {feature: 斜钩, start: [48, 2], curveList: [{command: c, parameterList: [-3, 52, 12, 83, 45, 94]}]}
-  - {feature: 点, start: [61, 9], curveList: [{command: c, parameterList: [8, 3, 13, 8, 15, 16]}]}
+  - {feature: 横, start: [7, 34], curveList: [{command: h, parameterList: [85]}]}
+  - {feature: 斜钩, start: [44, 4], curveList: [{command: c, parameterList: [0, 52, 12, 83, 46, 89]}]}
+  - {feature: 点, start: [60, 6], curveList: [{command: c, parameterList: [6, 3, 10, 8, 18, 16]}]}
 弓:
-  - {feature: 横折, start: [10, 9], curveList: [{command: h, parameterList: [61]}, {command: v, parameterList: [29]}]}
-  - {feature: 横, start: [19, 32], curveList: [{command: h, parameterList: [52]}]}
-  - {feature: 竖折折钩, start: [20, 29], curveList: [{command: v, parameterList: [25]}, {command: h, parameterList: [62]}, {command: v, parameterList: [39]}]}
+  - {feature: 横折, start: [19, 12], curveList: [{command: h, parameterList: [60]}, {command: v, parameterList: [23]}]}
+  - {feature: 横, start: [22, 35], curveList: [{command: h, parameterList: [57]}]}
+  - {feature: 竖折折钩, start: [22, 35], curveList: [{command: v, parameterList: [24]}, {command: h, parameterList: [61]}, {command: v, parameterList: [34]}]}
 弗:
-  - {feature: 横折, start: [8, 19], curveList: [{command: h, parameterList: [75]}, {command: v, parameterList: [25]}]}
+  - {feature: 横折, start: [11, 18], curveList: [{command: h, parameterList: [72]}, {command: v, parameterList: [20]}]}
   - {feature: 横, start: [15, 38], curveList: [{command: h, parameterList: [68]}]}
-  - {feature: 竖折折钩, start: [15, 35], curveList: [{command: v, parameterList: [24]}, {command: h, parameterList: [78]}, {command: v, parameterList: [23]}]}
-  - {feature: 撇, start: [38, 2], curveList: [{command: c, parameterList: [13, 46, 1, 79, -37, 97]}]}
-  - {feature: 竖, start: [61, 2], curveList: [{command: v, parameterList: [96]}]}
+  - {feature: 竖折折钩, start: [15, 38], curveList: [{command: v, parameterList: [20]}, {command: h, parameterList: [72]}, {command: v, parameterList: [26]}]}
+  - {feature: 撇, start: [38, 4], curveList: [{command: c, parameterList: [0, 46, 1, 79, -26, 89]}]}
+  - {feature: 竖, start: [60, 4], curveList: [{command: v, parameterList: [89]}]}
 弟:
-  - {feature: 点, start: [27, 0], curveList: [{command: c, parameterList: [7, 3, 10, 8, 10, 15]}]}
-  - {feature: 撇, start: [70, 3], curveList: [{command: c, parameterList: [-4, 4, -8, 10, -12, 16]}]}
-  - {feature: 横折, start: [10, 21], curveList: [{command: h, parameterList: [72]}, {command: v, parameterList: [23]}]}
-  - {feature: 横, start: [18, 40], curveList: [{command: h, parameterList: [63]}]}
-  - {feature: 竖折折钩, start: [17, 40], curveList: [{command: v, parameterList: [17]}, {command: h, parameterList: [72]}, {command: v, parameterList: [27]}]}
-  - {feature: 竖, start: [49, 22], curveList: [{command: v, parameterList: [77]}]}
-  - {feature: 撇, start: [44, 59], curveList: [{command: c, parameterList: [-11, 14, -26, 25, -44, 33]}]}
+  - {feature: 点, start: [29, 4], curveList: [{command: c, parameterList: [3, 3, 7, 8, 10, 13]}]}
+  - {feature: 撇, start: [69, 3], curveList: [{command: c, parameterList: [-2, 4, -5, 10, -11, 18]}]}
+  - {feature: 横折, start: [13, 21], curveList: [{command: h, parameterList: [67]}, {command: v, parameterList: [20]}]}
+  - {feature: 横, start: [16, 41], curveList: [{command: h, parameterList: [64]}]}
+  - {feature: 竖折折钩, start: [16, 41], curveList: [{command: v, parameterList: [19]}, {command: h, parameterList: [70]}, {command: v, parameterList: [25]}]}
+  - {feature: 竖, start: [50, 21], curveList: [{command: v, parameterList: [74]}]}
+  - {feature: 撇, start: [45, 60], curveList: [{command: c, parameterList: [-8, 14, -23, 25, -39, 31]}]}
 弟下:
   - {feature: 横折, start: [10, 21], curveList: [{command: h, parameterList: [72]}, {command: v, parameterList: [23]}]}
   - {feature: 横, start: [18, 40], curveList: [{command: h, parameterList: [63]}]}
@@ -1502,36 +1502,36 @@
   - {feature: 横钩, start: [7, 34], curveList: [{command: h, parameterList: [46]}]}
   - {feature: 横, start: [12, 45], curveList: [{command: h, parameterList: [33]}]}
 彐:
-  - {feature: 横折, start: [6, 13], curveList: [{command: h, parameterList: [78]}, {command: v, parameterList: [82]}]}
-  - {feature: 横, start: [12, 46], curveList: [{command: h, parameterList: [72]}]}
-  - {feature: 横, start: [6, 86], curveList: [{command: h, parameterList: [78]}]}
+  - {feature: 横折, start: [15, 15], curveList: [{command: h, parameterList: [65]}, {command: v, parameterList: [47]}]}
+  - {feature: 横, start: [18, 38], curveList: [{command: h, parameterList: [62]}]}
+  - {feature: 横, start: [14, 62], curveList: [{command: h, parameterList: [66]}]}
 录:
-  - {feature: 横折, start: [17, 7], curveList: [{command: h, parameterList: [55]}, {command: v, parameterList: [33]}]}
-  - {feature: 横, start: [21, 24], curveList: [{command: h, parameterList: [50]}]}
-  - {feature: 横, start: [4, 40], curveList: [{command: h, parameterList: [92]}]}
-  - {feature: 竖钩, start: [48, 41], curveList: [{command: v, parameterList: [57]}]}
-  - {feature: 点, start: [15, 47], curveList: [{command: c, parameterList: [8, 3, 12, 9, 12, 19]}]}
-  - {feature: 提, start: [4, 82], curveList: [{command: l, parameterList: [37, -18]}]}
-  - {feature: 撇, start: [82, 48], curveList: [{command: c, parameterList: [-6, 4, -13, 9, -19, 15]}]}
-  - {feature: 捺, start: [53, 47], curveList: [{command: c, parameterList: [6, 20, 19, 33, 37, 39]}]}
+  - {feature: 横折, start: [18, 10], curveList: [{command: h, parameterList: [54]}, {command: v, parameterList: [33]}]}
+  - {feature: 横, start: [22, 27], curveList: [{command: h, parameterList: [50]}]}
+  - {feature: 横, start: [8, 43], curveList: [{command: h, parameterList: [84]}]}
+  - {feature: 竖钩, start: [50, 43], curveList: [{command: v, parameterList: [51]}]}
+  - {feature: 点, start: [15, 52], curveList: [{command: c, parameterList: [5, 3, 12, 9, 16, 13]}]}
+  - {feature: 提, start: [8, 89], curveList: [{command: l, parameterList: [42, -30]}]}
+  - {feature: 撇, start: [82, 51], curveList: [{command: c, parameterList: [-1, 3, -7, 9, -21, 19]}]}
+  - {feature: 捺, start: [50, 58], curveList: [{command: c, parameterList: [6, 8, 18, 22, 42, 32]}]}
 彖:
-  - {feature: 竖折, start: [31, 3], curveList: [{command: v, parameterList: [20]}, {command: h, parameterList: [43]}]}
-  - {feature: 横折, start: [29, 11], curveList: [{command: h, parameterList: [41]}, {command: v, parameterList: [24]}]}
-  - {feature: 横, start: [0, 36], curveList: [{command: h, parameterList: [97]}]}
-  - {feature: 撇, start: [46, 36], curveList: [{command: c, parameterList: [-13, 12, -28, 20, -44, 25]}]}
-  - {feature: 弯钩, start: [38, 45], curveList: [{command: c, parameterList: [20, 14, 22, 31, 6, 52]}]}
-  - {feature: 撇, start: [45, 53], curveList: [{command: c, parameterList: [-10, 11, -25, 19, -43, 25]}]}
-  - {feature: 撇, start: [52, 67], curveList: [{command: c, parameterList: [-14, 12, -31, 21, -51, 27]}]}
-  - {feature: 撇, start: [80, 45], curveList: [{command: c, parameterList: [-8, 4, -16, 9, -25, 14]}]}
-  - {feature: 捺, start: [57, 58], curveList: [{command: c, parameterList: [9, 16, 21, 26, 36, 30]}]}
+  - {feature: 竖折, start: [28, 3], curveList: [{command: v, parameterList: [24]}, {command: h, parameterList: [43]}]}
+  - {feature: 横折, start: [28, 13], curveList: [{command: h, parameterList: [43]}, {command: v, parameterList: [26]}]}
+  - {feature: 横, start: [8, 39], curveList: [{command: h, parameterList: [84]}]}
+  - {feature: 撇, start: [46, 39], curveList: [{command: c, parameterList: [-10, 12, -26, 16, -35, 19]}]}
+  - {feature: 弯钩, start: [46, 39], curveList: [{command: c, parameterList: [12, 14, 15, 31, 15, 54]}]}
+  - {feature: 撇, start: [54, 51], curveList: [{command: c, parameterList: [-10, 9, -25, 17, -43, 22]}]}
+  - {feature: 撇, start: [59, 65], curveList: [{command: c, parameterList: [-14, 12, -33, 21, -49, 25]}]}
+  - {feature: 撇, start: [85, 47], curveList: [{command: c, parameterList: [-5, 4, -11, 9, -27, 16]}]}
+  - {feature: 捺, start: [68, 58], curveList: [{command: c, parameterList: [7, 16, 18, 26, 26, 30]}]}
 彖上:
   - {feature: 竖折, start: [31, 3], curveList: [{command: v, parameterList: [20]}, {command: h, parameterList: [43]}]}
   - {feature: 横折, start: [29, 11], curveList: [{command: h, parameterList: [41]}, {command: v, parameterList: [24]}]}
   - {feature: 横, start: [0, 36], curveList: [{command: h, parameterList: [97]}]}
 彡:
-  - {feature: 撇, start: [76, 4], curveList: [{command: c, parameterList: [-8, 11, -20, 22, -34, 33]}]}
-  - {feature: 撇, start: [82, 24], curveList: [{command: c, parameterList: [-8, 11, -22, 23, -40, 35]}]}
-  - {feature: 撇, start: [89, 49], curveList: [{command: c, parameterList: [-11, 18, -30, 34, -58, 48]}]}
+  - {feature: 撇, start: [71, 5], curveList: [{command: c, parameterList: [-8, 5, -20, 16, -52, 25]}]}
+  - {feature: 撇, start: [80, 31], curveList: [{command: c, parameterList: [-8, 5, -22, 17, -59, 27]}]}
+  - {feature: 撇, start: [87, 58], curveList: [{command: c, parameterList: [-11, 9, -30, 23, -71, 36]}]}
 彭左:
   - {feature: 横, start: [0, 10], curveList: [{command: h, parameterList: [55]}]}
   - {feature: 竖, start: [30, 2], curveList: [{command: v, parameterList: [17]}]}
@@ -1543,9 +1543,9 @@
   - {feature: 撇, start: [41, 40], curveList: [{command: c, parameterList: [-2, 1, -5, 3, -7, 7]}]}
   - {feature: 提, start: [3, 55], curveList: [{command: l, parameterList: [54, -9]}]}
 彳:
-  - {feature: 撇, start: [48, 3], curveList: [{command: c, parameterList: [-13, 15, -27, 26, -41, 33]}]}
-  - {feature: 撇, start: [54, 26], curveList: [{command: c, parameterList: [-14, 14, -30, 29, -50, 45]}]}
-  - {feature: 竖, start: [39, 46], curveList: [{command: v, parameterList: [52]}]}
+  - {feature: 撇, start: [69, 5], curveList: [{command: c, parameterList: [-13, 15, -39, 26, -49, 29]}]}
+  - {feature: 撇, start: [81, 28], curveList: [{command: c, parameterList: [-14, 14, -33, 24, -65, 34]}]}
+  - {feature: 竖, start: [51, 49], curveList: [{command: v, parameterList: [45]}]}
 得右:
   - {feature: 竖, start: [45, 5], curveList: [{command: v, parameterList: [35]}]}
   - {feature: 横折, start: [50, 8], curveList: [{command: h, parameterList: [32]}, {command: v, parameterList: [31]}]}
@@ -1565,20 +1565,20 @@
   - {feature: 横, start: [40, 49], curveList: [{command: h, parameterList: [48]}]}
   - {feature: 横, start: [30, 61], curveList: [{command: h, parameterList: [69]}]}
 心:
-  - {feature: 点, start: [13, 42], curveList: [{command: c, parameterList: [0, 16, -4, 26, -12, 30]}]}
-  - {feature: 竖弯钩, start: [32, 25], curveList: [{command: v, parameterList: [56]}, {command: h, parameterList: [39]}]}
-  - {feature: 点, start: [41, 5], curveList: [{command: c, parameterList: [9, 6, 15, 14, 17, 22]}]}
-  - {feature: 点, start: [71, 37], curveList: [{command: c, parameterList: [13, 8, 21, 16, 23, 26]}]}
+  - {feature: 点, start: [19, 38], curveList: [{command: c, parameterList: [-1, 6, -4, 21, -13, 40]}]}
+  - {feature: 竖弯钩, start: [33, 25], curveList: [{command: v, parameterList: [65]}, {command: h, parameterList: [39]}]}
+  - {feature: 点, start: [38, 6], curveList: [{command: c, parameterList: [9, 8, 15, 14, 23, 24]}]}
+  - {feature: 点, start: [75, 34], curveList: [{command: c, parameterList: [6, 8, 11, 16, 19, 39]}]}
 忄:
-  - {feature: 点, start: [20, 23], curveList: [{command: c, parameterList: [-3, 12, -6, 21, -10, 26]}]}
-  - {feature: 点, start: [35, 23], curveList: [{command: c, parameterList: [8, 2, 12, 8, 12, 17]}]}
-  - {feature: 竖, start: [30, 3], curveList: [{command: v, parameterList: [95]}]}
+  - {feature: 点, start: [15, 23], curveList: [{command: c, parameterList: [-1, 12, -3, 23, -8, 31]}]}
+  - {feature: 点, start: [37, 22], curveList: [{command: c, parameterList: [1, 2, 7, 13, 9, 23]}]}
+  - {feature: 竖, start: [27, 4], curveList: [{command: v, parameterList: [90]}]}
 必:
-  - {feature: 点, start: [15, 35], curveList: [{command: c, parameterList: [-1, 15, -4, 26, -9, 32]}]}
-  - {feature: 竖弯钩, start: [30, 19], curveList: [{command: v, parameterList: [66]}, {command: h, parameterList: [45]}]}
-  - {feature: 点, start: [38, 6], curveList: [{command: c, parameterList: [9, 5, 15, 11, 18, 18]}]}
-  - {feature: 撇, start: [78, 8], curveList: [{command: c, parameterList: [-14, 42, -40, 70, -78, 84]}]}
-  - {feature: 点, start: [75, 38], curveList: [{command: c, parameterList: [10, 8, 17, 17, 20, 27]}]}
+  - {feature: 点, start: [19, 35], curveList: [{command: c, parameterList: [-1, 9, -4, 23, -13, 39]}]}
+  - {feature: 竖弯钩, start: [33, 25], curveList: [{command: v, parameterList: [64]}, {command: h, parameterList: [40]}]}
+  - {feature: 点, start: [36, 6], curveList: [{command: c, parameterList: [7, 5, 12, 11, 20, 19]}]}
+  - {feature: 撇, start: [74, 8], curveList: [{command: c, parameterList: [-14, 49, -40, 75, -63, 84]}]}
+  - {feature: 点, start: [75, 36], curveList: [{command: c, parameterList: [5, 8, 12, 17, 19, 38]}]}
 总上:
   - {feature: 点, start: [26, 3], curveList: [{command: c, parameterList: [8, 3, 13, 9, 15, 18]}]}
   - {feature: 撇, start: [70, 4], curveList: [{command: c, parameterList: [-6, 6, -11, 13, -16, 19]}]}
@@ -1597,36 +1597,36 @@
   - {feature: 提, start: [6, 68], curveList: [{command: l, parameterList: [71, -6]}]}
   - {feature: 点, start: [69, 54], curveList: [{command: c, parameterList: [8, 5, 16, 12, 23, 20]}]}
 戈:
-  - {feature: 横, start: [6, 33], curveList: [{command: h, parameterList: [82]}]}
-  - {feature: 斜钩, start: [38, 7], curveList: [{command: c, parameterList: [-8, 37, 9, 66, 53, 88]}]}
-  - {feature: 撇, start: [75, 44], curveList: [{command: c, parameterList: [-16, 20, -37, 35, -65, 47]}]}
-  - {feature: 点, start: [58, 8], curveList: [{command: c, parameterList: [4, 1, 8, 4, 11, 10]}]}
+  - {feature: 横, start: [9, 33], curveList: [{command: h, parameterList: [83]}]}
+  - {feature: 斜钩, start: [44, 5], curveList: [{command: c, parameterList: [0, 51, 9, 80, 39, 89]}]}
+  - {feature: 撇, start: [84, 41], curveList: [{command: c, parameterList: [-16, 20, -37, 35, -71, 47]}]}
+  - {feature: 点, start: [63, 8], curveList: [{command: c, parameterList: [4, 1, 6, 4, 15, 12]}]}
 戊:
-  - {feature: 横, start: [15, 26], curveList: [{command: h, parameterList: [80]}]}
-  - {feature: 撇, start: [16, 23], curveList: [{command: c, parameterList: [4, 32, -1, 57, -15, 76]}]}
-  - {feature: 斜钩, start: [48, 2], curveList: [{command: c, parameterList: [-7, 47, 8, 78, 46, 93]}]}
-  - {feature: 撇, start: [79, 37], curveList: [{command: c, parameterList: [-11, 30, -32, 50, -64, 60]}]}
-  - {feature: 点, start: [63, 4], curveList: [{command: c, parameterList: [6, 3, 10, 7, 14, 13]}]}
+  - {feature: 横, start: [18, 24], curveList: [{command: h, parameterList: [75]}]}
+  - {feature: 撇, start: [18, 24], curveList: [{command: c, parameterList: [0, 32, 0, 53, -13, 69]}]}
+  - {feature: 斜钩, start: [54, 5], curveList: [{command: c, parameterList: [0, 47, 8, 78, 34, 88]}]}
+  - {feature: 撇, start: [84, 37], curveList: [{command: c, parameterList: [-11, 30, -32, 45, -57, 54]}]}
+  - {feature: 点, start: [69, 6], curveList: [{command: c, parameterList: [6, 3, 10, 7, 14, 13]}]}
 戋:
-  - {feature: 横, start: [6, 32], curveList: [{command: h, parameterList: [76]}]}
-  - {feature: 横, start: [2, 53], curveList: [{command: h, parameterList: [89]}]}
-  - {feature: 斜钩, start: [40, 2], curveList: [{command: c, parameterList: [-8, 53, 10, 85, 55, 96]}]}
-  - {feature: 撇, start: [80, 57], curveList: [{command: c, parameterList: [-24, 22, -50, 35, -78, 39]}]}
+  - {feature: 横, start: [12, 29], curveList: [{command: h, parameterList: [74]}]}
+  - {feature: 横, start: [9, 50], curveList: [{command: h, parameterList: [83]}]}
+  - {feature: 斜钩, start: [44, 5], curveList: [{command: c, parameterList: [0, 53, 10, 74, 41, 86]}]}
+  - {feature: 撇, start: [82, 54], curveList: [{command: c, parameterList: [-24, 22, -39, 27, -73, 36]}]}
   - {feature: 点, start: [55, 5], curveList: [{command: c, parameterList: [6, 3, 10, 7, 14, 12]}]}
 戌:
-  - {feature: 横, start: [19, 26], curveList: [{command: h, parameterList: [77]}]}
-  - {feature: 撇, start: [18, 23], curveList: [{command: c, parameterList: [4, 26, -1, 51, -15, 75]}]}
-  - {feature: 横, start: [19, 53], curveList: [{command: h, parameterList: [27]}]}
-  - {feature: 斜钩, start: [55, 2], curveList: [{command: c, parameterList: [-4, 57, 9, 87, 40, 89]}]}
-  - {feature: 撇, start: [81, 40], curveList: [{command: c, parameterList: [-12, 28, -29, 46, -53, 54]}]}
-  - {feature: 点, start: [69, 7], curveList: [{command: c, parameterList: [6, 2, 9, 7, 9, 13]}]}
+  - {feature: 横, start: [18, 24], curveList: [{command: h, parameterList: [75]}]}
+  - {feature: 撇, start: [18, 24], curveList: [{command: c, parameterList: [0, 26, 0, 50, -13, 70]}]}
+  - {feature: 横, start: [17, 54], curveList: [{command: h, parameterList: [30]}]}
+  - {feature: 斜钩, start: [57, 4], curveList: [{command: c, parameterList: [0, 57, 9, 77, 28, 89]}]}
+  - {feature: 撇, start: [85, 37], curveList: [{command: c, parameterList: [-12, 28, -29, 46, -53, 55]}]}
+  - {feature: 点, start: [71, 6], curveList: [{command: c, parameterList: [6, 5, 9, 7, 14, 13]}]}
 戍:
-  - {feature: 横, start: [18, 26], curveList: [{command: h, parameterList: [79]}]}
-  - {feature: 撇, start: [17, 24], curveList: [{command: c, parameterList: [6, 33, 0, 58, -17, 75]}]}
-  - {feature: 点, start: [28, 46], curveList: [{command: c, parameterList: [10, 4, 15, 11, 17, 19]}]}
-  - {feature: 斜钩, start: [55, 3], curveList: [{command: c, parameterList: [-6, 51, 8, 82, 42, 93]}]}
-  - {feature: 撇, start: [83, 36], curveList: [{command: c, parameterList: [-7, 28, -29, 48, -65, 60]}]}
-  - {feature: 点, start: [70, 4], curveList: [{command: c, parameterList: [6, 3, 9, 8, 10, 15]}]}
+  - {feature: 横, start: [18, 24], curveList: [{command: h, parameterList: [75]}]}
+  - {feature: 撇, start: [18, 24], curveList: [{command: c, parameterList: [0, 33, 0, 53, -13, 69]}]}
+  - {feature: 点, start: [18, 45], curveList: [{command: c, parameterList: [10, 4, 18, 12, 28, 19]}]}
+  - {feature: 斜钩, start: [57, 5], curveList: [{command: c, parameterList: [0, 51, 8, 82, 31, 87]}]}
+  - {feature: 撇, start: [84, 36], curveList: [{command: c, parameterList: [-7, 28, -29, 48, -53, 57]}]}
+  - {feature: 点, start: [71, 6], curveList: [{command: c, parameterList: [4, 3, 8, 8, 13, 12]}]}
 成:
   - {feature: 横, start: [16, 23], curveList: [{command: h, parameterList: [75]}]}
   - {feature: 撇, start: [16, 19], curveList: [{command: c, parameterList: [4, 33, 0, 58, -12, 74]}]}
